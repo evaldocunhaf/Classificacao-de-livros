@@ -1,0 +1,809 @@
+titulo,source,edition_id,work_id,idioma,cdd_true,cdd_pred,method,score_xlmr
+QEST 2009,openlibrary_editions_2026-08-31,/books/OL31051650M,/works/OL23216703W,/languages/eng,004.6,004,xlmr_attention,0.273847
+Sams teach yourself Notebook basics in 10 minutes,openlibrary_editions_2026-08-31,/books/OL399579M,/works/OL520179W,/languages/eng,004.16,004.16,xlmr_attention,0.764746
+Getting started with SAP Lumira,openlibrary_editions_2026-08-31,/books/OL31044330M,/works/OL23209775W,/languages/eng,006.31,006.6,xlmr_attention,0.305514
+3ds Max 5 bible,openlibrary_editions_2026-08-31,/books/OL3574559M,/works/OL5741194W,/languages/eng,006.69,006.69,xlmr_attention,0.989844
+Enhancing your Apple II,openlibrary_editions_2026-08-31,/books/OL3507866M,/works/OL2564120W,/languages/eng,001.64,004.16,xlmr_attention,0.875602
+Hard disk management with DOS,openlibrary_editions_2026-08-31,/books/OL2226995M,/works/OL15160795W,/languages/eng,005.74,005.44,xlmr_attention,0.980182
+Information theory for systems engineers,openlibrary_editions_2026-08-31,/books/OL4461251M,/works/OL6602040W,/languages/eng,001.53,001.53,xlmr_attention,0.920438
+Canadian archival studies and the rediscovery of provenance,openlibrary_editions_2026-08-31,/books/OL1404254M,/works/OL19216545W,/languages/eng,025.17,025.17,xlmr_attention,0.787529
+Constraint-based reasoning,openlibrary_editions_2026-08-31,/books/OL1412658M,/works/OL17832825W,/languages/eng,006.3,006.3,xlmr_attention,0.774483
+"Advanced Internet protocols, services, and applications",openlibrary_editions_2026-08-31,/books/OL25162394M,/works/OL16451203W,/languages/eng,004.6,004.67,xlmr_attention,0.431627
+SCO UNIX system administrator's guide.,openlibrary_editions_2026-08-31,/books/OL1737309M,/works/OL19210938W,/languages/eng,005.44,005.43,xlmr_attention,0.491648
+Micro computers,openlibrary_editions_2026-08-31,/books/OL19848082M,/works/OL12908662W,/languages/eng,001.64,004.16,xlmr_attention,0.890627
+Writing for the Web,openlibrary_editions_2026-08-31,/books/OL54032033M,/works/OL16495680W,/languages/eng,006.7,006.7,xlmr_attention,0.713645
+kaleidoscope of choices,openlibrary_editions_2026-08-31,/books/OL21935078M,/works/OL18807W,/languages/eng,025.17,025.34,xlmr_attention,0.763674
+Reference and information services in health sciences libraries,openlibrary_editions_2026-08-31,/books/OL1082084M,/works/OL19366950W,/languages/eng,025.52,025.52,xlmr_attention,0.887104
+Audit and trace log management,openlibrary_editions_2026-08-31,/books/OL3431410M,/works/OL5853041W,/languages/eng,005.8,005.74,xlmr_attention,0.766941
+The Loch Ness story,openlibrary_editions_2026-08-31,/books/OL4936149M,/works/OL6936077W,/languages/eng,001.94,001.94,xlmr_attention,0.902247
+Thésaurus.,openlibrary_editions_2026-08-31,/books/OL1951016M,/works/OL18258832W,/languages/fre,025.34,025.3,xlmr_attention,0.872056
+Internet and Intranet security,openlibrary_editions_2026-08-31,/books/OL22464330M,/works/OL2734181W,/languages/eng,005.8,005.8,xlmr_attention,0.833003
+The posthuman condition,openlibrary_editions_2026-08-31,/books/OL3319609M,/works/OL2425766W,/languages/eng,006.3,001.53,xlmr_attention,0.343453
+Global talk,openlibrary_editions_2026-08-31,/books/OL2944180M,/works/OL3747594W,/languages/eng,001.51,001.51,xlmr_attention,0.840025
+Methodology and validation,openlibrary_editions_2026-08-31,/books/OL2094590M,/works/OL4686915W,/languages/eng,001.43,001.43,xlmr_attention,0.85025
+Doing research at the Library of Congress,openlibrary_editions_2026-08-31,/books/OL875442M,/works/OL1685940W,/languages/eng,025.52,025.3,xlmr_attention,0.557295
+Directory of Soviet research organizations.,openlibrary_editions_2026-08-31,/books/OL5015680M,/works/OL2133491W,/languages/eng,001.43,001.43,xlmr_attention,0.785531
+Simulators IV,openlibrary_editions_2026-08-31,/books/OL2097529M,/works/OL4690066W,/languages/eng,001.43,001.43,xlmr_attention,0.929192
+Randomization and approximation techniques in computer science,openlibrary_editions_2026-08-31,/books/OL22444656M,/works/OL13588323W,/languages/eng,004.01,001.42,xlmr_attention,0.870168
+Dollars and sense,openlibrary_editions_2026-08-31,/books/OL2737740M,/works/OL19185074W,/languages/eng,025.52,025.3,xlmr_attention,0.38091
+Data structures & problem solving using Java,openlibrary_editions_2026-08-31,/books/OL24461624M,/works/OL15499709W,/languages/eng,005.13,005.13,xlmr_attention,0.57496
+Web service composition and new frameworks in designing semantics,openlibrary_editions_2026-08-31,/books/OL25270037M,/works/OL16585120W,/languages/eng,006.78,006.7,xlmr_attention,0.360628
+Glass & reflection,openlibrary_editions_2026-08-31,/books/OL854669M,/works/OL2629375W,/languages/eng,006.6,006.69,xlmr_attention,0.527508
+Short Order Macromedia Dreamweaver 4,openlibrary_editions_2026-08-31,/books/OL24766869M,/works/OL15857950W,/languages/eng,005.72,006.78,xlmr_attention,0.670828
+Rechner-Kommunikation für Anwender,openlibrary_editions_2026-08-31,/books/OL27084799M,/works/OL19899018W,/languages/ger,004.6,001.64,xlmr_attention,0.401155
+Qualitätssicherung bei Multimedia-Projekten,openlibrary_editions_2026-08-31,/books/OL27083919M,/works/OL19898032W,/languages/ger,006.7,006.7,xlmr_attention,0.92354
+Encyclopedic dictionary of semiotics,openlibrary_editions_2026-08-31,/books/OL22992611M,/works/OL8397795W,/languages/eng,001.51,001.51,xlmr_attention,0.99907
+Il sistema Z8000,openlibrary_editions_2026-08-31,/books/OL3241079M,/works/OL5651746W,/languages/ita,004.16,005.26,xlmr_attention,0.440726
+Outdoor and Large-Scale Real-World Scene Analysis,openlibrary_editions_2026-08-31,/books/OL27079466M,/works/OL19893135W,/languages/eng,006.6,006.6,xlmr_attention,0.536086
+Fault-tolerant parallel and distributed systems,openlibrary_editions_2026-08-31,/books/OL22348514M,/works/OL18257634W,/languages/eng,004.35,004.35,xlmr_attention,0.993073
+Visualizing abstract objects and relations,openlibrary_editions_2026-08-31,/books/OL2215454M,/works/OL4801277W,/languages/eng,006.6,006.6,xlmr_attention,0.950663
+Mac OS X Leopard bible,openlibrary_editions_2026-08-31,/books/OL23088607M,/works/OL16446446W,/languages/eng,005.44,005.44,xlmr_attention,0.926898
+Classification.,openlibrary_editions_2026-08-31,/books/OL5814235M,/works/OL4398462W,/languages/eng,025.46,025.46,xlmr_attention,0.992704
+Man and cosmos,openlibrary_editions_2026-08-31,/books/OL4565444M,/works/OL6687837W,/languages/eng,001.9,001.9,xlmr_attention,0.56842
+The nature of statistical learning theory,openlibrary_editions_2026-08-31,/books/OL25561488M,/works/OL16975337W,/languages/eng,006.31,006.31,xlmr_attention,0.702823
+Network information processing systems,openlibrary_editions_2026-08-31,/books/OL2185011M,/works/OL4772906W,/languages/eng,004.6,004.6,xlmr_attention,0.486339
+Unesco thesaurus,openlibrary_editions_2026-08-31,/books/OL4290198M,/works/OL926701W,/languages/eng,025.49,025.49,xlmr_attention,0.870605
+Google hacks,openlibrary_editions_2026-08-31,/books/OL18393261M,/works/OL1844890W,/languages/eng,025.04,006.31,xlmr_attention,0.593136
+Outline of four books defining Birth of a new age,openlibrary_editions_2026-08-31,/books/OL2731401M,/works/OL4623605W,/languages/eng,001.9,001.9,xlmr_attention,0.964397
+Intelligent decision systems,openlibrary_editions_2026-08-31,/books/OL2526962M,/works/OL5092128W,/languages/eng,006.33,006.33,xlmr_attention,0.786301
+How to use Internet Email,openlibrary_editions_2026-08-31,/books/OL977163M,/works/OL3261881W,/languages/eng,005.71,005.71,xlmr_attention,0.802157
+A planar geometrical model for representing multidimensional discrete spaces and multiple-valued logic functions,openlibrary_editions_2026-08-31,/books/OL25508760M,/works/OL16887272W,/languages/eng,001.64,006.3,xlmr_attention,0.425785
+Elements of computation theory,openlibrary_editions_2026-08-31,/books/OL23932057M,/works/OL16933413W,/languages/eng,004,001.53,xlmr_attention,0.493683
+How to succeed in business using LinkedIn,openlibrary_editions_2026-08-31,/books/OL19931032M,/works/OL282733W,/languages/eng,025.06,004.68,xlmr_attention,0.837014
+CD-ROM for library users,openlibrary_editions_2026-08-31,/books/OL611766M,/works/OL19288607W,/languages/eng,025.17,025.34,xlmr_attention,0.591349
+Extranet design and implementation,openlibrary_editions_2026-08-31,/books/OL706065M,/works/OL514011W,/languages/eng,004.6,004.6,xlmr_attention,0.562741
+Oracle 11g new features,openlibrary_editions_2026-08-31,/books/OL23908668M,/works/OL18583258W,/languages/eng,005.75,005.75,xlmr_attention,0.971461
+Image Sequence Processing and Dynamic Scene Analysis,openlibrary_editions_2026-08-31,/books/OL27044925M,/works/OL19856889W,/languages/eng,006.6,006.6,xlmr_attention,0.72662
+Commodore 64,openlibrary_editions_2026-08-31,/books/OL21130169M,/works/OL5598269W,/languages/eng,001.64,005.26,xlmr_attention,0.843431
+SQL server 2000 fast answers,openlibrary_editions_2026-08-31,/books/OL22650496M,/works/OL13644598W,/languages/eng,005.75,005.71,xlmr_attention,0.431091
+Catholic subject headings,openlibrary_editions_2026-08-31,/books/OL3828544M,/works/OL5004788W,/languages/eng,025.49,025.49,xlmr_attention,0.957884
+Inside Windows storage,openlibrary_editions_2026-08-31,/books/OL3686607M,/works/OL1897481W,/languages/eng,005.71,005.44,xlmr_attention,0.768927
+Excel 2002 formulas,openlibrary_editions_2026-08-31,/books/OL21997719M,/works/OL19488378W,/languages/eng,005.36,005.36,xlmr_attention,0.997967
+Macromedia Flash MX,openlibrary_editions_2026-08-31,/books/OL18962028M,/works/OL71191W,/languages/eng,006.78,006.69,xlmr_attention,0.515786
+The UK Internet book,openlibrary_editions_2026-08-31,/books/OL865200M,/works/OL3084626W,/languages/eng,025.04,004.67,xlmr_attention,0.748207
+To the cloud,openlibrary_editions_2026-08-31,/books/OL27174633M,/works/OL19994524W,/languages/eng,004.67,004.67,xlmr_attention,0.539051
+Architecture of a database system,openlibrary_editions_2026-08-31,/books/OL27017964M,/works/OL19827693W,/languages/eng,005.75,005.74,xlmr_attention,0.936879
+The digital photographer's guide to Photoshop Elements 4,openlibrary_editions_2026-08-31,/books/OL32093658M,/works/OL24260954W,/languages/eng,006.68,006.68,xlmr_attention,0.856515
+Multivariate Statistics and Machine Learning,openlibrary_editions_2026-08-31,/books/OL60829629M,/works/OL44546280W,/languages/eng,006.31,006.31,xlmr_attention,0.988656
+MCSA,openlibrary_editions_2026-08-31,/books/OL3702504M,/works/OL6044836W,/languages/eng,005.44,005.44,xlmr_attention,0.940041
+Algorithms,openlibrary_editions_2026-08-31,/books/OL27221630M,/works/OL20041597W,/languages/eng,005.1,004.01,xlmr_attention,0.564297
+Formal methods for open object-based distributed systems,openlibrary_editions_2026-08-31,/books/OL19142604M,/works/OL12655289W,/languages/eng,005.11,005.11,xlmr_attention,0.473057
+The process view of simulation,openlibrary_editions_2026-08-31,/books/OL4539536M,/works/OL6322792W,/languages/eng,001.42,001.43,xlmr_attention,0.81241
+Software process dynamics,openlibrary_editions_2026-08-31,/books/OL19520938M,/works/OL12568882W,/languages/eng,005.1,005.1,xlmr_attention,0.992684
+Wissenserwerb und Problemlösen bei der Mensch-Computer-Interaktion,openlibrary_editions_2026-08-31,/books/OL1621514M,/works/OL4193838W,/languages/ger,004.01,004.01,xlmr_attention,0.994812
+Random obsessions,openlibrary_editions_2026-08-31,/books/OL23186868M,/works/OL9472266W,/languages/eng,001.9,001.94,xlmr_attention,0.767126
+Mormons on the Internet,openlibrary_editions_2026-08-31,/books/OL692757M,/works/OL16035459W,/languages/eng,004.67,025.06,xlmr_attention,0.489297
+La prensa online,openlibrary_editions_2026-08-31,/books/OL4015445M,/works/OL6247805W,/languages/spa,025.06,001.51,xlmr_attention,0.296263
+Netscape Navigator 3 starter kit,openlibrary_editions_2026-08-31,/books/OL1016228M,/works/OL1688875W,/languages/eng,005.71,005.71,xlmr_attention,0.534045
+Qian ru shi ke pei zhi shi shi cao zuo xi tong eCos kai fa yu ying yong,openlibrary_editions_2026-08-31,/books/OL35741753M,/works/OL26454670W,/languages/chi,005.1,005.1,xlmr_attention,0.462336
+Development of statistical expert systems,openlibrary_editions_2026-08-31,/books/OL1657865M,/works/OL23397811W,/languages/eng,001.42,006.33,xlmr_attention,0.685652
+Implementation of a General-Purpose Dataflow Multiprocessor,openlibrary_editions_2026-08-31,/books/OL53289556M,/works/OL39145989W,/languages/eng,004.35,004.35,xlmr_attention,0.988383
+Cellular Automata,openlibrary_editions_2026-08-31,/books/OL27023500M,/works/OL19833624W,/languages/eng,004.01,001.42,xlmr_attention,0.309463
+Semiotics of programming,openlibrary_editions_2026-08-31,/books/OL24562198M,/works/OL15611990W,/languages/eng,004.01,006.3,xlmr_attention,0.418455
+"Memoria de la VI Reunión Nacional de Archivos Administrativos e Históricos, Estatales y Municipales.",openlibrary_editions_2026-08-31,/books/OL1583279M,/works/OL4148195W,/languages/spa,025.17,025.17,xlmr_attention,0.931826
+The curse of the pharaohs,openlibrary_editions_2026-08-31,/books/OL4591455M,/works/OL3757478W,/languages/eng | /languages/ger,001.94,001.94,xlmr_attention,0.682135
+Advances in databases,openlibrary_editions_2026-08-31,/books/OL988071M,/works/OL3280884W,/languages/eng,005.74,005.74,xlmr_attention,0.976499
+Using UML,openlibrary_editions_2026-08-31,/books/OL378389M,/works/OL1965070W,/languages/eng,005.11,005.11,xlmr_attention,0.84467
+Django 5 for the Impatient,openlibrary_editions_2026-08-31,/books/OL57749237M,/works/OL39129395W,/languages/eng,006.78,001.9,xlmr_attention,0.242366
+Secondary sources of research data,openlibrary_editions_2026-08-31,/books/OL2240723M,/works/OL3500838W,/languages/eng,025.04,001.42,xlmr_attention,0.937376
+Programming Microsoft Visual Basic .NET version 2003,openlibrary_editions_2026-08-31,/books/OL3690038M,/works/OL14866304W,/languages/eng,005.27,005.27,xlmr_attention,0.492644
+Safety on the Internet,openlibrary_editions_2026-08-31,/books/OL382901M,/works/OL27724W,/languages/eng,025.04,004.67,xlmr_attention,0.825622
+Logic programming,openlibrary_editions_2026-08-31,/books/OL2215747M,/works/OL17922696W,/languages/eng,005.1,005.1,xlmr_attention,0.467294
+Further computer contract,openlibrary_editions_2026-08-31,/books/OL21403742M,/works/OL12609888W,/languages/eng,004,001.64,xlmr_attention,0.404682
+Information technology--telecommunications and information exchange between systems--local and metropolitan area networks--specific requirements,openlibrary_editions_2026-08-31,/books/OL20839890M,/works/OL16921128W,/languages/eng,004.68,004.68,xlmr_attention,0.763792
+Compilers for parallel computers,openlibrary_editions_2026-08-31,/books/OL296052M,/works/OL23658431W,/languages/eng,004.35,004.35,xlmr_attention,0.950006
+Tools for mobile multimedia programming and development,openlibrary_editions_2026-08-31,/books/OL31125852M,/works/OL23281369W,/languages/eng,006.7,006.7,xlmr_attention,0.95176
+"Microsoft PowerPoint addendum for the Macintosh, version 3",openlibrary_editions_2026-08-31,/books/OL1135323M,/works/OL3550691W,/languages/eng,006.68,006.68,xlmr_attention,0.911925
+Deploying wireless LANs,openlibrary_editions_2026-08-31,/books/OL3579387M,/works/OL23791311W,/languages/eng,004.68,004.68,xlmr_attention,0.99862
+Manual de selección documental,openlibrary_editions_2026-08-31,/books/OL2925838M,/works/OL3390310W,/languages/spa,025.17,025.34,xlmr_attention,0.603904
+34th International Conference on Technology of Object-Oriented Languages and Systems,openlibrary_editions_2026-08-31,/books/OL6899250M,/works/OL7834006W,/languages/eng,005.11,005.11,xlmr_attention,0.822294
+Semantic Technology,openlibrary_editions_2026-08-31,/books/OL27087034M,/works/OL19901488W,/languages/eng,025.04,006.31,xlmr_attention,0.938752
+"Multimedia Communications, Services and Security",openlibrary_editions_2026-08-31,/books/OL27076189M,/works/OL19889504W,/languages/eng,006.6,006.6,xlmr_attention,0.5042
+Data mining,openlibrary_editions_2026-08-31,/books/OL22239271M,/works/OL8856081W,/languages/eng,005.74,006.31,xlmr_attention,0.945316
+The real monsters,openlibrary_editions_2026-08-31,/books/OL23392832M,/works/OL5713043W,/languages/eng,001.94,001.94,xlmr_attention,0.999577
+Digital document analysis and processing,openlibrary_editions_2026-08-31,/books/OL25025268M,/works/OL16142226W,/languages/eng,005.74,005.74,xlmr_attention,0.86118
+Advanced functional programming,openlibrary_editions_2026-08-31,/books/OL25155957M,/works/OL16441433W,/languages/eng,005.11,005.11,xlmr_attention,0.601014
+Mass media and the popular arts,openlibrary_editions_2026-08-31,/books/OL3504507M,/works/OL18966150W,/languages/eng,001.51,001.51,xlmr_attention,0.999584
+Introduction to the design and analysis of algorithms,openlibrary_editions_2026-08-31,/books/OL3561853M,/works/OL5840892W,/languages/eng,005.1,004.01,xlmr_attention,0.336478
+MC88200 cache,openlibrary_editions_2026-08-31,/books/OL1917188M,/works/OL19023614W,/languages/eng,004.16,001.64,xlmr_attention,0.195002
+"Sample survey practice and problems, with special reference to Africa",openlibrary_editions_2026-08-31,/books/OL3936826M,/works/OL5587172W,/languages/eng,001.43,001.43,xlmr_attention,0.777218
+Windows custom controls,openlibrary_editions_2026-08-31,/books/OL1526239M,/works/OL3600117W,/languages/eng,005.43,005.43,xlmr_attention,0.805618
+Libraries and literacy,openlibrary_editions_2026-08-31,/books/OL2436033M,/works/OL23001652W,/languages/eng,025.52,025.17,xlmr_attention,0.777666
+KI-98,openlibrary_editions_2026-08-31,/books/OL379764M,/works/OL1969984W,/languages/eng,006.3,001.53,xlmr_attention,0.857332
+PKI uncovered,openlibrary_editions_2026-08-31,/books/OL24906069M,/works/OL16001888W,/languages/eng,005.8,005.8,xlmr_attention,0.99975
+The logic of knowledge bases,openlibrary_editions_2026-08-31,/books/OL6780054M,/works/OL7796172W,/languages/eng,006.33,006.33,xlmr_attention,0.863829
+The dawning of curiosity,openlibrary_editions_2026-08-31,/books/OL4286030M,/works/OL18320606W,/languages/eng,001.9,001.9,xlmr_attention,0.543614
+Transmission of information by orthogonal functions.,openlibrary_editions_2026-08-31,/books/OL4433171M,/works/OL1994057W,/languages/eng,001.53,004.01,xlmr_attention,0.495653
+"HTML, CSS, and JavaScript Mobile Development for Dummies",openlibrary_editions_2026-08-31,/books/OL25567959M,/works/OL16987791W,/languages/eng,006.7,006.78,xlmr_attention,0.333022
+CD-ROMs rated,openlibrary_editions_2026-08-31,/books/OL1111801M,/works/OL467470W,/languages/eng,025.34,025.3,xlmr_attention,0.55034
+Model assisted survey sampling,openlibrary_editions_2026-08-31,/books/OL1530460M,/works/OL2883897W,/languages/eng,001.42,001.43,xlmr_attention,0.858951
+Mobile 3D graphics with OpenGL ES and M3G,openlibrary_editions_2026-08-31,/books/OL18018311M,/works/OL16970681W,/languages/eng,006.68,006.6,xlmr_attention,0.90545
+"Fact, fraud, and fantasy",openlibrary_editions_2026-08-31,/books/OL4567757M,/works/OL4977767W,/languages/eng,001.9,001.9,xlmr_attention,0.805699
+Beyond loop level parallelism in OpenMP,openlibrary_editions_2026-08-31,/books/OL25371628M,/works/OL16699378W,/languages/eng,005.27,004.35,xlmr_attention,0.785736
+JDBC 3.0,openlibrary_editions_2026-08-31,/books/OL22432412M,/works/OL2771180W,/languages/eng,005.27,006.78,xlmr_attention,0.358895
+PHP,openlibrary_editions_2026-08-31,/books/OL24965446M,/works/OL5854647W,/languages/eng,005.13,005.27,xlmr_attention,0.345397
+Abstract partitioning and routing of logic networks for custom module generation,openlibrary_editions_2026-08-31,/books/OL2497364M,/works/OL5068994W,/languages/eng,004,004.35,xlmr_attention,0.265941
+Microsoft Works 3.0,openlibrary_editions_2026-08-31,/books/OL1424413M,/works/OL3945506W,/languages/eng,005.36,005.26,xlmr_attention,0.728929
+Thesaurus construction,openlibrary_editions_2026-08-31,/books/OL1150167M,/works/OL3577255W,/languages/eng,025.49,025.49,xlmr_attention,0.680824
+"International Conference of the Cataloguing of Audiovisual Materials, London, 1973.",openlibrary_editions_2026-08-31,/books/OL4942374M,/works/OL6946986W,/languages/eng,025.34,025.34,xlmr_attention,0.998126
+Encyclopedia of information assurance,openlibrary_editions_2026-08-31,/books/OL24914636M,/works/OL16011093W,/languages/eng,005.8,005.8,xlmr_attention,0.853057
+Designing systems for people,openlibrary_editions_2026-08-31,/books/OL24876629M,/works/OL15970980W,/languages/eng,001.64,004.01,xlmr_attention,0.875361
+The book of the damned,openlibrary_editions_2026-08-31,/books/OL3558598M,/works/OL66059W,/languages/eng,001.94,001.94,xlmr_attention,0.563845
+Windows NT network management,openlibrary_editions_2026-08-31,/books/OL399346M,/works/OL2042102W,/languages/eng,005.44,005.44,xlmr_attention,0.943005
+La profezia delle civiltà perdute,openlibrary_editions_2026-08-31,/books/OL32764736M,/works/OL24685461W,/languages/ita,001.9,001.9,xlmr_attention,0.597965
+The Stephen Cobb complete book of PC and LAN security,openlibrary_editions_2026-08-31,/books/OL2225855M,/works/OL2984338W,/languages/eng,005.8,005.8,xlmr_attention,0.992317
+The unified modeling language,openlibrary_editions_2026-08-31,/books/OL20642946M,/works/OL13184993W,/languages/eng,005.11,005.11,xlmr_attention,0.618871
+10 minute guide to MS-DOS 6.2,openlibrary_editions_2026-08-31,/books/OL1441400M,/works/OL19475017W,/languages/eng,005.44,005.44,xlmr_attention,0.981987
+Certification study guide series,openlibrary_editions_2026-08-31,/books/OL23629859M,/works/OL18573882W,/languages/eng,005.1,005.1,xlmr_attention,0.552893
+The Harvard lampoon presents mediagate.,openlibrary_editions_2026-08-31,/books/OL2404469M,/works/OL16071974W,/languages/eng,001.51,001.51,xlmr_attention,0.779923
+Filing manual.,openlibrary_editions_2026-08-31,/books/OL6491959M,/works/OL6917324W,/languages/eng,025.3,005.72,xlmr_attention,0.375499
+Guida operativa alla descrizione archivistica,openlibrary_editions_2026-08-31,/books/OL3362528M,/works/OL5784905W,/languages/ita,025.34,025.34,xlmr_attention,0.993781
+Parallel execution of logic programs,openlibrary_editions_2026-08-31,/books/OL2733578M,/works/OL5274887W,/languages/eng,004.35,004.35,xlmr_attention,0.988942
+Reconfigurable massively parallel computers,openlibrary_editions_2026-08-31,/books/OL1860860M,/works/OL18177427W,/languages/eng,004.35,004.35,xlmr_attention,0.998211
+Practical research,openlibrary_editions_2026-08-31,/books/OL2038587M,/works/OL3253491W,/languages/eng,001.42,001.42,xlmr_attention,0.966069
+Legislative indexing vocabulary,openlibrary_editions_2026-08-31,/books/OL30508149M,/works/OL22419383W,/languages/eng,025.49,025.49,xlmr_attention,0.892146
+Blackberry Pearl for dummies,openlibrary_editions_2026-08-31,/books/OL20753423M,/works/OL16028674W,/languages/eng,004.16,004.16,xlmr_attention,0.660358
+The OPEN process framework,openlibrary_editions_2026-08-31,/books/OL22431108M,/works/OL2705192W,/languages/eng,005.11,005.11,xlmr_attention,0.533726
+Programming for minicomputers,openlibrary_editions_2026-08-31,/books/OL22641456M,/works/OL4293874W,/languages/eng,001.64,001.64,xlmr_attention,0.751363
+Windows XP SOS dépannage,openlibrary_editions_2026-08-31,/books/OL31934178M,/works/OL24189104W,/languages/fre,005.43,005.44,xlmr_attention,0.976937
+Handbook of operations research,openlibrary_editions_2026-08-31,/books/OL4552118M,/works/OL17079150W,/languages/eng,001.42,001.42,xlmr_attention,0.971493
+Great web architecture,openlibrary_editions_2026-08-31,/books/OL22632371M,/works/OL2619423W,/languages/eng,005.72,006.7,xlmr_attention,0.861876
+Create amazing Web pages with HTML simplified,openlibrary_editions_2026-08-31,/books/OL24623020M,/works/OL15697241W,/languages/eng,005.75,005.72,xlmr_attention,0.737042
+Beowulf Cluster Computing with Windows,openlibrary_editions_2026-08-31,/books/OL53240206M,/works/OL15158996W,/languages/eng,004.35,005.26,xlmr_attention,0.502216
+"The Bermuda Triangle, and other mysteries of nature",openlibrary_editions_2026-08-31,/books/OL4418633M,/works/OL1977142W,/languages/eng,001.94,001.94,xlmr_attention,0.943508
+Klassifikation für das Fachinformationswesen der Bundeswehr.,openlibrary_editions_2026-08-31,/books/OL4020469M,/works/OL23770051W,/languages/ger,025.46,025.46,xlmr_attention,0.977486
+MCSD FrontPage 98 study guide,openlibrary_editions_2026-08-31,/books/OL6898803M,/works/OL19530438W,/languages/eng,005.72,005.71,xlmr_attention,0.498242
+Persistent object systems,openlibrary_editions_2026-08-31,/books/OL1857720M,/works/OL4448195W,/languages/eng,005.1,005.11,xlmr_attention,0.884844
+Guidebook to cataloguing and classification for small public libraries.,openlibrary_editions_2026-08-31,/books/OL20023174M,/works/OL19260980W,/languages/eng,025.3,025.3,xlmr_attention,0.575154
+Visualizing technology,openlibrary_editions_2026-08-31,/books/OL25065020M,/works/OL16189016W,/languages/eng,004,001.42,xlmr_attention,0.487187
+Communications at the crossroads,openlibrary_editions_2026-08-31,/books/OL2049380M,/works/OL18305014W,/languages/eng,001.51,001.51,xlmr_attention,0.999125
+Getting started with Processing,openlibrary_editions_2026-08-31,/books/OL25079175M,/works/OL16216280W,/languages/eng,005.1,006.69,xlmr_attention,0.533215
+How to use Microsoft Excel 2000,openlibrary_editions_2026-08-31,/books/OL398931M,/works/OL19530059W,/languages/eng,005.36,005.36,xlmr_attention,0.998376
+Designed to delight,openlibrary_editions_2026-08-31,/books/OL2553204M,/works/OL5116527W,/languages/eng,025.52,025.17,xlmr_attention,0.374068
+dBASE IV 2.0 inside & out,openlibrary_editions_2026-08-31,/books/OL1039429M,/works/OL890671W,/languages/eng,005.75,005.74,xlmr_attention,0.620999
+The unidentified,openlibrary_editions_2026-08-31,/books/OL5250977M,/works/OL604051W,/languages/eng,001.94,001.94,xlmr_attention,0.960046
+Fundamentals of Digital Switching,openlibrary_editions_2026-08-31,/books/OL27040309M,/works/OL19851777W,/languages/eng,004.6,004.6,xlmr_attention,0.877556
+Ask Byte,openlibrary_editions_2026-08-31,/books/OL2752188M,/works/OL4118999W,/languages/eng,004.16,004.16,xlmr_attention,0.951736
+Computers in nursing's nurses' guide to the Internet,openlibrary_editions_2026-08-31,/books/OL994064M,/works/OL2736678W,/languages/eng,025.06,004.67,xlmr_attention,0.325761
+Mystères en pays d'Oc,openlibrary_editions_2026-08-31,/books/OL31499251M,/works/OL23761619W,/languages/fre,001.94,001.94,xlmr_attention,0.996536
+Tradigital Maya,openlibrary_editions_2026-08-31,/books/OL25060966M,/works/OL16184109W,/languages/eng,006.69,006.69,xlmr_attention,0.991915
+3D modeling construction kit,openlibrary_editions_2026-08-31,/books/OL994212M,/works/OL3292055W,/languages/eng,006.6,006.69,xlmr_attention,0.805205
+Running Microsoft Works 3 for the Apple Macintosh,openlibrary_editions_2026-08-31,/books/OL1550673M,/works/OL2000024W,/languages/eng,005.36,005.26,xlmr_attention,0.669162
+Comment informatiser une photothèque?,openlibrary_editions_2026-08-31,/books/OL2636385M,/works/OL18864450W,/languages/fre,025.34,025.34,xlmr_attention,0.937051
+Joomla! 3 beginner's guide,openlibrary_editions_2026-08-31,/books/OL30098280M,/works/OL19548174W,/languages/eng,006.78,006.78,xlmr_attention,0.640481
+Multimedia applications,openlibrary_editions_2026-08-31,/books/OL3302075M,/works/OL3752687W,/languages/eng,006.7,006.7,xlmr_attention,0.529817
+Classification. Class U: military science.,openlibrary_editions_2026-08-31,/books/OL6127248M,/works/OL4398452W,/languages/eng,025.46,025.46,xlmr_attention,0.994983
+NetTravel,openlibrary_editions_2026-08-31,/books/OL22208131M,/works/OL7524899W,/languages/eng,025.06,004.67,xlmr_attention,0.599863
+My first Internet guide,openlibrary_editions_2026-08-31,/books/OL17553239M,/works/OL15077649W,/languages/eng,004.67,004.67,xlmr_attention,0.692549
+Classification.,openlibrary_editions_2026-08-31,/books/OL5814211M,/works/OL4398462W,/languages/eng,025.46,025.46,xlmr_attention,0.992704
+Start your own information marketing business,openlibrary_editions_2026-08-31,/books/OL27149036M,/works/OL19968834W,/languages/eng,025.52,005.36,xlmr_attention,0.400881
+Cloud computing for science and engineering,openlibrary_editions_2026-08-31,/books/OL26939995M,/works/OL19726889W,/languages/eng,004.67,005.74,xlmr_attention,0.261042
+Using Novell Netware,openlibrary_editions_2026-08-31,/books/OL1534982M,/works/OL3293828W,/languages/eng,005.71,004.68,xlmr_attention,0.928553
+The traveler's web,openlibrary_editions_2026-08-31,/books/OL17562906M,/works/OL1985343W,/languages/eng,025.06,025.06,xlmr_attention,0.879874
+Handbook and guide for comparing and selecting computer languages,openlibrary_editions_2026-08-31,/books/OL2872717M,/works/OL19182315W,/languages/eng,005.13,001.64,xlmr_attention,0.907905
+"XML processing with Perl, Python, and PHP",openlibrary_editions_2026-08-31,/books/OL3958561M,/works/OL725926W,/languages/eng,005.72,005.27,xlmr_attention,0.306583
+Big book of FYI RFCs,openlibrary_editions_2026-08-31,/books/OL22406927M,/works/OL8856147W,/languages/eng,004.67,004.67,xlmr_attention,0.826909
+Essential Silverlight 3,openlibrary_editions_2026-08-31,/books/OL23961994M,/works/OL17895743W,/languages/eng,006.7,006.7,xlmr_attention,0.648803
+Object-Oriented Analysis and Design with Applications,openlibrary_editions_2026-08-31,/books/OL53912476M,/works/OL21460699W,/languages/eng,005.11,005.11,xlmr_attention,0.374831
+Routledge Guide to Interviewing,openlibrary_editions_2026-08-31,/books/OL54034813M,/works/OL21268703W,/languages/eng,001.43,025.34,xlmr_attention,0.571498
+Qualitative Data Analysis with Nvivo,openlibrary_editions_2026-08-31,/books/OL53243681M,/works/OL225156W,/languages/eng,001.42,001.42,xlmr_attention,0.81023
+Cloud computing,openlibrary_editions_2026-08-31,/books/OL23944202M,/works/OL15300845W,/languages/eng,006.78,004.67,xlmr_attention,0.286577
+Fundamentals of decision theory,openlibrary_editions_2026-08-31,/books/OL21702651M,/works/OL10651282W,/languages/eng,001.53,001.53,xlmr_attention,0.763487
+Inside Windows NT server,openlibrary_editions_2026-08-31,/books/OL791464M,/works/OL2031936W,/languages/eng,005.71,005.44,xlmr_attention,0.977283
+New generation computer systems,openlibrary_editions_2026-08-31,/books/OL20974930M,/works/OL4788844W,/languages/eng,004,001.64,xlmr_attention,0.870004
+Fireworks 3 bible,openlibrary_editions_2026-08-31,/books/OL24741024M,/works/OL15830577W,/languages/eng,006.68,006.68,xlmr_attention,0.722879
+Discrete mathematics,openlibrary_editions_2026-08-31,/books/OL1317779M,/works/OL3812044W,/languages/eng,004.01,004.01,xlmr_attention,0.881443
+Microsoft Excel 2000.,openlibrary_editions_2026-08-31,/books/OL112012M,/works/OL819585W,/languages/eng,005.36,005.36,xlmr_attention,0.999711
+Physics-based animation,openlibrary_editions_2026-08-31,/books/OL3402684M,/works/OL19417636W,/languages/eng,006.69,006.69,xlmr_attention,0.981268
+Managing and optimizing IBM INFORMIX Dynamic server 7.x databases,openlibrary_editions_2026-08-31,/books/OL31594015M,/works/OL23880802W,/languages/eng,005.75,005.71,xlmr_attention,0.466072
+Access 2000 for Windows,openlibrary_editions_2026-08-31,/books/OL6891105M,/works/OL18150178W,/languages/eng,005.75,005.75,xlmr_attention,0.972392
+Teach yourself JavaScript 1.1 in a week,openlibrary_editions_2026-08-31,/books/OL1016800M,/works/OL3000435W,/languages/eng,005.27,005.27,xlmr_attention,0.816885
+Structured problem solving with Pascal,openlibrary_editions_2026-08-31,/books/OL3500978M,/works/OL5911234W,/languages/eng,001.64,005.13,xlmr_attention,0.8392
+"Subjectivity, information, systems",openlibrary_editions_2026-08-31,/books/OL21810435M,/works/OL13471726W,/languages/eng,001.53,001.53,xlmr_attention,0.986238
+Oh! Macintosh Pascal!,openlibrary_editions_2026-08-31,/books/OL2481736M,/works/OL15055865W,/languages/eng,005.26,005.26,xlmr_attention,0.782001
+Customizing the Informix Dynamic server for your environment,openlibrary_editions_2026-08-31,/books/OL23552956M,/works/OL18737186W,/languages/eng,005.74,005.71,xlmr_attention,0.681938
+SAP Lumira essentials,openlibrary_editions_2026-08-31,/books/OL38214832M,/works/OL27960534W,/languages/eng,006.31,006.6,xlmr_attention,0.32581
+A performance monitor for parallel programs,openlibrary_editions_2026-08-31,/books/OL1875734M,/works/OL4467252W,/languages/eng,004.35,004.35,xlmr_attention,0.994937
+Digital computing and numerical methods,openlibrary_editions_2026-08-31,/books/OL5292582M,/works/OL4467590W,/languages/eng,001.64,001.64,xlmr_attention,0.304261
+Statistical policy in less developed countries,openlibrary_editions_2026-08-31,/books/OL4591040M,/works/OL6713715W,/languages/eng,001.42,001.42,xlmr_attention,0.947058
+IT strategies for information management,openlibrary_editions_2026-08-31,/books/OL2203327M,/works/OL4542224W,/languages/eng,025.52,025.06,xlmr_attention,0.692086
+Sams teach yourself Visual Basic 6 in 24 hours.,openlibrary_editions_2026-08-31,/books/OL22051540M,/works/OL843940W,/languages/eng,005.26,005.26,xlmr_attention,0.551884
+3D Studio MAX design guide,openlibrary_editions_2026-08-31,/books/OL613565M,/works/OL1638118W,/languages/eng,006.69,006.69,xlmr_attention,0.964856
+Microsoft Windows 2000 professional,openlibrary_editions_2026-08-31,/books/OL24616964M,/works/OL15688940W,/languages/eng,005.44,005.44,xlmr_attention,0.967089
+Chemicals on the Internet,openlibrary_editions_2026-08-31,/books/OL991122M,/works/OL2982399W,/languages/eng,025.06,004.67,xlmr_attention,0.384496
+Cooperative information agents II,openlibrary_editions_2026-08-31,/books/OL22483367M,/works/OL13595661W,/languages/eng,006.33,006.3,xlmr_attention,0.616709
+Logic program synthesis and transformation,openlibrary_editions_2026-08-31,/books/OL22495399M,/works/OL13598220W,/languages/eng,005.11,005.13,xlmr_attention,0.393771
+Crash go the chariots!,openlibrary_editions_2026-08-31,/books/OL5470066M,/works/OL2461307W,/languages/eng,001.94,001.94,xlmr_attention,0.957662
+Corporate author headings,openlibrary_editions_2026-08-31,/books/OL6264371M,/works/OL7475452W,/languages/eng,025.3,025.3,xlmr_attention,0.86349
+Virtualizing Hadoop,openlibrary_editions_2026-08-31,/books/OL60851115M,/works/OL20288337W,/languages/eng,005.43,004,xlmr_attention,0.440366
+Archival collections of non-book materials,openlibrary_editions_2026-08-31,/books/OL21663821M,/works/OL10634192W,/languages/eng,025.17,025.34,xlmr_attention,0.953224
+Macintosh graphics in Modula-2,openlibrary_editions_2026-08-31,/books/OL2531484M,/works/OL5095890W,/languages/eng,001.64,006.68,xlmr_attention,0.519218
+Reproducibility,openlibrary_editions_2026-08-31,/books/OL30400421M,/works/OL21572030W,/languages/eng,001.42,004,xlmr_attention,0.264397
+Communications for national development,openlibrary_editions_2026-08-31,/books/OL3498616M,/works/OL19169940W,/languages/eng,001.51,001.51,xlmr_attention,0.996371
+Head First WordPress,openlibrary_editions_2026-08-31,/books/OL25546578M,/works/OL16943297W,/languages/eng,006.7,006.7,xlmr_attention,0.635765
+Adobe Dreamweaver CS4.,openlibrary_editions_2026-08-31,/books/OL23913132M,/works/OL17807203W,/languages/eng,006.78,006.78,xlmr_attention,0.59149
+Web color expert,openlibrary_editions_2026-08-31,/books/OL3705002M,/works/OL5876684W,/languages/eng,005.72,006.7,xlmr_attention,0.433456
+Heading and canons,openlibrary_editions_2026-08-31,/books/OL19105236M,/works/OL356182W,/languages/eng,025.3,025.3,xlmr_attention,0.763369
+Structures and abstractions,openlibrary_editions_2026-08-31,/books/OL1431191M,/works/OL3927657W,/languages/eng,005.26,005.13,xlmr_attention,0.667672
+Qualitative Methods for Reasoning under Uncertainty,openlibrary_editions_2026-08-31,/books/OL53279821M,/works/OL9015274W,/languages/eng,006.33,006.3,xlmr_attention,0.498306
+Computers,openlibrary_editions_2026-08-31,/books/OL3182112M,/works/OL5605949W,/languages/eng,001.64,004,xlmr_attention,0.585116
+The Dataflex developer's handbook,openlibrary_editions_2026-08-31,/books/OL2401426M,/works/OL4982190W,/languages/eng,005.74,005.74,xlmr_attention,0.826842
+Serial connections,openlibrary_editions_2026-08-31,/books/OL2737512M,/works/OL18286702W,/languages/eng,025.34,025.34,xlmr_attention,0.757765
+Algorithmsin C[plus plus].,openlibrary_editions_2026-08-31,/books/OL22396853M,/works/OL1907096W,/languages/eng,005.13,005.13,xlmr_attention,0.84631
+Mule in action,openlibrary_editions_2026-08-31,/books/OL24463286M,/works/OL15501454W,/languages/eng,005.1,005.1,xlmr_attention,0.439943
+BCS-FACS Workshop on Formal Aspects of the Human Computer Interface,openlibrary_editions_2026-08-31,/books/OL19142583M,/works/OL12655286W,/languages/eng,005.43,004.01,xlmr_attention,0.826355
+Beginning Arduino,openlibrary_editions_2026-08-31,/books/OL25026275M,/works/OL16143236W,/languages/eng,005.26,005.11,xlmr_attention,0.46164
+The complete idiot's guide to creating a Web page,openlibrary_editions_2026-08-31,/books/OL22819251M,/works/OL2035389W,/languages/eng,005.72,006.7,xlmr_attention,0.733138
+Beyond the four dimensions,openlibrary_editions_2026-08-31,/books/OL4744313M,/works/OL6813416W,/languages/eng,001.9,001.94,xlmr_attention,0.823346
+"UNIX System V, release 4",openlibrary_editions_2026-08-31,/books/OL1979619M,/works/OL19449801W,/languages/eng,005.43,005.43,xlmr_attention,0.941253
+An introduction to computing using Microsoft Works for Macintosh version 2.0,openlibrary_editions_2026-08-31,/books/OL1600916M,/works/OL2431761W,/languages/eng,005.36,005.26,xlmr_attention,0.792904
+Eloquent Javascript,openlibrary_editions_2026-08-31,/books/OL55464305M,/works/OL15444205W,/languages/eng,005.13,005.27,xlmr_attention,0.972283
+Weird but true,openlibrary_editions_2026-08-31,/books/OL23622391M,/works/OL15746724W,/languages/eng,001.9,001.94,xlmr_attention,0.911084
+Effect of special procedures to improve coverage in the 1970 census.,openlibrary_editions_2026-08-31,/books/OL5059321M,/works/OL1368765W,/languages/eng,001.43,001.43,xlmr_attention,0.994956
+Mastering Windows XP Professional,openlibrary_editions_2026-08-31,/books/OL3316327M,/works/OL53639W,/languages/eng,005.44,005.44,xlmr_attention,0.978537
+Guide to the Excerpta Medica classification and indexing system.,openlibrary_editions_2026-08-31,/books/OL4491629M,/works/OL6635880W,/languages/eng,025.46,025.3,xlmr_attention,0.830114
+The Macintosh iLife '06,openlibrary_editions_2026-08-31,/books/OL24963759M,/works/OL16065735W,/languages/eng,006.78,005.26,xlmr_attention,0.418138
+Retrieval and organizational strategies in conceptual memory,openlibrary_editions_2026-08-31,/books/OL3182682M,/works/OL3945939W,/languages/eng,001.53,006.31,xlmr_attention,0.843493
+Cybernetic principles of learning and educational design,openlibrary_editions_2026-08-31,/books/OL5981103M,/works/OL7136750W,/languages/eng,001.53,001.53,xlmr_attention,0.927338
+Introduction à l'informatique,openlibrary_editions_2026-08-31,/books/OL20221083M,/works/OL13025278W,/languages/fre,004,001.64,xlmr_attention,0.593539
+Learning Microsoft Office XP,openlibrary_editions_2026-08-31,/books/OL3434656M,/works/OL2456163W,/languages/eng,005.36,005.36,xlmr_attention,0.960607
+Cloud enterprise architecture,openlibrary_editions_2026-08-31,/books/OL30660327M,/works/OL22640167W,/languages/eng,004.67,005.8,xlmr_attention,0.197147
+Streaming media server design,openlibrary_editions_2026-08-31,/books/OL3324155M,/works/OL19171411W,/languages/eng,006.78,006.78,xlmr_attention,0.783877
+Programming the Raspberry Pi,openlibrary_editions_2026-08-31,/books/OL27190783M,/works/OL17573905W,/languages/eng,005.13,005.13,xlmr_attention,0.324954
+Microsoft Powerpoint,openlibrary_editions_2026-08-31,/books/OL3963892M,/works/OL6221142W,/languages/eng,006.68,006.68,xlmr_attention,0.976275
+LAN wiring,openlibrary_editions_2026-08-31,/books/OL3429812M,/works/OL3356701W,/languages/eng,004.68,004.68,xlmr_attention,0.997434
+European Brewery Convention thesaurus.,openlibrary_editions_2026-08-31,/books/OL3073679M,/works/OL18909775W,/languages/dut,025.49,025.3,xlmr_attention,0.619363
+The media in Britain,openlibrary_editions_2026-08-31,/books/OL3172247M,/works/OL458448W,/languages/eng,001.51,001.51,xlmr_attention,0.997795
+Machinima for dummies,openlibrary_editions_2026-08-31,/books/OL24072377M,/works/OL15104525W,/languages/eng,006.69,006.69,xlmr_attention,0.952868
+Microsoft Exchange step by step,openlibrary_editions_2026-08-31,/books/OL815966M,/works/OL18938340W,/languages/eng,005.71,005.71,xlmr_attention,0.866692
+Efficient SAP NetWeaver BW implementation and upgrade guide,openlibrary_editions_2026-08-31,/books/OL24493800M,/works/OL15537217W,/languages/eng,005.74,005.74,xlmr_attention,0.924116
+Autonomic network management principles,openlibrary_editions_2026-08-31,/books/OL24914223M,/works/OL16010680W,/languages/eng,004.6,004.6,xlmr_attention,0.352114
+TechRef,openlibrary_editions_2026-08-31,/books/OL1024175M,/works/OL2081372W,/languages/eng,004.16,004.16,xlmr_attention,0.97739
+Electronic sources of information for business in Australia and New Zealand,openlibrary_editions_2026-08-31,/books/OL102313M,/works/OL815527W,/languages/eng,025.06,025.06,xlmr_attention,0.877251
+Classification.,openlibrary_editions_2026-08-31,/books/OL22143368M,/works/OL4398462W,/languages/eng,025.46,025.46,xlmr_attention,0.992704
+Introduction to MicroWorlds 2.0,openlibrary_editions_2026-08-31,/books/OL114609M,/works/OL875461W,/languages/eng,006.78,006.6,xlmr_attention,0.562285
+iPad in one hour for lawyers,openlibrary_editions_2026-08-31,/books/OL31017645M,/works/OL16134338W,/languages/eng,004.16,004.16,xlmr_attention,0.960702
+POPLINE thesaurus,openlibrary_editions_2026-08-31,/books/OL3793286M,/works/OL18333936W,/languages/eng,025.49,025.49,xlmr_attention,0.926928
+AOL's picture this,openlibrary_editions_2026-08-31,/books/OL44685M,/works/OL15122692W,/languages/eng,006.6,025.17,xlmr_attention,0.554862
+"Proceedings of the Workshop on Municipal and Regional Government Publications, October 17, 1977",openlibrary_editions_2026-08-31,/books/OL22349161M,/works/OL13575361W,/languages/eng,025.17,025.34,xlmr_attention,0.505555
+Cataloging with copy,openlibrary_editions_2026-08-31,/books/OL4875073M,/works/OL4625338W,/languages/eng,025.3,025.3,xlmr_attention,0.982064
+ProLISSA 2002,openlibrary_editions_2026-08-31,/books/OL45488349M,/works/OL33551559W,/languages/eng,025.52,025.06,xlmr_attention,0.453739
+The global course of the information revolution,openlibrary_editions_2026-08-31,/books/OL6893811M,/works/OL18335191W,/languages/eng,004.67,001.53,xlmr_attention,0.404031
+The Invisible Web,openlibrary_editions_2026-08-31,/books/OL3945179M,/works/OL5354405W,/languages/eng,025.04,025.04,xlmr_attention,0.64202
+Symposium on semantics of algorithmic languages,openlibrary_editions_2026-08-31,/books/OL4769244M,/works/OL16347952W,/languages/eng,001.64,001.64,xlmr_attention,0.415805
+Communication,openlibrary_editions_2026-08-31,/books/OL4106691M,/works/OL2924758W,/languages/eng,001.51,001.51,xlmr_attention,0.999732
+Object Recognition,openlibrary_editions_2026-08-31,/books/OL27078231M,/works/OL19891775W,/languages/eng,006.6,006.6,xlmr_attention,0.433962
+C[plus plus] programming and fundamental concepts,openlibrary_editions_2026-08-31,/books/OL22117355M,/works/OL13535363W,/languages/eng,005.11,005.13,xlmr_attention,0.854247
+Communicating with virtual worlds,openlibrary_editions_2026-08-31,/books/OL1402964M,/works/OL19216491W,/languages/eng,006.6,001.94,xlmr_attention,0.978006
+Harmonic 33,openlibrary_editions_2026-08-31,/books/OL4047774M,/works/OL6270121W,/languages/eng,001.9,001.94,xlmr_attention,0.923756
+Photoshop compositing with John Lund,openlibrary_editions_2026-08-31,/books/OL3324991M,/works/OL4299537W,/languages/eng,006.68,006.68,xlmr_attention,0.929766
+User-friendly computer interfaces,openlibrary_editions_2026-08-31,/books/OL2263720M,/works/OL3334661W,/languages/eng,004.01,005.43,xlmr_attention,0.396818
+Machine intelligence.,openlibrary_editions_2026-08-31,/books/OL22272491M,/works/OL19298515W,/languages/eng,006.3,001.53,xlmr_attention,0.65712
+Arquivo Joaquim Nabuco,openlibrary_editions_2026-08-31,/books/OL3085463M,/works/OL22712013W,/languages/por,025.34,001.42,xlmr_attention,0.928077
+The Poser 5 handbook,openlibrary_editions_2026-08-31,/books/OL3576687M,/works/OL16234189W,/languages/eng,006.69,006.69,xlmr_attention,0.982303
+The Feasibility of a European information system on trends in crime and criminal justice,openlibrary_editions_2026-08-31,/books/OL2936761M,/works/OL19379603W,/languages/eng,025.06,005.8,xlmr_attention,0.516878
+High speed local area networks,openlibrary_editions_2026-08-31,/books/OL2393686M,/works/OL4975457W,/languages/eng,004.68,004.68,xlmr_attention,0.973473
+Cisco IOS 12.0 quality of service,openlibrary_editions_2026-08-31,/books/OL52943M,/works/OL19240543W,/languages/eng,004.68,005.71,xlmr_attention,0.815585
+Algorithms--ESA '98,openlibrary_editions_2026-08-31,/books/OL374421M,/works/OL1947952W,/languages/eng,004.01,001.64,xlmr_attention,0.361631
+AST Premium II computers,openlibrary_editions_2026-08-31,/books/OL1289497M,/works/OL23470505W,/languages/eng,004.16,005.26,xlmr_attention,0.389212
+Supersticiones y creencias de Asturias,openlibrary_editions_2026-08-31,/books/OL3880088M,/works/OL4578368W,/languages/spa,001.9,001.9,xlmr_attention,0.9678
+U.F.O.s ... 20th century's greatest mystery,openlibrary_editions_2026-08-31,/books/OL5596715M,/works/OL7208970W,/languages/eng,001.9,001.94,xlmr_attention,0.948487
+Probabilistic networks and expert systems,openlibrary_editions_2026-08-31,/books/OL32059M,/works/OL18302418W,/languages/eng,006.33,006.33,xlmr_attention,0.87456
+Mensch und Roboter,openlibrary_editions_2026-08-31,/books/OL4969061M,/works/OL6964382W,/languages/ger,001.53,001.94,xlmr_attention,0.690197
+Windows 98 complete,openlibrary_editions_2026-08-31,/books/OL396425M,/works/OL15164863W,/languages/eng,005.44,005.44,xlmr_attention,0.991998
+NetWare training guide,openlibrary_editions_2026-08-31,/books/OL1404279M,/works/OL3455578W,/languages/eng,005.71,005.71,xlmr_attention,0.469659
+The Survey system,openlibrary_editions_2026-08-31,/books/OL16432329M,/works/OL19584214W,/languages/eng,001.43,001.43,xlmr_attention,0.802105
+C.D.U.,openlibrary_editions_2026-08-31,/books/OL3212191M,/works/OL22695029W,/languages/fre,025.49,025.3,xlmr_attention,0.662301
+Highway accident analysis systems,openlibrary_editions_2026-08-31,/books/OL3508480M,/works/OL3866794W,/languages/eng,025.06,025.06,xlmr_attention,0.40451
+The complete beginner's guide to the Atari portfolio,openlibrary_editions_2026-08-31,/books/OL1859559M,/works/OL4450018W,/languages/eng,004.16,005.26,xlmr_attention,0.899906
+Stupid beyond belief PC tricks,openlibrary_editions_2026-08-31,/books/OL1724520M,/works/OL518819W,/languages/eng,005.36,001.64,xlmr_attention,0.300546
+Strategic planning for information systems,openlibrary_editions_2026-08-31,/books/OL21474868M,/works/OL13392207W,/languages/eng,004,001.64,xlmr_attention,0.351882
+Computer arithmetic,openlibrary_editions_2026-08-31,/books/OL382505M,/works/OL1980445W,/languages/eng,004.01,001.64,xlmr_attention,0.819435
+Automated reasoning with analytic tableaux and related methods,openlibrary_editions_2026-08-31,/books/OL666310M,/works/OL2652339W,/languages/eng,006.33,006.3,xlmr_attention,0.439616
+Dummies 101.,openlibrary_editions_2026-08-31,/books/OL22315683M,/works/OL58756W,/languages/eng,005.72,005.72,xlmr_attention,0.713706
+Sams teach yourself Visual Basic 2010 in 24 hours complete,openlibrary_editions_2026-08-31,/books/OL24493705M,/works/OL15537120W,/languages/eng,006.78,005.26,xlmr_attention,0.725064
+SQL,openlibrary_editions_2026-08-31,/books/OL17031848M,/works/OL5800894W,/languages/eng,005.75,005.75,xlmr_attention,0.545653
+10 minute guide to HTML,openlibrary_editions_2026-08-31,/books/OL1016928M,/works/OL2033425W,/languages/eng,005.72,005.72,xlmr_attention,0.942267
+Programming massively parallel processors hands-on with CUDA,openlibrary_editions_2026-08-31,/books/OL24534786M,/works/OL15582675W,/languages/eng,004.35,004.35,xlmr_attention,0.990288
+Productivity software guide.,openlibrary_editions_2026-08-31,/books/OL1750941M,/works/OL521284W,/languages/eng,005.44,005.36,xlmr_attention,0.873659
+CCNP remote access study guide,openlibrary_editions_2026-08-31,/books/OL6900114M,/works/OL18154721W,/languages/eng,004.67,004.68,xlmr_attention,0.32817
+Techniques in computational learning,openlibrary_editions_2026-08-31,/books/OL1514361M,/works/OL890612W,/languages/eng,006.31,006.31,xlmr_attention,0.994836
+Object oriented data structures using Java,openlibrary_editions_2026-08-31,/books/OL3414150M,/works/OL71565W,/languages/eng,005.11,005.13,xlmr_attention,0.561395
+Deductive databases and logic programming,openlibrary_editions_2026-08-31,/books/OL1721494M,/works/OL4297128W,/languages/eng,006.33,005.74,xlmr_attention,0.481888
+Data entry applications for microcomputers,openlibrary_editions_2026-08-31,/books/OL1737868M,/works/OL4315259W,/languages/eng,005.72,005.74,xlmr_attention,0.434131
+"2012, the real story",openlibrary_editions_2026-08-31,/books/OL30427420M,/works/OL22345842W,/languages/eng,001.9,001.9,xlmr_attention,0.521492
+Historia Tesauro de la Unesco,openlibrary_editions_2026-08-31,/books/OL2299088M,/works/OL926701W,/languages/spa,025.49,025.49,xlmr_attention,0.936439
+Using microprocessors and microcomputers,openlibrary_editions_2026-08-31,/books/OL1434911M,/works/OL1865184W,/languages/eng,004.16,004.16,xlmr_attention,0.780032
+Introduction to library public services,openlibrary_editions_2026-08-31,/books/OL33493M,/works/OL37702W,/languages/eng,025.52,025.52,xlmr_attention,0.463414
+Essbase version 3.0,openlibrary_editions_2026-08-31,/books/OL631497M,/works/OL23635038W,/languages/eng,005.36,005.71,xlmr_attention,0.917214
+In search of semiotics,openlibrary_editions_2026-08-31,/books/OL16483963M,/works/OL5265448W,/languages/eng,001.51,001.51,xlmr_attention,0.999926
+Classification in the CHIN humanities databases,openlibrary_editions_2026-08-31,/books/OL20318351M,/works/OL12127034W,/languages/eng,025.06,025.46,xlmr_attention,0.517194
+Fachsystematik und Einzelsprachensystematik der Bibliothek des Instituts für Allgemeine Sprachwissenschaft der Westfälischen Wilhelms-Universität Münster,openlibrary_editions_2026-08-31,/books/OL2297201M,/works/OL4878386W,/languages/ger,025.49,025.3,xlmr_attention,0.472651
+Usability,openlibrary_editions_2026-08-31,/books/OL22724983M,/works/OL16500968W,/languages/eng,005.72,006.7,xlmr_attention,0.188833
+The book of Xen,openlibrary_editions_2026-08-31,/books/OL24585468M,/works/OL13841493W,/languages/eng,004.35,005.44,xlmr_attention,0.187841
+Mensch und Medien,openlibrary_editions_2026-08-31,/books/OL2457562M,/works/OL19375902W,/languages/ger | /languages/eng,001.51,001.51,xlmr_attention,0.999331
+The intent of creation,openlibrary_editions_2026-08-31,/books/OL4740916M,/works/OL6811574W,/languages/eng,001.9,001.9,xlmr_attention,0.956292
+LightWave 3D 8 texturing,openlibrary_editions_2026-08-31,/books/OL27071206M,/works/OL19884064W,/languages/eng,006.69,006.69,xlmr_attention,0.901857
+The JavaScript programming language,openlibrary_editions_2026-08-31,/books/OL22543417M,/works/OL13614569W,/languages/eng,005.27,005.27,xlmr_attention,0.854901
+Managing information security,openlibrary_editions_2026-08-31,/books/OL24494005M,/works/OL15537427W,/languages/eng,005.8,005.8,xlmr_attention,0.999951
+Programming for System 7,openlibrary_editions_2026-08-31,/books/OL1539513M,/works/OL4090965W,/languages/eng,005.26,005.44,xlmr_attention,0.909467
+Créer un site Internet,openlibrary_editions_2026-08-31,/books/OL22219953M,/works/OL9020802W,/languages/fre,005.72,006.7,xlmr_attention,0.745644
+Internet sources on each U.S. state,openlibrary_editions_2026-08-31,/books/OL3393370M,/works/OL19166460W,/languages/eng,025.06,025.04,xlmr_attention,0.819978
+Automating hazcom,openlibrary_editions_2026-08-31,/books/OL24058238M,/works/OL18678455W,/languages/eng,004.6,005.71,xlmr_attention,0.538482
+Quick course in Microsoft Internet Explorer 4,openlibrary_editions_2026-08-31,/books/OL707763M,/works/OL525295W,/languages/eng,005.71,005.71,xlmr_attention,0.904518
+An Australian archivist visits America,openlibrary_editions_2026-08-31,/books/OL57804511M,/works/OL42578737W,/languages/eng,025.17,025.34,xlmr_attention,0.801558
+Inside Designer,openlibrary_editions_2026-08-31,/books/OL2193903M,/works/OL4450605W,/languages/eng,006.68,006.6,xlmr_attention,0.600182
+Proceedings of the International Conference on Local-Area Networks,openlibrary_editions_2026-08-31,/books/OL1288693M,/works/OL3767465W,/languages/eng,004.68,004.68,xlmr_attention,0.989342
+Digital Libraries,openlibrary_editions_2026-08-31,/books/OL53964695M,/works/OL19021727W,/languages/eng,025.04,025.3,xlmr_attention,0.780817
+Kasparov versus Deep Blue,openlibrary_editions_2026-08-31,/books/OL27066331M,/works/OL19878933W,/languages/eng,004,004,xlmr_attention,0.62074
+Discrete mathematics,openlibrary_editions_2026-08-31,/books/OL24462407M,/works/OL15500503W,/languages/eng,004.01,004.01,xlmr_attention,0.8806
+Flash 8,openlibrary_editions_2026-08-31,/books/OL17924749M,/works/OL2765863W,/languages/eng,006.69,006.78,xlmr_attention,0.516538
+Secrets of Corel Painter experts,openlibrary_editions_2026-08-31,/books/OL25547083M,/works/OL16944231W,/languages/eng,006.68,006.68,xlmr_attention,0.803346
+GoLive 5.0,openlibrary_editions_2026-08-31,/books/OL30116017M,/works/OL22075075W,/languages/fre,005.36,006.78,xlmr_attention,0.859539
+Blackboard architectures and applications,openlibrary_editions_2026-08-31,/books/OL2197853M,/works/OL19195530W,/languages/eng,006.33,006.3,xlmr_attention,0.308772
+resonant interface,openlibrary_editions_2026-08-31,/books/OL17569222M,/works/OL12220893W,/languages/eng,004.01,004.01,xlmr_attention,0.80456
+Netware 4.1 survival guide,openlibrary_editions_2026-08-31,/books/OL1753627M,/works/OL512444W,/languages/eng,005.71,005.44,xlmr_attention,0.689139
+Photoshop Elements 8 for Windows,openlibrary_editions_2026-08-31,/books/OL24385173M,/works/OL15415823W,/languages/eng,006.68,006.68,xlmr_attention,0.898744
+"International Conference of the Cataloguing of Audiovisual Materials, London, 1973.",openlibrary_editions_2026-08-31,/books/OL22263122M,/works/OL6946986W,/languages/eng,025.34,025.34,xlmr_attention,0.998126
+The Linux bible,openlibrary_editions_2026-08-31,/books/OL1273087M,/works/OL15843804W,/languages/eng,005.43,005.43,xlmr_attention,0.780826
+Inferenzen in natürlichsprachlichen Systemen der KI,openlibrary_editions_2026-08-31,/books/OL3822521M,/works/OL16349644W,/languages/ger,001.53,001.53,xlmr_attention,0.756135
+JScript.NET programming,openlibrary_editions_2026-08-31,/books/OL22689842M,/works/OL8982348W,/languages/eng,005.27,005.27,xlmr_attention,0.910652
+Cataloguing rules.,openlibrary_editions_2026-08-31,/books/OL6387307M,/works/OL2866447W,/languages/eng,025.3,025.3,xlmr_attention,0.991851
+Running Windows NT version 3.1,openlibrary_editions_2026-08-31,/books/OL1419832M,/works/OL1844852W,/languages/eng,005.44,005.44,xlmr_attention,0.993875
+RQ,openlibrary_editions_2026-08-31,/books/OL47077332M,/works/OL34729927W,/languages/eng,025.52,025.52,xlmr_attention,0.563003
+The Visual Basic . NET coach,openlibrary_editions_2026-08-31,/books/OL18385679M,/works/OL5962281W,/languages/eng,005.27,005.26,xlmr_attention,0.585135
+Computer modellingfor discrete simulation,openlibrary_editions_2026-08-31,/books/OL22317500M,/works/OL19010404W,/languages/eng,001.42,001.43,xlmr_attention,0.824824
+"Theory of Quantum Computation, Communication, and Cryptography",openlibrary_editions_2026-08-31,/books/OL27091785M,/works/OL19906728W,/languages/eng,004.01,005.74,xlmr_attention,0.309924
+The psychology of human-computer interaction,openlibrary_editions_2026-08-31,/books/OL18742015M,/works/OL12518054W,/languages/eng,004.01,004.01,xlmr_attention,0.967401
+Sams teach yourself Web publishing with HTML and XHTML in 21 days,openlibrary_editions_2026-08-31,/books/OL6799886M,/works/OL2034082W,/languages/eng,005.72,005.72,xlmr_attention,0.918253
+Beginning ASP.NET 1.0 with Visual Basic .NET,openlibrary_editions_2026-08-31,/books/OL24739919M,/works/OL15187954W,/languages/eng,005.27,005.27,xlmr_attention,0.635461
+MCSE.,openlibrary_editions_2026-08-31,/books/OL713160M,/works/OL521339W,/languages/eng,004.6,005.44,xlmr_attention,0.473428
+"Library of Congress classification. PL-PM. Languages of Eastern Asia, Africa, Oceania. Hyperborean, Indian, and artificial languages",openlibrary_editions_2026-08-31,/books/OL3945577M,/works/OL39753W,/languages/eng,025.46,025.46,xlmr_attention,0.990298
+Simulation,openlibrary_editions_2026-08-31,/books/OL2040244M,/works/OL4628192W,/languages/eng,001.43,001.43,xlmr_attention,0.926492
+Hands-on Illustrator 7 for Macintosh and Windows,openlibrary_editions_2026-08-31,/books/OL681458M,/works/OL2619426W,/languages/eng,006.68,006.68,xlmr_attention,0.995923
+The Reliability of expert systems,openlibrary_editions_2026-08-31,/books/OL2195767M,/works/OL18856863W,/languages/eng,006.33,006.33,xlmr_attention,0.997665
+The way of Delphi,openlibrary_editions_2026-08-31,/books/OL967834M,/works/OL3238654W,/languages/eng,005.26,005.26,xlmr_attention,0.529124
+Using JavaScript,openlibrary_editions_2026-08-31,/books/OL705324M,/works/OL2760018W,/languages/eng,005.27,005.27,xlmr_attention,0.945255
+Library of Congress classification. Class H. Subclasses H-HJ. Social sciences. Economics. Fourth edition,openlibrary_editions_2026-08-31,/books/OL2191704M,/works/OL19481452W,/languages/eng,025.46,025.46,xlmr_attention,0.993695
+Our archives,openlibrary_editions_2026-08-31,/books/OL5350761M,/works/OL3804908W,/languages/eng,025.17,025.3,xlmr_attention,0.778345
+Fault-tolerant parallel and distributed systems,openlibrary_editions_2026-08-31,/books/OL691865M,/works/OL18257634W,/languages/eng,004.35,004.35,xlmr_attention,0.993073
+Topics in the General Theory of Structures,openlibrary_editions_2026-08-31,/books/OL27092295M,/works/OL19907293W,/languages/eng,004,001.53,xlmr_attention,0.52877
+Programmierung mit PASCAL,openlibrary_editions_2026-08-31,/books/OL27083174M,/works/OL19897204W,/languages/ger,005.13,001.64,xlmr_attention,0.670762
+The papers of the SIGCSE,openlibrary_editions_2026-08-31,/books/OL4440520M,/works/OL6587378W,/languages/eng,001.64,004,xlmr_attention,0.541419
+Indian census through a hundred years,openlibrary_editions_2026-08-31,/books/OL5403516M,/works/OL6996834W,/languages/eng,001.43,001.43,xlmr_attention,0.99097
+AppWare programming primer,openlibrary_editions_2026-08-31,/books/OL783041M,/works/OL2913463W,/languages/eng,005.26,005.1,xlmr_attention,0.69622
+Complete Flash remoting MX,openlibrary_editions_2026-08-31,/books/OL3575528M,/works/OL5748847W,/languages/eng,006.78,006.78,xlmr_attention,0.835962
+"UFOs, 1947-1987",openlibrary_editions_2026-08-31,/books/OL2078159M,/works/OL23042265W,/languages/eng,001.94,001.94,xlmr_attention,0.948795
+"4. Fachtagung ""Dokumenten- und Fakteninformation auf Rechenanlagen"", Leipzig, 18.5.-19.5.1983",openlibrary_editions_2026-08-31,/books/OL2939823M,/works/OL5417570W,/languages/ger,025.06,005.72,xlmr_attention,0.292001
+Artificial ants,openlibrary_editions_2026-08-31,/books/OL25041401M,/works/OL16161963W,/languages/eng,006.3,006.31,xlmr_attention,0.690865
+Social Media for Communication and Instruction in Academic Libraries,openlibrary_editions_2026-08-31,/books/OL56792092M,/works/OL20514810W,/languages/eng,025.52,025.04,xlmr_attention,0.271602
+Author headings for the official publications of the State of Wyoming.,openlibrary_editions_2026-08-31,/books/OL6089425M,/works/OL7453563W,/languages/eng,025.34,025.3,xlmr_attention,0.552557
+Advanced structured prediction,openlibrary_editions_2026-08-31,/books/OL31020193M,/works/OL23185857W,/languages/eng,006.31,006.31,xlmr_attention,0.706298
+Inside RRAS,openlibrary_editions_2026-08-31,/books/OL347353M,/works/OL490936W,/languages/eng,004.6,005.44,xlmr_attention,0.742441
+"Proceedings of the International Conference on Multimedia Computing and Systems, May 15-18, 1995, Washington, D.C.",openlibrary_editions_2026-08-31,/books/OL821763M,/works/OL3002281W,/languages/eng,006.6,006.7,xlmr_attention,0.588979
+Market information services,openlibrary_editions_2026-08-31,/books/OL2947342M,/works/OL5421646W,/languages/eng,025.06,001.42,xlmr_attention,0.691021
+Directory services,openlibrary_editions_2026-08-31,/books/OL22467239M,/works/OL2351960W,/languages/eng,005.71,025.04,xlmr_attention,0.657771
+Mathematical models for handling partial knowledge in artificial intelligence,openlibrary_editions_2026-08-31,/books/OL798521M,/works/OL18238854W,/languages/eng,006.33,006.3,xlmr_attention,0.892916
+"Research within the university, 1973-1976.",openlibrary_editions_2026-08-31,/books/OL4398644M,/works/OL6551549W,/languages/eng,001.43,001.42,xlmr_attention,0.745123
+"Advanced Web and Network Technologies, and Applications",openlibrary_editions_2026-08-31,/books/OL27014720M,/works/OL19824090W,/languages/eng,025.04,005.74,xlmr_attention,0.291032
+Dreamweaver MX 2004 for dummies,openlibrary_editions_2026-08-31,/books/OL3698639M,/works/OL523499W,/languages/eng,005.72,006.78,xlmr_attention,0.707817
+Technical support on the Web,openlibrary_editions_2026-08-31,/books/OL22043151M,/works/OL1930421W,/languages/eng,025.04,006.7,xlmr_attention,0.792328
+Programming the Apple IIGS in Assembly language,openlibrary_editions_2026-08-31,/books/OL2032021M,/works/OL4619502W,/languages/eng,005.26,005.26,xlmr_attention,0.674476
+Database management systems,openlibrary_editions_2026-08-31,/books/OL361548M,/works/OL1891910W,/languages/eng,005.74,005.74,xlmr_attention,0.974231
+Mac OS X 10.5 Leopard,openlibrary_editions_2026-08-31,/books/OL25552159M,/works/OL16954664W,/languages/ger,005.44,005.44,xlmr_attention,0.990878
+Hi tech world,openlibrary_editions_2026-08-31,/books/OL24117787M,/works/OL15026102W,/languages/eng,005.8,005.8,xlmr_attention,0.999349
+Instant Access databases,openlibrary_editions_2026-08-31,/books/OL22726147M,/works/OL6016629W,/languages/eng,005.75,005.75,xlmr_attention,0.919247
+A practical guide to research methods,openlibrary_editions_2026-08-31,/books/OL696912M,/works/OL2737875W,/languages/eng,001.42,001.42,xlmr_attention,0.966418
+The stargate conspiracy,openlibrary_editions_2026-08-31,/books/OL3629616M,/works/OL2148229W,/languages/eng,001.9,001.94,xlmr_attention,0.987983
+Para entrar en el siglo XXI,openlibrary_editions_2026-08-31,/books/OL2306616M,/works/OL3795527W,/languages/spa,001.51,001.51,xlmr_attention,0.615371
+Data base organization for data management,openlibrary_editions_2026-08-31,/books/OL14938586M,/works/OL5103565W,/languages/eng,005.74,005.74,xlmr_attention,0.99413
+The Windows interface,openlibrary_editions_2026-08-31,/books/OL1548142M,/works/OL19471892W,/languages/eng,005.43,005.43,xlmr_attention,0.853708
+Microsoft SQL Server 7.0 performance tuning technical reference,openlibrary_editions_2026-08-31,/books/OL49291M,/works/OL17875708W,/languages/eng,005.75,005.75,xlmr_attention,0.347044
+Programming 32-bit microcontrollers in C,openlibrary_editions_2026-08-31,/books/OL18590824M,/works/OL9487231W,/languages/eng,005.13,005.26,xlmr_attention,0.455969
+Introduction to programming with QuickBASIC,openlibrary_editions_2026-08-31,/books/OL1442228M,/works/OL3968681W,/languages/eng,005.26,005.26,xlmr_attention,0.550788
+Murach's ASP.NET,openlibrary_editions_2026-08-31,/books/OL3383366M,/works/OL1854356W,/languages/eng,005.27,005.27,xlmr_attention,0.944306
+Ajax,openlibrary_editions_2026-08-31,/books/OL18513701M,/works/OL814233W,/languages/eng,006.78,006.78,xlmr_attention,0.668204
+Linux administration,openlibrary_editions_2026-08-31,/books/OL25223249M,/works/OL16531668W,/languages/eng,005.43,005.43,xlmr_attention,0.950951
+PC magazine Windows rapid application development,openlibrary_editions_2026-08-31,/books/OL1527511M,/works/OL4074057W,/languages/eng,005.43,005.44,xlmr_attention,0.934872
+Learning to solve problems by searching for macro-operators,openlibrary_editions_2026-08-31,/books/OL3023161M,/works/OL5474788W,/languages/eng,001.53,006.3,xlmr_attention,0.668429
+Library of Congress classification. N. Fine arts,openlibrary_editions_2026-08-31,/books/OL24399967M,/works/OL15431346W,/languages/eng,025.46,025.46,xlmr_attention,0.995743
+Database machines and database management,openlibrary_editions_2026-08-31,/books/OL2531641M,/works/OL4798156W,/languages/eng,005.74,005.74,xlmr_attention,0.989451
+Outrageous Macintosh filters,openlibrary_editions_2026-08-31,/books/OL1279114M,/works/OL516251W,/languages/eng,006.68,004.16,xlmr_attention,0.562768
+Loislaw user's guide,openlibrary_editions_2026-08-31,/books/OL3304084M,/works/OL5728145W,/languages/eng,025.06,025.04,xlmr_attention,0.842395
+The ABC's of Microsoft Internet Explorer 3,openlibrary_editions_2026-08-31,/books/OL1016358M,/works/OL1633757W,/languages/eng,005.71,005.71,xlmr_attention,0.807296
+Die Proctor-Haeblersche Methode und der Versuch ihrer Widerlegung,openlibrary_editions_2026-08-31,/books/OL6761273M,/works/OL7257188W,/languages/ger,025.3,025.34,xlmr_attention,0.867433
+Network models and associated applications,openlibrary_editions_2026-08-31,/books/OL4258422M,/works/OL19330837W,/languages/eng,001.42,001.43,xlmr_attention,0.582866
+Adobe Photoshop CS6,openlibrary_editions_2026-08-31,/books/OL31102745M,/works/OL23262680W,/languages/eng,006.68,006.68,xlmr_attention,0.717263
+NetWare training guide,openlibrary_editions_2026-08-31,/books/OL1413203M,/works/OL3455578W,/languages/eng,004.68,005.71,xlmr_attention,0.469659
+Quick course in Microsoft Office 97,openlibrary_editions_2026-08-31,/books/OL680817M,/works/OL19025827W,/languages/eng,005.36,005.36,xlmr_attention,0.958369
+Newnes data communications,openlibrary_editions_2026-08-31,/books/OL22423496M,/works/OL10452801W,/languages/eng,004.6,004.6,xlmr_attention,0.975057
+I hate PCs,openlibrary_editions_2026-08-31,/books/OL1445537M,/works/OL1733891W,/languages/eng,004.16,004.16,xlmr_attention,0.930103
+UML distilled,openlibrary_editions_2026-08-31,/books/OL15558005M,/works/OL463953W,/languages/eng,005.11,005.11,xlmr_attention,0.937749
+Doing a literature search,openlibrary_editions_2026-08-31,/books/OL3960926M,/works/OL2014522W,/languages/eng,025.52,025.04,xlmr_attention,0.506766
+Bizarre America 2,openlibrary_editions_2026-08-31,/books/OL1330786M,/works/OL3828231W,/languages/eng,001.94,001.94,xlmr_attention,0.947176
+Immortality of the gods,openlibrary_editions_2026-08-31,/books/OL27224898M,/works/OL20044869W,/languages/eng,001.94,001.94,xlmr_attention,0.998343
+Guide to computer installations in Los Angeles County,openlibrary_editions_2026-08-31,/books/OL4442435M,/works/OL3769000W,/languages/eng,001.64,005.36,xlmr_attention,0.462061
+Medieval classification and cataloguing,openlibrary_editions_2026-08-31,/books/OL3233700M,/works/OL3687435W,/languages/eng,025.3,025.34,xlmr_attention,0.96949
+Starting out with programming logic & design,openlibrary_editions_2026-08-31,/books/OL24062218M,/works/OL15856834W,/languages/eng,005.1,005.1,xlmr_attention,0.685636
+ShaderX⁵,openlibrary_editions_2026-08-31,/books/OL17905024M,/works/OL5839823W,/languages/eng,006.69,006.6,xlmr_attention,0.654392
+Algorithms for visual design using the Processing language,openlibrary_editions_2026-08-31,/books/OL23180377M,/works/OL6027547W,/languages/eng,005.1,005.1,xlmr_attention,0.242324
+Audio visual library,openlibrary_editions_2026-08-31,/books/OL4460871M,/works/OL6601775W,/languages/eng,025.3,025.17,xlmr_attention,0.567936
+Flash character animation,openlibrary_editions_2026-08-31,/books/OL25559977M,/works/OL16972017W,/languages/eng,006.69,006.69,xlmr_attention,0.992015
+"Report on the 1968 IEEE Workshop on Pattern Recognition, Delft, the Netherlands, August 12-16, 1968",openlibrary_editions_2026-08-31,/books/OL5689361M,/works/OL7300791W,/languages/eng,001.53,001.53,xlmr_attention,0.478551
+Transputer research and applications 5,openlibrary_editions_2026-08-31,/books/OL1568934M,/works/OL4128963W,/languages/eng,004.35,004.35,xlmr_attention,0.994648
+The 8088 and 8086 microprocessors,openlibrary_editions_2026-08-31,/books/OL17347044M,/works/OL2664576W,/languages/eng,004.16,004.16,xlmr_attention,0.440498
+Unix survival guide,openlibrary_editions_2026-08-31,/books/OL20941394M,/works/OL13262629W,/languages/eng,005.44,005.43,xlmr_attention,0.8198
+Practical data mining,openlibrary_editions_2026-08-31,/books/OL25086871M,/works/OL16239689W,/languages/eng,006.31,006.31,xlmr_attention,0.965124
+Computers and thought,openlibrary_editions_2026-08-31,/books/OL2184670M,/works/OL1830257W,/languages/eng,006.3,001.53,xlmr_attention,0.902524
+Capability architectures and small objects,openlibrary_editions_2026-08-31,/books/OL3487297M,/works/OL5275677W,/languages/eng,001.64,001.64,xlmr_attention,0.380631
+Artificial intelligence,openlibrary_editions_2026-08-31,/books/OL2745110M,/works/OL5283382W,/languages/eng,006.3,006.33,xlmr_attention,0.685804
+Implementation of functional languages,openlibrary_editions_2026-08-31,/books/OL20642839M,/works/OL13184975W,/languages/eng,005.13,005.11,xlmr_attention,0.38795
+Hands-on mobile app testing,openlibrary_editions_2026-08-31,/books/OL27188711M,/works/OL20008625W,/languages/eng,006.3,004.16,xlmr_attention,0.545596
+Serial item identification,openlibrary_editions_2026-08-31,/books/OL1565906M,/works/OL19213200W,/languages/eng,025.34,025.34,xlmr_attention,0.73062
+Data communications networking devices,openlibrary_editions_2026-08-31,/books/OL2043823M,/works/OL58483W,/languages/eng,004.6,004.6,xlmr_attention,0.993305
+Monte Carlo Simulation im Operations Research,openlibrary_editions_2026-08-31,/books/OL4919721M,/works/OL3753887W,/languages/ger,001.42,001.43,xlmr_attention,0.72278
+Advanced SharePoint services solutions,openlibrary_editions_2026-08-31,/books/OL3436207M,/works/OL2037601W,/languages/eng,004.68,004.68,xlmr_attention,0.947611
+Evaluation of digital libraries,openlibrary_editions_2026-08-31,/books/OL31209349M,/works/OL23357399W,/languages/eng,025.04,025.3,xlmr_attention,0.702254
+Performance analysis of local computer networks,openlibrary_editions_2026-08-31,/books/OL2532835M,/works/OL5097417W,/languages/eng,004.68,004.68,xlmr_attention,0.941286
+Introduction to PCs first run,openlibrary_editions_2026-08-31,/books/OL1447392M,/works/OL14870697W,/languages/eng,004.16,004.16,xlmr_attention,0.7262
+Error control coding,openlibrary_editions_2026-08-31,/books/OL3301344M,/works/OL5724328W,/languages/eng,005.72,001.53,xlmr_attention,0.91969
+"UNIX, a database approach, featuring system V, release 4",openlibrary_editions_2026-08-31,/books/OL1088894M,/works/OL3474207W,/languages/eng,005.43,005.74,xlmr_attention,0.786131
+An Introduction to local area network concepts and terminology,openlibrary_editions_2026-08-31,/books/OL2628770M,/works/OL22876286W,/languages/eng,004.68,004.68,xlmr_attention,0.975624
+An introduction to artificial intelligence,openlibrary_editions_2026-08-31,/books/OL4722168M,/works/OL2763190W,/languages/eng,001.53,001.53,xlmr_attention,0.798743
+Computer-Aided Software Engineering (CASE).,openlibrary_editions_2026-08-31,/books/OL2128222M,/works/OL23041129W,/languages/eng,005.1,005.1,xlmr_attention,0.967357
+Teach yourself Microsoft Windows 2000 professional,openlibrary_editions_2026-08-31,/books/OL48167M,/works/OL16512734W,/languages/eng,005.44,005.44,xlmr_attention,0.985489
+Understanding & using Microsoft PowerPoint 97,openlibrary_editions_2026-08-31,/books/OL416131M,/works/OL2089902W,/languages/eng,006.68,006.68,xlmr_attention,0.981501
+Canadian MARC communication format,openlibrary_editions_2026-08-31,/books/OL4488482M,/works/OL19145272W,/languages/eng,025.34,025.34,xlmr_attention,0.995551
+"Manual del catálogo-diccionario, por Juan Vicéns de Lallave.",openlibrary_editions_2026-08-31,/books/OL6454216M,/works/OL7637422W,/languages/spa,025.3,025.3,xlmr_attention,0.992423
+The Sion revelation,openlibrary_editions_2026-08-31,/books/OL3429967M,/works/OL2148227W,/languages/eng,001.9,001.9,xlmr_attention,0.451589
+Trends in constraint programming,openlibrary_editions_2026-08-31,/books/OL17163486M,/works/OL19820846W,/languages/eng,005.11,005.13,xlmr_attention,0.325588
+Transmission of information by orthogonal functions,openlibrary_editions_2026-08-31,/books/OL4575523M,/works/OL1994057W,/languages/eng,001.53,004.01,xlmr_attention,0.438045
+"Proceedings of the Winter School on Conceptual Modelling, Visegrád, 27-30 January 1986",openlibrary_editions_2026-08-31,/books/OL2249506M,/works/OL4831668W,/languages/eng,005.74,005.74,xlmr_attention,0.967131
+Go!,openlibrary_editions_2026-08-31,/books/OL17439860M,/works/OL65156W,/languages/eng,004.16,005.71,xlmr_attention,0.893266
+Operating systems,openlibrary_editions_2026-08-31,/books/OL14889696M,/works/OL9305222W,/languages/eng,005.43,005.44,xlmr_attention,0.954716
+La programmation oriente e objet,openlibrary_editions_2026-08-31,/books/OL25555719M,/works/OL16962508W,/languages/fre,005.11,006.3,xlmr_attention,0.244351
+Advances in Knowledge Discovery and Data Mining,openlibrary_editions_2026-08-31,/books/OL27015084M,/works/OL19824533W,/languages/eng,006.31,006.31,xlmr_attention,0.949728
+SUSE Linux enterprise server administration (course 3037),openlibrary_editions_2026-08-31,/books/OL17157784M,/works/OL5744787W,/languages/eng,005.43,005.43,xlmr_attention,0.596379
+Mac software for pennies!,openlibrary_editions_2026-08-31,/books/OL2536933M,/works/OL5101468W,/languages/eng,005.36,004.16,xlmr_attention,0.448999
+Information systems assessment,openlibrary_editions_2026-08-31,/books/OL21433861M,/works/OL4978498W,/languages/eng,025.52,025.04,xlmr_attention,0.439143
+Google SketchUp 8 for dummies,openlibrary_editions_2026-08-31,/books/OL25540137M,/works/OL16928802W,/languages/eng,006.69,006.69,xlmr_attention,0.717045
+Excel for Windows 95 SmartStart,openlibrary_editions_2026-08-31,/books/OL821212M,/works/OL2995941W,/languages/eng,005.36,005.36,xlmr_attention,0.998423
+Entwicklung von Expertensystemen,openlibrary_editions_2026-08-31,/books/OL1292837M,/works/OL3773499W,/languages/ger,006.33,006.33,xlmr_attention,0.99601
+"SfB and its development, 1950-1980",openlibrary_editions_2026-08-31,/books/OL2943694M,/works/OL5419602W,/languages/eng,025.49,025.3,xlmr_attention,0.822467
+Ground water on-line thesaurus,openlibrary_editions_2026-08-31,/books/OL840190M,/works/OL3039431W,/languages/eng,025.49,025.49,xlmr_attention,0.9728
+I,openlibrary_editions_2026-08-31,/books/OL23980387M,/works/OL18549699W,/languages/eng,004.68,004.6,xlmr_attention,0.535271
+An introduction to VisiCalc matrixing for Apple and IBM,openlibrary_editions_2026-08-31,/books/OL3495379M,/works/OL5588351W,/languages/eng,001.64,005.26,xlmr_attention,0.666407
+ProComm plus for Windows 2.0.,openlibrary_editions_2026-08-31,/books/OL1233333M,/works/OL23555377W,/languages/eng,005.71,005.71,xlmr_attention,0.981509
+dBaseIII Plus handbook,openlibrary_editions_2026-08-31,/books/OL22321684M,/works/OL3802699W,/languages/eng,005.75,005.75,xlmr_attention,0.616142
+Computer science,openlibrary_editions_2026-08-31,/books/OL1849824M,/works/OL3275955W,/languages/eng,004,004,xlmr_attention,0.753303
+English alphabetical subject index to Universal Decimal Classification numbers used by the Bee Research Association in Apicultural Abstracts and in library subject indexes.,openlibrary_editions_2026-08-31,/books/OL5727275M,/works/OL6542874W,/languages/eng,025.46,025.46,xlmr_attention,0.858218
+Programming massively parallel processors hands-on with CUDA,openlibrary_editions_2026-08-31,/books/OL23980579M,/works/OL18558122W,/languages/eng,004.35,004.35,xlmr_attention,0.851114
+The college student's research companion,openlibrary_editions_2026-08-31,/books/OL6781195M,/works/OL2671942W,/languages/eng,025.52,025.3,xlmr_attention,0.51591
+Personal computer file compression,openlibrary_editions_2026-08-31,/books/OL21423060M,/works/OL58471W,/languages/eng,005.74,005.74,xlmr_attention,0.646064
+Build a web site now,openlibrary_editions_2026-08-31,/books/OL22650316M,/works/OL1880321W,/languages/eng,005.27,006.78,xlmr_attention,0.481185
+Web search garage,openlibrary_editions_2026-08-31,/books/OL3314912M,/works/OL1844889W,/languages/eng,025.04,025.04,xlmr_attention,0.743247
+Statistics,openlibrary_editions_2026-08-31,/books/OL24220536M,/works/OL15152928W,,001.42,001.42,xlmr_attention,0.968873
+Parcella '90,openlibrary_editions_2026-08-31,/books/OL1622669M,/works/OL4195047W,/languages/ger,004.35,004.35,xlmr_attention,0.990542
+The relational database dictionary,openlibrary_editions_2026-08-31,/books/OL25535130M,/works/OL16916948W,/languages/eng,005.75,005.75,xlmr_attention,0.465595
+Human computer interaction with mobile devices,openlibrary_editions_2026-08-31,/books/OL22480822M,/works/OL13594699W,/languages/eng,004.16,004.01,xlmr_attention,0.960092
+Knowledge engineering,openlibrary_editions_2026-08-31,/books/OL350373M,/works/OL1837567W,/languages/eng,006.33,006.33,xlmr_attention,0.596067
+Communication et réseaux de communications,openlibrary_editions_2026-08-31,/books/OL3910894M,/works/OL1416624W,/languages/fre,001.51,001.51,xlmr_attention,0.989504
+Emergence,openlibrary_editions_2026-08-31,/books/OL3165668M,/works/OL1947118W,/languages/eng,001.9,001.9,xlmr_attention,0.99677
+Interoperability for enterprise software and applications,openlibrary_editions_2026-08-31,/books/OL17909060M,/works/OL12278052W,/languages/eng,005.1,005.1,xlmr_attention,0.84584
+Data warehousing and knowledge discovery,openlibrary_editions_2026-08-31,/books/OL25337180M,/works/OL16661766W,/languages/eng,006.31,005.74,xlmr_attention,0.990801
+A first course in data processing,openlibrary_editions_2026-08-31,/books/OL4906790M,/works/OL2906661W,/languages/eng,001.64,005.36,xlmr_attention,0.379073
+UNIX desktop guide to tools,openlibrary_editions_2026-08-31,/books/OL1748610M,/works/OL4324952W,/languages/eng,005.43,005.43,xlmr_attention,0.705184
+Deep Learning with R Cookbook,openlibrary_editions_2026-08-31,/books/OL54047870M,/works/OL21685972W,/languages/eng,006.31,006.33,xlmr_attention,0.855055
+Introduction to Java programming,openlibrary_editions_2026-08-31,/books/OL3701132M,/works/OL114676W,/languages/eng,005.13,005.13,xlmr_attention,0.777309
+OSS essentials,openlibrary_editions_2026-08-31,/books/OL24787081M,/works/OL15878530W,/languages/eng,004.67,005.71,xlmr_attention,0.679462
+Stepping through Windows 3.1,openlibrary_editions_2026-08-31,/books/OL1750418M,/works/OL19211593W,/languages/eng,005.43,005.43,xlmr_attention,0.522342
+Biorhythm,openlibrary_editions_2026-08-31,/books/OL4874745M,/works/OL3965714W,/languages/eng,001.9,001.9,xlmr_attention,0.799985
+Advances in information retrieval,openlibrary_editions_2026-08-31,/books/OL25296773M,/works/OL16615374W,/languages/eng,005.74,005.74,xlmr_attention,0.610363
+Manual for cataloging non-book materials,openlibrary_editions_2026-08-31,/books/OL20096790M,/works/OL7036901W,/languages/eng,025.34,025.34,xlmr_attention,0.939742
+Classification.,openlibrary_editions_2026-08-31,/books/OL22321620M,/works/OL4398462W,/languages/eng,025.46,025.46,xlmr_attention,0.992704
+Cataloging manual for use in Vietnamese law libraries,openlibrary_editions_2026-08-31,/books/OL4939660M,/works/OL4811971W,/languages/eng,025.46,025.34,xlmr_attention,0.622741
+Microsoft Do it yourself,openlibrary_editions_2026-08-31,/books/OL23999469M,/works/OL16042847W,/languages/eng,005.44,005.44,xlmr_attention,0.96869
+NetWare training guide.,openlibrary_editions_2026-08-31,/books/OL1078818M,/works/OL3455578W,/languages/eng,005.71,004.68,xlmr_attention,0.489509
+ASUS Eee PC for Dummies,openlibrary_editions_2026-08-31,/books/OL23117149M,/works/OL5741059W,/languages/eng,004,004.16,xlmr_attention,0.969579
+From warehouse to powerhouse,openlibrary_editions_2026-08-31,/books/OL17582951M,/works/OL19246467W,/languages/eng,025.17,025.17,xlmr_attention,0.889296
+ValuePoint.,openlibrary_editions_2026-08-31,/books/OL840068M,/works/OL23577178W,/languages/eng,004.16,005.26,xlmr_attention,0.245915
+Introduction to designing and conducting research,openlibrary_editions_2026-08-31,/books/OL4421054M,/works/OL2917274W,/languages/eng,001.42,001.42,xlmr_attention,0.802263
+LAN performance,openlibrary_editions_2026-08-31,/books/OL988582M,/works/OL58468W,/languages/eng,004.68,004.68,xlmr_attention,0.953112
+Learning Works 3 for Windows,openlibrary_editions_2026-08-31,/books/OL862480M,/works/OL2208153W,/languages/eng,005.36,005.36,xlmr_attention,0.759777
+"Mysteries, a book of beliefs",openlibrary_editions_2026-08-31,/books/OL3789680M,/works/OL3538637W,/languages/eng,001.9,001.9,xlmr_attention,0.972145
+Técnica da pesquisa científica,openlibrary_editions_2026-08-31,/books/OL3034355M,/works/OL4712150W,/languages/por,001.43,001.42,xlmr_attention,0.873853
+The Turbo C++ trilogy,openlibrary_editions_2026-08-31,/books/OL2216364M,/works/OL4099211W,/languages/eng,005.26,005.13,xlmr_attention,0.901519
+Introduction to Scientific Programming,openlibrary_editions_2026-08-31,/books/OL27047063M,/works/OL19859225W,/languages/eng,005.11,005.1,xlmr_attention,0.793888
+Computers,openlibrary_editions_2026-08-31,/books/OL783269M,/works/OL2632095W,/languages/eng,004,004,xlmr_attention,0.934096
+Biometrics and identity management,openlibrary_editions_2026-08-31,/books/OL25015899M,/works/OL16131817W,/languages/eng,005.8,001.53,xlmr_attention,0.196414
+Disciplined agile delivery,openlibrary_editions_2026-08-31,/books/OL25323479M,/works/OL16645694W,/languages/eng,005.1,006.7,xlmr_attention,0.400593
+Computability,openlibrary_editions_2026-08-31,/books/OL27025665M,/works/OL19836068W,/languages/eng,004.01,001.64,xlmr_attention,0.337006
+Netscape and the World Wide Web for dummies,openlibrary_editions_2026-08-31,/books/OL822283M,/works/OL2040338W,/languages/eng,025.04,025.04,xlmr_attention,0.846117
+Operating DOS,openlibrary_editions_2026-08-31,/books/OL2289283M,/works/OL4869056W,/languages/eng,005.44,005.44,xlmr_attention,0.883329
+Geometric data structures for computer graphics,openlibrary_editions_2026-08-31,/books/OL3427317M,/works/OL5849523W,/languages/eng,006.6,006.6,xlmr_attention,0.917191
+Les meilleures astuces pour Windows 7,openlibrary_editions_2026-08-31,/books/OL25571572M,/works/OL16994613W,/languages/fre,005.43,005.44,xlmr_attention,0.840255
+Computer security,openlibrary_editions_2026-08-31,/books/OL23147892M,/works/OL18658397W,/languages/eng,005.8,005.8,xlmr_attention,0.999946
+Trends in information transfer,openlibrary_editions_2026-08-31,/books/OL22560481M,/works/OL19398443W,/languages/eng,001.51,001.42,xlmr_attention,0.32911
+Catholic subject headings,openlibrary_editions_2026-08-31,/books/OL6441027M,/works/OL5004788W,/languages/eng,025.3,025.49,xlmr_attention,0.957884
+Internet,openlibrary_editions_2026-08-31,/books/OL22425411M,/works/OL2994978W,/languages/eng,004.67,004.67,xlmr_attention,0.918378
+Dossier society,openlibrary_editions_2026-08-31,/books/OL2547232M,/works/OL19396997W,/languages/eng,025.06,005.8,xlmr_attention,0.899357
+Experimental design,openlibrary_editions_2026-08-31,/books/OL2537403M,/works/OL5101993W,/languages/eng,001.43,001.43,xlmr_attention,0.532536
+On measures of information and their characterizations,openlibrary_editions_2026-08-31,/books/OL5055464M,/works/OL4986775W,/languages/eng,001.53,001.53,xlmr_attention,0.968136
+Data Mining for Retail Website Design and Enhanced Marketing,openlibrary_editions_2026-08-31,/books/OL25551297M,/works/OL16952936W,/languages/eng,004,006.31,xlmr_attention,0.772036
+Mastering Borland C[plus plus],openlibrary_editions_2026-08-31,/books/OL21598338M,/works/OL12489965W,/languages/eng,005.26,005.13,xlmr_attention,0.932004
+Classification.,openlibrary_editions_2026-08-31,/books/OL22645997M,/works/OL4398462W,/languages/eng,025.46,025.46,xlmr_attention,0.992704
+ColdFusion 5 developer's guide,openlibrary_editions_2026-08-31,/books/OL3581445M,/works/OL5971514W,/languages/eng,005.75,005.75,xlmr_attention,0.345715
+BASIC technical systems simulation,openlibrary_editions_2026-08-31,/books/OL2040454M,/works/OL4628471W,/languages/eng,001.43,001.43,xlmr_attention,0.595743
+Reference services and media,openlibrary_editions_2026-08-31,/books/OL40017M,/works/OL21224384W,/languages/eng,025.52,025.52,xlmr_attention,0.893013
+Logic programming,openlibrary_editions_2026-08-31,/books/OL20374025M,/works/OL13070068W,/languages/eng,005.11,005.11,xlmr_attention,0.45985
+A classification of library & information science,openlibrary_editions_2026-08-31,/books/OL5254276M,/works/OL7118407W,/languages/eng,025.46,025.46,xlmr_attention,0.926047
+Corel gallery,openlibrary_editions_2026-08-31,/books/OL24947678M,/works/OL16047006W,/languages/eng,006.68,006.6,xlmr_attention,0.504397
+8086,openlibrary_editions_2026-08-31,/books/OL2406374M,/works/OL4284885W,/languages/eng,005.26,005.26,xlmr_attention,0.789882
+A history of UFO crashes,openlibrary_editions_2026-08-31,/books/OL1133777M,/works/OL553883W,/languages/eng,001.94,001.94,xlmr_attention,0.98442
+Computer animator,openlibrary_editions_2026-08-31,/books/OL45222M,/works/OL476089W,/languages/eng,006.69,006.69,xlmr_attention,0.970414
+Expert knowledge and explanation,openlibrary_editions_2026-08-31,/books/OL2210857M,/works/OL19396591W,/languages/eng,006.33,004.01,xlmr_attention,0.655708
+Negation and control in PROLOG,openlibrary_editions_2026-08-31,/books/OL2728134M,/works/OL5270883W,/languages/eng,005.13,005.13,xlmr_attention,0.622805
+Principles of Data Mining,openlibrary_editions_2026-08-31,/books/OL27082584M,/works/OL19896543W,/languages/eng,025.04,006.31,xlmr_attention,0.926434
+SharePoint 2007,openlibrary_editions_2026-08-31,/books/OL38568622M,/works/OL28172512W,/languages/fre,004.68,004.68,xlmr_attention,0.963644
+Wireless networks,openlibrary_editions_2026-08-31,/books/OL22666255M,/works/OL15057098W,/languages/eng,004.68,004.68,xlmr_attention,0.992195
+Big Humanities,openlibrary_editions_2026-08-31,/books/OL53958175M,/works/OL20252437W,/languages/eng,025.06,001.42,xlmr_attention,0.821434
+Skriptum Informatik,openlibrary_editions_2026-08-31,/books/OL27087824M,/works/OL19902367W,/languages/ger,004,004,xlmr_attention,0.917148
+PC tools 8 instant reference,openlibrary_editions_2026-08-31,/books/OL1748151M,/works/OL3904323W,/languages/eng,005.36,005.43,xlmr_attention,0.422431
+Artificial intelligence planning systems,openlibrary_editions_2026-08-31,/books/OL21933944M,/works/OL13501880W,/languages/eng,006.33,006.3,xlmr_attention,0.539302
+Effective management of local area networks,openlibrary_editions_2026-08-31,/books/OL974146M,/works/OL1808182W,/languages/eng,004.68,004.68,xlmr_attention,0.995636
+Categorical methods in computer science,openlibrary_editions_2026-08-31,/books/OL2200248M,/works/OL17902756W,/languages/eng,004.01,004.01,xlmr_attention,0.858386
+An index of current research in the social sciences 1968-1970,openlibrary_editions_2026-08-31,/books/OL4700320M,/works/OL6788386W,/languages/eng,001.43,001.42,xlmr_attention,0.621585
+Computer Graphics - Computer Art,openlibrary_editions_2026-08-31,/books/OL27026145M,/works/OL2395433W,/languages/eng,006.6,006.6,xlmr_attention,0.732276
+The Windows interface,openlibrary_editions_2026-08-31,/books/OL1198212M,/works/OL23548524W,/languages/eng,005.26,005.43,xlmr_attention,0.89452
+Library of Congress classification. PB-PH. Modern European languages,openlibrary_editions_2026-08-31,/books/OL3422446M,/works/OL39858W,/languages/eng,025.46,025.46,xlmr_attention,0.989605
+Understanding operating systems,openlibrary_editions_2026-08-31,/books/OL28412932M,/works/OL16931846W,/languages/eng,005.43,005.44,xlmr_attention,0.624799
+Conceptual structures,openlibrary_editions_2026-08-31,/books/OL22355897M,/works/OL13576234W,/languages/eng,006.33,006.33,xlmr_attention,0.372179
+The technology of video and audio streaming,openlibrary_editions_2026-08-31,/books/OL3295313M,/works/OL5715163W,/languages/eng,006.78,006.7,xlmr_attention,0.781822
+Advances in GIS research,openlibrary_editions_2026-08-31,/books/OL1118225M,/works/OL3522754W,/languages/eng,025.06,006.6,xlmr_attention,0.889663
+Practice using MS-DOS 5,openlibrary_editions_2026-08-31,/books/OL1446859M,/works/OL3974414W,/languages/eng,005.44,005.44,xlmr_attention,0.989858
+Xin xi an quan shu xue ji chu,openlibrary_editions_2026-08-31,/books/OL28049047M,/works/OL20738668W,/languages/chi,005.8,005.8,xlmr_attention,0.994344
+Warum ausgerechnet .NET?,openlibrary_editions_2026-08-31,/books/OL27095081M,/works/OL19910373W,/languages/ger,004,006.78,xlmr_attention,0.345789
+1999 IEEE Parallel Visualization and Graphics Symposium,openlibrary_editions_2026-08-31,/books/OL6897688M,/works/OL7833485W,/languages/eng,006.6,006.6,xlmr_attention,0.810893
+Antecedents of censuses from medieval to nation states,openlibrary_editions_2026-08-31,/books/OL30393954M,/works/OL22315826W,/languages/eng,001.43,001.43,xlmr_attention,0.984554
+Multilingual terminology for information communication technology,openlibrary_editions_2026-08-31,/books/OL30415782M,/works/OL22334810W,/languages/eng,004.01,006.7,xlmr_attention,0.425655
+Non-book materials in libraries,openlibrary_editions_2026-08-31,/books/OL22324634M,/works/OL10417858W,/languages/eng,025.17,025.34,xlmr_attention,0.988166
+Catalog of search terms for The Green book of songs by subject,openlibrary_editions_2026-08-31,/books/OL6889095M,/works/OL22116201W,/languages/eng,025.49,025.49,xlmr_attention,0.970868
+Java for students,openlibrary_editions_2026-08-31,/books/OL3431084M,/works/OL1961978W,/languages/eng,005.27,005.13,xlmr_attention,0.918589
+Cloud computing,openlibrary_editions_2026-08-31,/books/OL23988595M,/works/OL15300845W,/languages/eng,006.78,004.67,xlmr_attention,0.286577
+The SSCP prep guide,openlibrary_editions_2026-08-31,/books/OL3778316M,/works/OL6087333W,/languages/eng,005.8,005.8,xlmr_attention,0.985017
+Netscape Communicator 4 for dummies,openlibrary_editions_2026-08-31,/books/OL707989M,/works/OL2040333W,/languages/eng,005.71,005.71,xlmr_attention,0.607562
+Innovative Interaktionstechniken in der Visualisierung,openlibrary_editions_2026-08-31,/books/OL27045742M,/works/OL19857786W,/languages/ger,006.6,006.6,xlmr_attention,0.583629
+Ajax,openlibrary_editions_2026-08-31,/books/OL35339308M,/works/OL26189125W,/languages/fre,005.27,006.78,xlmr_attention,0.576541
+Image and Video Compression Standards,openlibrary_editions_2026-08-31,/books/OL27044937M,/works/OL19856902W,/languages/eng,006.6,006.6,xlmr_attention,0.774028
+"Lexique anglais-français du thésaurus ASFIS, et index français-anglais",openlibrary_editions_2026-08-31,/books/OL837396M,/works/OL23576739W,/languages/fre,025.49,025.49,xlmr_attention,0.884136
+Using Microsoft Works,openlibrary_editions_2026-08-31,/books/OL1721901M,/works/OL3367340W,/languages/eng,005.36,005.36,xlmr_attention,0.678855
+Routledge Guide to Interviewing,openlibrary_editions_2026-08-31,/books/OL53946041M,/works/OL21268703W,/languages/eng,001.43,025.34,xlmr_attention,0.571498
+Prospects for change in bibliographic control,openlibrary_editions_2026-08-31,/books/OL4554114M,/works/OL19142549W,/languages/eng,025.3,025.3,xlmr_attention,0.945444
+Localnet '84,openlibrary_editions_2026-08-31,/books/OL2568545M,/works/OL5132579W,/languages/eng,004.68,004.68,xlmr_attention,0.812179
+Map cataloging manual,openlibrary_editions_2026-08-31,/books/OL2029703M,/works/OL3485973W,/languages/eng,025.34,025.34,xlmr_attention,0.867624
+Chat reference,openlibrary_editions_2026-08-31,/books/OL3687166M,/works/OL6034777W,/languages/eng,025.52,025.52,xlmr_attention,0.779597
+Synchronisation in zentralisierten Datenbanksystemen,openlibrary_editions_2026-08-31,/books/OL27090461M,/works/OL19905300W,/languages/ger,005.74,005.74,xlmr_attention,0.980925
+The organization.,openlibrary_editions_2026-08-31,/books/OL4928111M,/works/OL6385435W,/languages/eng,001.53,001.53,xlmr_attention,0.545192
+Metadata,openlibrary_editions_2026-08-31,/books/OL30152355M,/works/OL11929125W,/languages/eng,025.3,025.3,xlmr_attention,0.385104
+The computer security handbook,openlibrary_editions_2026-08-31,/books/OL2534022M,/works/OL2766203W,/languages/eng,005.8,005.8,xlmr_attention,0.999902
+Object-oriented programming with C[plus plus] and OSF,openlibrary_editions_2026-08-31,/books/OL22117365M,/works/OL2846731W,/languages/eng,005.13,005.13,xlmr_attention,0.538716
+Late night ActiveX,openlibrary_editions_2026-08-31,/books/OL446486M,/works/OL2169614W,/languages/eng,005.27,005.27,xlmr_attention,0.592222
+World Wide Web design guide,openlibrary_editions_2026-08-31,/books/OL24739522M,/works/OL15828968W,/languages/eng,004.67,006.7,xlmr_attention,0.524396
+PL,openlibrary_editions_2026-08-31,/books/OL4268668M,/works/OL5274158W,/languages/eng,001.64,001.64,xlmr_attention,0.424251
+Poser 4 pro pack f,openlibrary_editions_2026-08-31,/books/OL24938536M,/works/OL16036746W,/languages/eng,006.69,006.69,xlmr_attention,0.75582
+Interactive distributed multimedia systems and telecommunication services,openlibrary_editions_2026-08-31,/books/OL376831M,/works/OL18220376W,/languages/eng,006.7,006.7,xlmr_attention,0.828395
+Content nation,openlibrary_editions_2026-08-31,/books/OL22795376M,/works/OL13655555W,/languages/eng,006.7,006.7,xlmr_attention,0.620832
+Thesaurus experimental de arquitetura,openlibrary_editions_2026-08-31,/books/OL2792644M,/works/OL5318550W,/languages/por,025.49,025.49,xlmr_attention,0.930471
+Access and identity management for libraries,openlibrary_editions_2026-08-31,/books/OL19556654M,/works/OL12807389W,/languages/eng,025.34,025.3,xlmr_attention,0.855198
+"Local area network, its significance in information system",openlibrary_editions_2026-08-31,/books/OL1685479M,/works/OL18887291W,/languages/eng,004.68,004.68,xlmr_attention,0.985044
+QuickBASIC fundamentals and style,openlibrary_editions_2026-08-31,/books/OL1879986M,/works/OL3494474W,/languages/eng,005.26,005.26,xlmr_attention,0.486871
+Nortel data networking technology,openlibrary_editions_2026-08-31,/books/OL31813322M,/works/OL24121933W,/languages/eng,004.68,004.68,xlmr_attention,0.85823
+Flash CS3 for dummies,openlibrary_editions_2026-08-31,/books/OL18406764M,/works/OL2250281W,/languages/eng,006.78,006.69,xlmr_attention,0.824216
+"Rationalisation of serial holdings and the use of the British Library, Lending Division (BLLD)",openlibrary_editions_2026-08-31,/books/OL4588645M,/works/OL4944604W,/languages/eng,025.17,025.34,xlmr_attention,0.859907
+TKE'90,openlibrary_editions_2026-08-31,/books/OL18543546M,/works/OL4154616W,/languages/eng,006.33,006.33,xlmr_attention,0.947529
+Unobtrusive evaluation of reference service and individual responsibility,openlibrary_editions_2026-08-31,/books/OL52146M,/works/OL511564W,/languages/eng,025.52,025.52,xlmr_attention,0.852091
+How to cheat in Maya 2012,openlibrary_editions_2026-08-31,/books/OL24853441M,/works/OL15947383W,/languages/eng,006.69,006.69,xlmr_attention,0.953652
+Artificial intelligence emerges,openlibrary_editions_2026-08-31,/books/OL2978702M,/works/OL5445477W,/languages/eng,001.53,001.53,xlmr_attention,0.823526
+Dreamweaver CS5 for dummies,openlibrary_editions_2026-08-31,/books/OL25343273M,/works/OL16668521W,/languages/eng,006.78,006.78,xlmr_attention,0.563146
+On to C,openlibrary_editions_2026-08-31,/books/OL1437103M,/works/OL2024370W,/languages/eng,005.13,005.13,xlmr_attention,0.880144
+The book of answers,openlibrary_editions_2026-08-31,/books/OL24202025M,/works/OL7957049W,,025.52,025.52,xlmr_attention,0.514533
+Wireless LANs,openlibrary_editions_2026-08-31,/books/OL535161M,/works/OL2359446W,/languages/eng,004.68,004.68,xlmr_attention,0.997975
+Learn BASIC now,openlibrary_editions_2026-08-31,/books/OL2194258M,/works/OL1807887W,/languages/eng,005.13,001.64,xlmr_attention,0.479381
+VSAM,openlibrary_editions_2026-08-31,/books/OL2187542M,/works/OL4775545W,/languages/eng,005.43,004,xlmr_attention,0.390379
+ToolTalk and open protocols,openlibrary_editions_2026-08-31,/books/OL1189282M,/works/OL3637317W,/languages/eng,005.71,005.1,xlmr_attention,0.563277
+System ohne Psyche,openlibrary_editions_2026-08-31,/books/OL2441287M,/works/OL5019163W,/languages/ger,001.51,001.51,xlmr_attention,0.993785
+The Mosaic roadmap,openlibrary_editions_2026-08-31,/books/OL818918M,/works/OL2996389W,/languages/eng,025.04,005.71,xlmr_attention,0.791082
+Beginning C# 2008,openlibrary_editions_2026-08-31,/books/OL24420198M,/works/OL15453128W,/languages/eng,005.11,005.13,xlmr_attention,0.884412
+Report,openlibrary_editions_2026-08-31,/books/OL5723963M,/works/OL18847038W,/languages/eng,025.3,025.3,xlmr_attention,0.966369
+The semiotic engineering of human-computer interaction,openlibrary_editions_2026-08-31,/books/OL25539864M,/works/OL16928205W,/languages/eng,004.01,004.01,xlmr_attention,0.975342
+Atlantida; a case study in household sample surveys.,openlibrary_editions_2026-08-31,/books/OL4692195M,/works/OL6781532W,/languages/eng,001.43,001.43,xlmr_attention,0.979151
+Proceedings,openlibrary_editions_2026-08-31,/books/OL18807081M,/works/OL12514621W,/languages/eng,005.13,001.64,xlmr_attention,0.61908
+Strange mysteries from around the world,openlibrary_editions_2026-08-31,/books/OL4404140M,/works/OL118055W,/languages/eng,001.94,001.94,xlmr_attention,0.981576
+Porter's Programs for the Apple® II family,openlibrary_editions_2026-08-31,/books/OL2612068M,/works/OL4649223W,/languages/eng,005.26,005.26,xlmr_attention,0.560017
+Finance and information,openlibrary_editions_2026-08-31,/books/OL4271406M,/works/OL815497W,/languages/eng,001.51,001.51,xlmr_attention,0.906672
+Microsoft Sharepoint 2010 business intelligence unleashed,openlibrary_editions_2026-08-31,/books/OL24847670M,/works/OL15941600W,/languages/eng,006.78,006.3,xlmr_attention,0.353458
+MCTS self-paced training kit (exam 70-445) MCTS self-paced training kit (exam 70-445),openlibrary_editions_2026-08-31,/books/OL22499720M,/works/OL18803469W,/languages/eng,005.75,005.74,xlmr_attention,0.404983
+Managing the structured techniques,openlibrary_editions_2026-08-31,/books/OL2547551M,/works/OL2626002W,/languages/eng,005.11,005.1,xlmr_attention,0.900831
+Productivity software guide,openlibrary_editions_2026-08-31,/books/OL1468032M,/works/OL521284W,/languages/eng,005.36,005.36,xlmr_attention,0.806519
+Turbo Pascal 5.5 programming,openlibrary_editions_2026-08-31,/books/OL2226996M,/works/OL4460569W,/languages/eng,005.26,005.13,xlmr_attention,0.615068
+On Conceptual Modelling,openlibrary_editions_2026-08-31,/books/OL27078590M,/works/OL19892162W,/languages/eng,006.3,006.3,xlmr_attention,0.60234
+Liferay in action,openlibrary_editions_2026-08-31,/books/OL25112848M,/works/OL16302416W,/languages/eng,006.78,006.78,xlmr_attention,0.463709
+Newspapers in New York,openlibrary_editions_2026-08-31,/books/OL3182559M,/works/OL22786051W,/languages/eng,025.34,025.34,xlmr_attention,0.767912
+Advanced MS-DOS programming,openlibrary_editions_2026-08-31,/books/OL2526089M,/works/OL4095952W,/languages/eng,005.44,005.26,xlmr_attention,0.558793
+Running Microsoft Windows 95,openlibrary_editions_2026-08-31,/books/OL791530M,/works/OL1844848W,/languages/eng,005.44,005.44,xlmr_attention,0.976866
+The Internet,openlibrary_editions_2026-08-31,/books/OL17432995M,/works/OL2994978W,/languages/eng,004.67,004.67,xlmr_attention,0.780283
+ASIS thesaurus of information science and librarianship,openlibrary_editions_2026-08-31,/books/OL1234483M,/works/OL2747163W,/languages/eng,025.49,025.3,xlmr_attention,0.620444
+Soviet cybernetics research,openlibrary_editions_2026-08-31,/books/OL5080503M,/works/OL4705307W,/languages/eng,001.53,001.53,xlmr_attention,0.998531
+Proceedings of the Bicentennial Conference on Bibliographic Control for the New Millennium,openlibrary_editions_2026-08-31,/books/OL3945578M,/works/OL6211414W,/languages/eng,025.34,025.34,xlmr_attention,0.918748
+Linking Windows 3.1,openlibrary_editions_2026-08-31,/books/OL1748451M,/works/OL1733845W,/languages/eng,005.43,005.43,xlmr_attention,0.361376
+Adaptive and learning systems II,openlibrary_editions_2026-08-31,/books/OL1445649M,/works/OL19218343W,/languages/eng,006.31,006.3,xlmr_attention,0.791357
+Moderne Anwendungen algebraischer Methoden.,openlibrary_editions_2026-08-31,/books/OL4048966M,/works/OL5323223W,/languages/ger,001.53,001.53,xlmr_attention,0.841634
+List of subjects used in the main catalog of the Joint Bank-Fund Library.,openlibrary_editions_2026-08-31,/books/OL2915947M,/works/OL4664763W,/languages/eng,025.49,025.3,xlmr_attention,0.889438
+Electronic data interchange,openlibrary_editions_2026-08-31,/books/OL19827932M,/works/OL12901149W,/languages/eng,005.71,005.71,xlmr_attention,0.379156
+HTML stylesheet sourcebook,openlibrary_editions_2026-08-31,/books/OL680423M,/works/OL18163905W,/languages/eng,005.72,005.72,xlmr_attention,0.948243
+The real monsters,openlibrary_editions_2026-08-31,/books/OL23622739M,/works/OL5713043W,/languages/eng,001.94,001.94,xlmr_attention,0.999577
+Automating software design,openlibrary_editions_2026-08-31,/books/OL1760703M,/works/OL21366759W,/languages/eng,005.1,005.1,xlmr_attention,0.98512
+Programming in Visual Basic 2010,openlibrary_editions_2026-08-31,/books/OL24580406M,/works/OL15633012W,/languages/eng,005.27,005.26,xlmr_attention,0.583703
+Foundation Flash MX,openlibrary_editions_2026-08-31,/books/OL24373592M,/works/OL15397312W,/languages/eng,006.69,006.78,xlmr_attention,0.43464
+Mensch und Medien,openlibrary_editions_2026-08-31,/books/OL2620204M,/works/OL5180100W,/languages/ger,001.51,001.51,xlmr_attention,0.999738
+A manual for cataloging school libraries.,openlibrary_editions_2026-08-31,/books/OL6217896M,/works/OL180557W,/languages/eng,025.3,025.3,xlmr_attention,0.835091
+Process and politics in library research,openlibrary_editions_2026-08-31,/books/OL2195413M,/works/OL4782396W,/languages/eng,001.42,025.3,xlmr_attention,0.822051
+L' incommunication,openlibrary_editions_2026-08-31,/books/OL2314002M,/works/OL1364561W,/languages/fre,001.51,001.51,xlmr_attention,0.999493
+Federated Learning,openlibrary_editions_2026-08-31,/books/OL53260502M,/works/OL39128132W,/languages/eng,006.31,006.31,xlmr_attention,0.900058
+Developing a questionnaire,openlibrary_editions_2026-08-31,/books/OL22507408M,/works/OL2085256W,/languages/eng,001.43,001.42,xlmr_attention,0.503966
+Visualization '99,openlibrary_editions_2026-08-31,/books/OL6899414M,/works/OL7834048W,/languages/eng,006.6,006.6,xlmr_attention,0.850062
+Business applications software,openlibrary_editions_2026-08-31,/books/OL1429265M,/works/OL3945865W,/languages/eng,005.44,005.36,xlmr_attention,0.677482
+The Artificial intelligence debate,openlibrary_editions_2026-08-31,/books/OL2044628M,/works/OL18992550W,/languages/eng,006.3,006.31,xlmr_attention,0.528011
+3D Imaging,openlibrary_editions_2026-08-31,/books/OL27032515M,/works/OL19843369W,/languages/ger,006.6,006.6,xlmr_attention,0.506654
+Was leisten die Medien?,openlibrary_editions_2026-08-31,/books/OL2422513M,/works/OL853492W,/languages/ger,001.51,001.51,xlmr_attention,0.999792
+MaranGraphics' simplified computer guideMicrosoft Excel 4.0 for Windows,openlibrary_editions_2026-08-31,/books/OL21127003M,/works/OL13309332W,/languages/eng,005.36,005.36,xlmr_attention,0.996258
+"Ancient French archives, or, Extracts from the minutes of Council relating to the records of Canada, while under the government of France.",openlibrary_editions_2026-08-31,/books/OL14754414M,/works/OL12853163W,/languages/eng,025.17,025.34,xlmr_attention,0.789876
+CCNP ONT official exam certification guide,openlibrary_editions_2026-08-31,/books/OL17901188M,/works/OL8408213W,/languages/eng,004.6,004.6,xlmr_attention,0.678679
+Machine learning,openlibrary_editions_2026-08-31,/books/OL1084450M,/works/OL3465695W,/languages/eng,006.31,006.31,xlmr_attention,0.999781
+A handbook for archivists,openlibrary_editions_2026-08-31,/books/OL5514614M,/works/OL6855370W,/languages/eng,025.17,025.34,xlmr_attention,0.981735
+The evaluation of micropublications,openlibrary_editions_2026-08-31,/books/OL5447271M,/works/OL4791091W,/languages/eng,025.17,025.34,xlmr_attention,0.97464
+Angeli in astronave,openlibrary_editions_2026-08-31,/books/OL3238192M,/works/OL5649637W,/languages/ita,001.94,001.9,xlmr_attention,0.518638
+Tourism information technology,openlibrary_editions_2026-08-31,/books/OL669439M,/works/OL2661881W,/languages/eng,025.06,025.04,xlmr_attention,0.319895
+"Classification. Class P. Subclass PT, part 1. German literature",openlibrary_editions_2026-08-31,/books/OL2195077M,/works/OL4398416W,/languages/eng,025.46,025.46,xlmr_attention,0.978623
+Qualitative Inquiry in Clinical and Educational Settings,openlibrary_editions_2026-08-31,/books/OL60864334M,/works/OL16175542W,/languages/eng,001.42,001.42,xlmr_attention,0.643676
+From MDD concepts to experiments and illustrations,openlibrary_editions_2026-08-31,/books/OL17909122M,/works/OL18640432W,/languages/eng,005.27,005.1,xlmr_attention,0.607579
+Ontologies,openlibrary_editions_2026-08-31,/books/OL27078692M,/works/OL19892277W,/languages/eng,006.3,005.74,xlmr_attention,0.360495
+Cinema 4D R10 handbook,openlibrary_editions_2026-08-31,/books/OL20007532M,/works/OL8947795W,/languages/eng,006.69,006.69,xlmr_attention,0.925094
+Statistical analysis for business and economics,openlibrary_editions_2026-08-31,/books/OL2034892M,/works/OL4622788W,/languages/eng,001.42,001.42,xlmr_attention,0.968198
+Data mining,openlibrary_editions_2026-08-31,/books/OL27226588M,/works/OL20046562W,/languages/eng,006.3,006.31,xlmr_attention,0.868979
+31 days before your CCNA exam,openlibrary_editions_2026-08-31,/books/OL22653250M,/works/OL11779488W,/languages/eng,004.6,004.6,xlmr_attention,0.330352
+Is the computer a tool?,openlibrary_editions_2026-08-31,/books/OL3854786M,/works/OL19155934W,/languages/eng,001.53,004.16,xlmr_attention,0.733506
+Open hypermedia systems and structural computing,openlibrary_editions_2026-08-31,/books/OL22371740M,/works/OL13578055W,/languages/eng,006.7,006.7,xlmr_attention,0.700509
+Special issues in object-oriented programming,openlibrary_editions_2026-08-31,/books/OL316215M,/works/OL1749602W,/languages/eng,005.11,005.11,xlmr_attention,0.99006
+Logic programming,openlibrary_editions_2026-08-31,/books/OL1714060M,/works/OL4289098W,/languages/eng,005.11,005.11,xlmr_attention,0.703334
+Communications and Networking,openlibrary_editions_2026-08-31,/books/OL27025169M,/works/OL19835513W,/languages/eng,004.6,004.6,xlmr_attention,0.901012
+Cyborg,openlibrary_editions_2026-08-31,/books/OL22464650M,/works/OL13586333W,/languages/eng,004.16,001.94,xlmr_attention,0.890319
+Microsoft FrontPage 2002,openlibrary_editions_2026-08-31,/books/OL3959074M,/works/OL58213W,/languages/eng,005.72,005.72,xlmr_attention,0.727516
+Print shop project book,openlibrary_editions_2026-08-31,/books/OL2209804M,/works/OL4795539W,/languages/eng,006.68,025.34,xlmr_attention,0.408618
+Webmaster's guide,openlibrary_editions_2026-08-31,/books/OL31489945M,/works/OL23654885W,/languages/eng,005.27,006.78,xlmr_attention,0.425995
+Managing internetworks with SNMP,openlibrary_editions_2026-08-31,/books/OL31465232M,/works/OL892897W,/languages/eng,005.71,005.71,xlmr_attention,0.952518
+Photoshop 7,openlibrary_editions_2026-08-31,/books/OL3701661M,/works/OL2032081W,/languages/eng,006.68,006.68,xlmr_attention,0.948041
+Ubiquitous multimedia computing,openlibrary_editions_2026-08-31,/books/OL24519854M,/works/OL15567344W,/languages/eng,006.7,006.6,xlmr_attention,0.500365
+Development of object-oriented design and specifications for Iowa DOT and urban standards,openlibrary_editions_2026-08-31,/books/OL3453768M,/works/OL23948094W,/languages/eng,005.11,005.11,xlmr_attention,0.925279
+The Photoshop darkroom 2,openlibrary_editions_2026-08-31,/books/OL27128653M,/works/OL19948283W,/languages/eng,006.69,006.69,xlmr_attention,0.854782
+Internet and World Wide Web simplified,openlibrary_editions_2026-08-31,/books/OL822310M,/works/OL65590W,/languages/eng,004.67,025.04,xlmr_attention,0.642705
+Access controlled,openlibrary_editions_2026-08-31,/books/OL23962649M,/works/OL17832801W,/languages/eng,005.8,005.8,xlmr_attention,0.749372
+Novell NetWare first run,openlibrary_editions_2026-08-31,/books/OL1447103M,/works/OL3075009W,/languages/eng,005.71,004.68,xlmr_attention,0.931812
+Proceedings.,openlibrary_editions_2026-08-31,/books/OL5977908M,/works/OL7398997W,/languages/eng,025.17,025.34,xlmr_attention,0.442238
+From multimedia services to network services,openlibrary_editions_2026-08-31,/books/OL702526M,/works/OL2753155W,/languages/eng,006.7,006.6,xlmr_attention,0.558842
+Archives for scholarship: encouraging greater ease of access,openlibrary_editions_2026-08-31,/books/OL5465440M,/works/OL3106577W,/languages/eng,025.17,025.17,xlmr_attention,0.952424
+Expert systems for business,openlibrary_editions_2026-08-31,/books/OL1397032M,/works/OL3905109W,/languages/eng,006.33,006.33,xlmr_attention,0.998158
+Human interactive proofs,openlibrary_editions_2026-08-31,/books/OL3480497M,/works/OL5895074W,/languages/eng,005.8,005.8,xlmr_attention,0.958283
+Cloud computing and digital media,openlibrary_editions_2026-08-31,/books/OL31172682M,/works/OL23323584W,/languages/eng,004.67,004.6,xlmr_attention,0.471414
+Library of Congress classification. H. Social sciences,openlibrary_editions_2026-08-31,/books/OL3305399M,/works/OL39963W,/languages/eng,025.46,025.46,xlmr_attention,0.996619
+Cataloguing theory and practice,openlibrary_editions_2026-08-31,/books/OL5791558M,/works/OL338959W,/languages/eng,025.3,025.3,xlmr_attention,0.957378
+Ado.net professional projects,openlibrary_editions_2026-08-31,/books/OL25544700M,/works/OL16939490W,/languages/eng,005.74,005.74,xlmr_attention,0.689049
+Cooperative information agents II,openlibrary_editions_2026-08-31,/books/OL367943M,/works/OL1919485W,/languages/eng,006.33,006.3,xlmr_attention,0.706016
+"Library of Congress classification. E-F. History, America",openlibrary_editions_2026-08-31,/books/OL3944719M,/works/OL39844W,/languages/eng,025.46,025.46,xlmr_attention,0.995954
+Internet guide to anti-aging and longevity,openlibrary_editions_2026-08-31,/books/OL3401941M,/works/OL5825635W,/languages/eng,025.06,025.06,xlmr_attention,0.971068
+PRICAI 2012: Trends in Artificial Intelligence,openlibrary_editions_2026-08-31,/books/OL27082499M,/works/OL19896444W,/languages/eng,006.3,006.31,xlmr_attention,0.788579
+Usability Engineering kompakt,openlibrary_editions_2026-08-31,/books/OL27093929M,/works/OL19909111W,/languages/ger,004,005.1,xlmr_attention,0.956085
+ASP 3.0,openlibrary_editions_2026-08-31,/books/OL3961841M,/works/OL5973709W,/languages/eng,005.27,005.27,xlmr_attention,0.484035
+Mastering OpenStack,openlibrary_editions_2026-08-31,/books/OL53266674M,/works/OL28618486W,/languages/eng,004.67,005.27,xlmr_attention,0.427214
+Algol-like Languages,openlibrary_editions_2026-08-31,/books/OL27018467M,/works/OL19828227W,/languages/eng,004.01,001.64,xlmr_attention,0.533971
+Industrial and engineering applications of artificial intelligence and expert systems,openlibrary_editions_2026-08-31,/books/OL18118143M,/works/OL1830228W,/languages/eng,006.3,006.3,xlmr_attention,0.805474
+Expertmedia--expert systems and hypermedia,openlibrary_editions_2026-08-31,/books/OL800857M,/works/OL19533787W,/languages/eng,005.75,006.33,xlmr_attention,0.941078
+Fast texture recognition using information trees,openlibrary_editions_2026-08-31,/books/OL2151844M,/works/OL4743832W,/languages/eng,004,001.53,xlmr_attention,0.842041
+Design by numbers.,openlibrary_editions_2026-08-31,/books/OL19884553M,/works/OL1954558W,/languages/eng,006.6,006.6,xlmr_attention,0.908829
+Thesaurus for graphic materials,openlibrary_editions_2026-08-31,/books/OL1114970M,/works/OL2407418W,/languages/eng,025.34,025.3,xlmr_attention,0.557748
+GeoRef online workshop training manual,openlibrary_editions_2026-08-31,/books/OL1803096M,/works/OL23079879W,/languages/eng,025.49,005.74,xlmr_attention,0.754275
+Communicating process architectures 2009,openlibrary_editions_2026-08-31,/books/OL25114841M,/works/OL16307086W,/languages/eng,004.35,004.35,xlmr_attention,0.963222
+Alternative network architectures,openlibrary_editions_2026-08-31,/books/OL2316009M,/works/OL22979171W,/languages/eng,004.6,004.6,xlmr_attention,0.26713
+Principles of data processing,openlibrary_editions_2026-08-31,/books/OL4537900M,/works/OL5356695W,/languages/eng,001.64,001.64,xlmr_attention,0.603128
+Look & learn Frontpage version 2002,openlibrary_editions_2026-08-31,/books/OL3572451M,/works/OL14870700W,/languages/eng,005.72,005.72,xlmr_attention,0.888917
+Assembly language programmingfor the Intel 80XXX family.,openlibrary_editions_2026-08-31,/books/OL22706972M,/works/OL4444258W,/languages/eng,005.26,005.26,xlmr_attention,0.581898
+Computer search algorithms,openlibrary_editions_2026-08-31,/books/OL25041965M,/works/OL16162527W,/languages/eng,005.74,006.31,xlmr_attention,0.501894
+SQL server 2000,openlibrary_editions_2026-08-31,/books/OL6899560M,/works/OL7834103W,/languages/eng,005.75,005.71,xlmr_attention,0.389166
+Research and development in expert systems IV,openlibrary_editions_2026-08-31,/books/OL22176599M,/works/OL5116234W,/languages/eng,006.33,006.33,xlmr_attention,0.997697
+The transputer handbook,openlibrary_editions_2026-08-31,/books/OL20399096M,/works/OL13077440W,/languages/eng,004.35,004.35,xlmr_attention,0.971061
+A standard list of subject headings in industrial relations.,openlibrary_editions_2026-08-31,/books/OL6114935M,/works/OL140020W,/languages/eng,025.46,025.49,xlmr_attention,0.846399
+IMS,openlibrary_editions_2026-08-31,/books/OL23235505M,/works/OL16961222W,/languages/eng,006.7,006.7,xlmr_attention,0.952334
+Intelligent soft computation and evolving data mining,openlibrary_editions_2026-08-31,/books/OL23712820M,/works/OL16937888W,/languages/eng,006.3,006.31,xlmr_attention,0.873721
+Applied survey methods,openlibrary_editions_2026-08-31,/books/OL23147881M,/works/OL5031173W,/languages/eng,001.43,001.42,xlmr_attention,0.885816
+Adobe Illustrator,openlibrary_editions_2026-08-31,/books/OL1128775M,/works/OL1803068W,/languages/eng,006.68,006.68,xlmr_attention,0.996495
+Software- und Automatisierungsprojekte,openlibrary_editions_2026-08-31,/books/OL1611332M,/works/OL23314176W,/languages/ger,005.1,005.1,xlmr_attention,0.991162
+Mathematical and Algorithmic Foundations of the Internet,openlibrary_editions_2026-08-31,/books/OL60832435M,/works/OL25109692W,/languages/eng,004.67,004.67,xlmr_attention,0.714129
+Perspectives on Web Services,openlibrary_editions_2026-08-31,/books/OL27080402M,/works/OL19894166W,/languages/eng,006.7,006.7,xlmr_attention,0.889323
+"ACM Sigmod International Conference on Management of Data, Austin, Texas, May 31, June 1 and 2, 1978",openlibrary_editions_2026-08-31,/books/OL17624593M,/works/OL12232188W,/languages/eng,001.64,005.74,xlmr_attention,0.97978
+Networks for the 1990s,openlibrary_editions_2026-08-31,/books/OL2406312M,/works/OL19413999W,/languages/eng,004.6,001.64,xlmr_attention,0.481201
+Cataloging theory and practice,openlibrary_editions_2026-08-31,/books/OL6254633M,/works/OL338955W,/languages/eng,025.3,025.3,xlmr_attention,0.968387
+10 minute guide to Internet Assistant for Word,openlibrary_editions_2026-08-31,/books/OL1129472M,/works/OL2998216W,/languages/eng,025.04,006.78,xlmr_attention,0.377598
+Thematic list of descriptors--economics,openlibrary_editions_2026-08-31,/books/OL2188027M,/works/OL18139413W,/languages/eng | /languages/fre,025.49,025.49,xlmr_attention,0.982347
+Portals to the world.,openlibrary_editions_2026-08-31,/books/OL3776981M,/works/OL23873684W,/languages/eng,025.06,025.06,xlmr_attention,0.986967
+Monsters,openlibrary_editions_2026-08-31,/books/OL3159649M,/works/OL2736043W,/languages/eng,001.94,001.94,xlmr_attention,0.999345
+Networking all-in-one for dummies,openlibrary_editions_2026-08-31,/books/OL27139629M,/works/OL19959384W,/languages/eng,004.6,004.6,xlmr_attention,0.763325
+The mystery of the abominable snowman,openlibrary_editions_2026-08-31,/books/OL33993M,/works/OL66014W,/languages/eng,001.94,001.94,xlmr_attention,0.56404
+The theory of information and coding,openlibrary_editions_2026-08-31,/books/OL2575587M,/works/OL4640594W,/languages/eng,001.53,001.53,xlmr_attention,0.720541
+Medios de comunicación y democracia,openlibrary_editions_2026-08-31,/books/OL2652987M,/works/OL5211016W,/languages/spa,001.51,001.51,xlmr_attention,0.99967
+Personal computer file compression,openlibrary_editions_2026-08-31,/books/OL1436302M,/works/OL58471W,/languages/eng,005.74,005.74,xlmr_attention,0.646064
+Proceedings,openlibrary_editions_2026-08-31,/books/OL6799371M,/works/OL7799551W,/languages/eng,004.35,004.35,xlmr_attention,0.992986
+Professional Visual Studio 2010,openlibrary_editions_2026-08-31,/books/OL25313748M,/works/OL16634291W,/languages/eng,006.78,005.26,xlmr_attention,0.378484
+Vehicular-2-X communication,openlibrary_editions_2026-08-31,/books/OL25313760M,/works/OL16634303W,/languages/eng,004.6,004.6,xlmr_attention,0.782531
+Flash 8 ActionScript bible,openlibrary_editions_2026-08-31,/books/OL3413129M,/works/OL5748848W,/languages/eng,006.69,006.69,xlmr_attention,0.600548
+Microform collections in ARL libraries,openlibrary_editions_2026-08-31,/books/OL6856168M,/works/OL22095901W,/languages/eng,025.17,025.34,xlmr_attention,0.979442
+Mr. Excel on Excel,openlibrary_editions_2026-08-31,/books/OL21990041M,/works/OL13513459W,/languages/eng,005.36,005.36,xlmr_attention,0.997381
+Instant HTML,openlibrary_editions_2026-08-31,/books/OL1014459M,/works/OL3362569W,/languages/eng,005.72,005.72,xlmr_attention,0.969288
+Reinforcement and systemic machine learning for decision making,openlibrary_editions_2026-08-31,/books/OL25109509M,/works/OL16298766W,/languages/eng,006.31,006.31,xlmr_attention,0.987914
+Macromedia Generator and Flash demystified,openlibrary_editions_2026-08-31,/books/OL3969095M,/works/OL6225000W,/languages/eng,006.69,006.69,xlmr_attention,0.73557
+Sams teach yourself C++ in 21 days,openlibrary_editions_2026-08-31,/books/OL24743327M,/works/OL15833002W,/languages/eng,005.13,005.13,xlmr_attention,0.833654
+Multimedia security,openlibrary_editions_2026-08-31,/books/OL25340058M,/works/OL16664689W,/languages/eng,006.7,006.7,xlmr_attention,0.738693
+Interactive visualization,openlibrary_editions_2026-08-31,/books/OL25282674M,/works/OL16599300W,/languages/eng,006.7,006.6,xlmr_attention,0.51862
+Writing for the Web,openlibrary_editions_2026-08-31,/books/OL22737564M,/works/OL7950749W,/languages/eng,005.72,006.7,xlmr_attention,0.870586
+Loch Ness and the monster,openlibrary_editions_2026-08-31,/books/OL4927434M,/works/OL6936076W,/languages/eng,001.94,001.94,xlmr_attention,0.993712
+Computers and artificial intelligence,openlibrary_editions_2026-08-31,/books/OL5313373M,/works/OL4643454W,/languages/eng,001.53,001.53,xlmr_attention,0.96674
+Free and user supported software for the IBM PC,openlibrary_editions_2026-08-31,/books/OL2218123M,/works/OL4803276W,/languages/eng,025.34,025.34,xlmr_attention,0.362379
+Analysis with Reflex,openlibrary_editions_2026-08-31,/books/OL2713001M,/works/OL1184373W,/languages/eng,005.75,001.43,xlmr_attention,0.28402
+Windows server 2003 for dummies,openlibrary_editions_2026-08-31,/books/OL22141376M,/works/OL19295280W,/languages/eng,005.71,005.44,xlmr_attention,0.944728
+YouTube 4U,openlibrary_editions_2026-08-31,/books/OL17854485M,/works/OL15032506W,/languages/eng,006.7,006.7,xlmr_attention,0.852499
+Access the Internet!,openlibrary_editions_2026-08-31,/books/OL818919M,/works/OL67093W,/languages/eng,005.71,005.71,xlmr_attention,0.484359
+AI-onderzoek,openlibrary_editions_2026-08-31,/books/OL1783417M,/works/OL4361951W,/languages/dut,006.3,006.3,xlmr_attention,0.482947
+The Manga Guide to Microprocessors,openlibrary_editions_2026-08-31,/books/OL26928618M,/works/OL19715482W,/languages/eng,004.16,004.16,xlmr_attention,0.316195
+Semantics of programming languages,openlibrary_editions_2026-08-31,/books/OL1865085M,/works/OL4455555W,/languages/eng,005.13,001.64,xlmr_attention,0.72867
+Mining of Massive Datasets,openlibrary_editions_2026-08-31,/books/OL54005830M,/works/OL16970048W,/languages/eng,006.31,006.31,xlmr_attention,0.794802
+Microsoft PowerPoint 7.0 for Windows 95,openlibrary_editions_2026-08-31,/books/OL568093M,/works/OL18854636W,/languages/eng,005.36,006.68,xlmr_attention,0.94773
+Programs and data structures in C,openlibrary_editions_2026-08-31,/books/OL21474457M,/works/OL2753706W,/languages/eng,005.13,005.13,xlmr_attention,0.677813
+Beyond the limits,openlibrary_editions_2026-08-31,/books/OL1753846M,/works/OL4131545W,/languages/eng,005.43,001.64,xlmr_attention,0.358253
+The Web wizard's guide to Photoshop,openlibrary_editions_2026-08-31,/books/OL22077582M,/works/OL9209164W,/languages/eng,006.68,006.68,xlmr_attention,0.772406
+Microsoft Visual InterDev 6.0 programmer's guide.,openlibrary_editions_2026-08-31,/books/OL358263M,/works/OL19619229W,/languages/eng,005.27,006.78,xlmr_attention,0.469745
+Interactive theory revision,openlibrary_editions_2026-08-31,/books/OL1492472M,/works/OL4031379W,/languages/eng,006.33,006.31,xlmr_attention,0.858681
+Macromedia Flash MX FreeHand 10,openlibrary_editions_2026-08-31,/books/OL3657765M,/works/OL6017202W,/languages/eng,006.69,006.69,xlmr_attention,0.888233
+Amiga C for beginners,openlibrary_editions_2026-08-31,/books/OL22376348M,/works/OL4539385W,/languages/eng,005.26,005.13,xlmr_attention,0.634013
+Dynamic ad hoc networks,openlibrary_editions_2026-08-31,/books/OL31165513M,/works/OL23316907W,/languages/eng,004.6,004.68,xlmr_attention,0.931342
+Learning strategic concepts in competitive planning,openlibrary_editions_2026-08-31,/books/OL2152827M,/works/OL4744772W,/languages/eng,004,006.31,xlmr_attention,0.933084
+Microsoft Virtual server 2005,openlibrary_editions_2026-08-31,/books/OL18264748M,/works/OL8408109W,/languages/eng,005.44,005.26,xlmr_attention,0.362374
+Handbook of Research on Cloud and Fog Computing Infrastructures for Data Science,openlibrary_editions_2026-08-31,/books/OL55438777M,/works/OL27394642W,/languages/eng,004.67,005.74,xlmr_attention,0.32298
+The London classification of business studies,openlibrary_editions_2026-08-31,/books/OL4369352M,/works/OL19021968W,/languages/eng,025.46,025.46,xlmr_attention,0.989732
+Visualizing culture,openlibrary_editions_2026-08-31,/books/OL27171383M,/works/OL19991270W,/languages/eng,006.7,006.7,xlmr_attention,0.992407
+IBM eserver certification study guide,openlibrary_editions_2026-08-31,/books/OL17881917M,/works/OL19446112W,/languages/eng,005.43,005.44,xlmr_attention,0.629614
+Reference services and library instruction,openlibrary_editions_2026-08-31,/books/OL2532743M,/works/OL5097356W,/languages/eng,025.52,025.52,xlmr_attention,0.954748
+The Computer database thesaurus & dictionary,openlibrary_editions_2026-08-31,/books/OL1647228M,/works/OL23378600W,/languages/eng,025.49,025.49,xlmr_attention,0.81141
+Logo recognition,openlibrary_editions_2026-08-31,/books/OL25004857M,/works/OL16117150W,/languages/eng,006.3,005.74,xlmr_attention,0.504906
+The cognitive dynamics of computer science,openlibrary_editions_2026-08-31,/books/OL3432170M,/works/OL5853535W,/languages/eng,005.1,005.1,xlmr_attention,0.427931
+On simultaneous rigid E-unification,openlibrary_editions_2026-08-31,/books/OL66980M,/works/OL599733W,/languages/eng,004.01,001.53,xlmr_attention,0.73114
+The science of cybersecurity and a roadmap to research,openlibrary_editions_2026-08-31,/books/OL25077703M,/works/OL16214804W,/languages/eng,005.8,005.8,xlmr_attention,0.990144
+Adobe Illustrator CS4.,openlibrary_editions_2026-08-31,/books/OL23739108M,/works/OL18689418W,/languages/eng,006.68,006.68,xlmr_attention,0.992706
+Nuevo tratado de estructura de la información,openlibrary_editions_2026-08-31,/books/OL19486430M,/works/OL12781162W,/languages/spa,001.51,001.51,xlmr_attention,0.605754
+Flash ji chu jiao cheng,openlibrary_editions_2026-08-31,/books/OL28015320M,/works/OL20717062W,/languages/chi,006.6,006.78,xlmr_attention,0.386952
+Information and information systems,openlibrary_editions_2026-08-31,/books/OL1886411M,/works/OL4283202W,/languages/eng,025.04,025.04,xlmr_attention,0.865744
+Information security management handbook,openlibrary_editions_2026-08-31,/books/OL22558152M,/works/OL18789795W,/languages/eng,005.8,005.8,xlmr_attention,0.999978
+13th International Conference on Parallel Architectures and Compilation Techniques,openlibrary_editions_2026-08-31,/books/OL3329496M,/works/OL5760173W,/languages/eng,004.35,004.35,xlmr_attention,0.994651
+Understanding parallel supercomputing,openlibrary_editions_2026-08-31,/books/OL20817622M,/works/OL1820541W,/languages/eng,004.35,004.35,xlmr_attention,0.998904
+Building a Web site for dummies,openlibrary_editions_2026-08-31,/books/OL19905525M,/works/OL2039642W,/languages/eng,006.7,006.7,xlmr_attention,0.788699
+2008 IEEE 14th International Symposium on High Performance Computer Architecture,openlibrary_editions_2026-08-31,/books/OL31812473M,/works/OL24121131W,/languages/eng,004.35,005.1,xlmr_attention,0.299746
+"Descriptive cataloging of ancient, medieval, Renaissance, and early modern  manuscripts",openlibrary_editions_2026-08-31,/books/OL3577082M,/works/OL5968550W,/languages/eng,025.34,025.34,xlmr_attention,0.997359
+Is that a fact?,openlibrary_editions_2026-08-31,/books/OL24111199M,/works/OL17363998W,/languages/eng,001.42,001.42,xlmr_attention,0.964373
+Handbook of web log analysis,openlibrary_editions_2026-08-31,/books/OL16797234M,/works/OL18349537W,/languages/eng,006.31,006.31,xlmr_attention,0.895497
+Zipping for beginners,openlibrary_editions_2026-08-31,/books/OL738594M,/works/OL18184184W,/languages/eng,005.74,001.64,xlmr_attention,0.366553
+Making UFOs,openlibrary_editions_2026-08-31,/books/OL21509846M,/works/OL8267830W,/languages/eng,001.94,001.94,xlmr_attention,0.974352
+Beginning cataloging,openlibrary_editions_2026-08-31,/books/OL23217922M,/works/OL15204095W,/languages/eng,025.3,025.3,xlmr_attention,0.971058
+Examining AI Innovations in Gaming and Entertainment,openlibrary_editions_2026-08-31,/books/OL61574163M,/works/OL45154160W,/languages/eng,006.3,001.53,xlmr_attention,0.283119
+Essential SQL Server 2000,openlibrary_editions_2026-08-31,/books/OL21463732M,/works/OL8021876W,/languages/eng,005.75,005.75,xlmr_attention,0.635492
+Applied computing 2000,openlibrary_editions_2026-08-31,/books/OL17624567M,/works/OL12232167W,/languages/eng,004,005.1,xlmr_attention,0.373536
+Calibration and Orientation of Cameras in Computer Vision,openlibrary_editions_2026-08-31,/books/OL27022908M,/works/OL19832954W,/languages/eng,006.6,006.6,xlmr_attention,0.820262
+Collection development and public access of government documents,openlibrary_editions_2026-08-31,/books/OL3483968M,/works/OL1866460W,/languages/eng,025.17,025.34,xlmr_attention,0.839832
+Algorithms--ESA '97,openlibrary_editions_2026-08-31,/books/OL667687M,/works/OL2656394W,/languages/eng,004.01,004.01,xlmr_attention,0.454947

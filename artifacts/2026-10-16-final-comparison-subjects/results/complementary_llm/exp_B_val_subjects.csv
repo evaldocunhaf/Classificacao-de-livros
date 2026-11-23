@@ -1,0 +1,804 @@
+titulo,source,edition_id,work_id,idioma,cdd_true,cdd_pred,method
+Inside SharePoint 2007 administration,openlibrary_editions_2026-08-31,/books/OL23532964M,/works/OL13815182W,/languages/eng,004.68,004.68,llm
+Trade literature,openlibrary_editions_2026-08-31,/books/OL19133143M,/works/OL12652085W,/languages/eng,025.34,025.49,llm
+A flexible classification system of music and litterature [sic] on music.,openlibrary_editions_2026-08-31,/books/OL5601112M,/works/OL7265772W,/languages/eng,025.46,025.46,knn
+Tools for learning,openlibrary_editions_2026-08-31,/books/OL16713226M,/works/OL19610207W,/languages/eng,025.52,025.49,llm
+Entertainment computing,openlibrary_editions_2026-08-31,/books/OL19289144M,/works/OL12711078W,/languages/eng,006.7,005.71,llm
+"Fondation pour la recherche, le Centre de documentation-Réunion.",openlibrary_editions_2026-08-31,/books/OL4712482M,/works/OL6793640W,/languages/fre,001.43,025.49,llm
+Women in the Digital World,openlibrary_editions_2026-08-31,/books/OL57559259M,/works/OL39666252W,/languages/eng,004.67,001.43,llm
+Mastering 1-2-3,openlibrary_editions_2026-08-31,/books/OL2064604M,/works/OL4654836W,/languages/eng,005.36,005.74,llm
+Embedded multiprocessors,openlibrary_editions_2026-08-31,/books/OL22795702M,/works/OL11995136W,/languages/eng,004.16,004.68,llm
+Digital pattern recognition,openlibrary_editions_2026-08-31,/books/OL5207169M,/works/OL16346594W,/languages/eng,001.53,005.74,llm
+Intergovernmental Council of the International Programme for the Development of Communication,openlibrary_editions_2026-08-31,/books/OL2928633M,/works/OL4892921W,/languages/eng,001.51,001.94,llm
+Verborgene Signale,openlibrary_editions_2026-08-31,/books/OL2670950M,/works/OL1622237W,/languages/ger,001.51,001.94,llm
+Localized quality of service routing for the Internet,openlibrary_editions_2026-08-31,/books/OL19289977M,/works/OL8701453W,/languages/eng,004.6,004.6,llm
+Communication theory,openlibrary_editions_2026-08-31,/books/OL2373186M,/works/OL19021219W,/languages/eng,001.51,005.74,llm
+Audio preservation,openlibrary_editions_2026-08-31,/books/OL2130845M,/works/OL4724412W,/languages/eng,025.17,006.78,llm
+The London classification of Business Studies,openlibrary_editions_2026-08-31,/books/OL4608864M,/works/OL3258932W,/languages/eng,025.46,005.74,llm
+Parallel computing,openlibrary_editions_2026-08-31,/books/OL2373640M,/works/OL2042120W,/languages/eng,004.35,004.68,llm
+From Tysons Corner to Internet alley,openlibrary_editions_2026-08-31,/books/OL17927445M,/works/OL1897179W,/languages/eng,004.67,001.94,llm
+Descriptive terms for graphic materials,openlibrary_editions_2026-08-31,/books/OL2726235M,/works/OL2272899W,/languages/eng,025.34,005.74,llm
+Top 1000 really useful Web sites,openlibrary_editions_2026-08-31,/books/OL3635819M,/works/OL6003174W,/languages/eng,025.04,004.68,llm
+Teach yourself PowerPoint 97 in 24 hours,openlibrary_editions_2026-08-31,/books/OL706208M,/works/OL2762162W,/languages/eng,006.68,005.74,llm
+Microsoft Windows 98 field guide,openlibrary_editions_2026-08-31,/books/OL355022M,/works/OL517095W,/languages/eng,005.44,004.68,llm
+Chemistry resources in the electronic age,openlibrary_editions_2026-08-31,/books/OL44931763M,/works/OL33066524W,/languages/eng,025.06,004.68,llm
+Careers in communications,openlibrary_editions_2026-08-31,/books/OL2744069M,/works/OL1927601W,/languages/eng,001.51,001.43,llm
+Computer information systems,openlibrary_editions_2026-08-31,/books/OL2230512M,/works/OL2681119W,/languages/eng,004,005.1,llm
+Parallel computer routing and communication,openlibrary_editions_2026-08-31,/books/OL364487M,/works/OL1905970W,/languages/eng,004.35,004.67,llm
+How do I find information online?,openlibrary_editions_2026-08-31,/books/OL30392490M,/works/OL22314662W,/languages/eng,025.04,004.6,llm
+The art of C,openlibrary_editions_2026-08-31,/books/OL1651764M,/works/OL720115W,/languages/eng,005.26,005.1,llm
+Classification. Class S. Agriculture,openlibrary_editions_2026-08-31,/books/OL3140105M,/works/OL4398418W,/languages/eng,025.46,001.42,llm
+Inside 3D studio,openlibrary_editions_2026-08-31,/books/OL22056630M,/works/OL13522844W,/languages/eng,006.6,005.74,llm
+Creating striking graphics with Maya and Photoshop,openlibrary_editions_2026-08-31,/books/OL3699311M,/works/OL1823438W,/languages/eng,006.69,004.6,llm
+A directory of discarded ideas,openlibrary_editions_2026-08-31,/books/OL15062738M,/works/OL2716889W,/languages/eng,001.9,001.94,llm
+IT essentials,openlibrary_editions_2026-08-31,/books/OL24383904M,/works/OL15414203W,/languages/eng,004,004.6,llm
+Mastering Macromedia Contribute,openlibrary_editions_2026-08-31,/books/OL3575527M,/works/OL5800913W,/languages/eng,005.72,005.74,llm
+Searching for health information,openlibrary_editions_2026-08-31,/books/OL2058891M,/works/OL4648432W,/languages/eng,025.06,001.94,llm
+Massiv parallele Programmierung mit dem Parallaxis-Modell,openlibrary_editions_2026-08-31,/books/OL1589657M,/works/OL3902234W,/languages/ger,004.35,005.74,llm
+"Attributes of nations and behavior of nation dyads, 1950-1965",openlibrary_editions_2026-08-31,/books/OL5211947M,/works/OL7093027W,/languages/eng,001.42,025.46,knn
+Autonomous learning from the environment,openlibrary_editions_2026-08-31,/books/OL1423356M,/works/OL3943823W,/languages/eng,006.3,005.44,llm
+Microsoft BackOffice resource kit.,openlibrary_editions_2026-08-31,/books/OL343656M,/works/OL18937641W,/languages/eng,005.71,005.74,llm
+CompTIA A+ complete study guide,openlibrary_editions_2026-08-31,/books/OL18498594M,/works/OL8205071W,/languages/eng,004,005.74,llm
+Lotus Notes and Domino 6 development,openlibrary_editions_2026-08-31,/books/OL3575013M,/works/OL19014698W,/languages/eng,005.36,005.74,llm
+Feynman lectures on computation,openlibrary_editions_2026-08-31,/books/OL987022M,/works/OL514615W,/languages/eng,004.01,004.6,llm
+Object-relational DBMSs,openlibrary_editions_2026-08-31,/books/OL106115M,/works/OL832964W,/languages/eng,005.75,005.74,llm
+Balancing agility and discipline,openlibrary_editions_2026-08-31,/books/OL3687269M,/works/OL6034815W,/languages/eng,005.1,005.44,llm
+Commonsense cataloging,openlibrary_editions_2026-08-31,/books/OL5415730M,/works/OL7200503W,/languages/eng,025.3,025.49,llm
+Photoshop 3D for animators,openlibrary_editions_2026-08-31,/books/OL24892730M,/works/OL15988093W,/languages/eng,006.69,005.74,llm
+UNIX Power Tools,openlibrary_editions_2026-08-31,/books/OL302003M,/works/OL1704496W,/languages/eng,005.43,004.6,llm
+Our threatened planet,openlibrary_editions_2026-08-31,/books/OL4546305M,/works/OL6670473W,/languages/eng,001.9,001.9,knn
+"Proceedings of 1996 IEEE Second International Conference on Algorithms & Architectures for Parallel Processing, ICA³PP '96",openlibrary_editions_2026-08-31,/books/OL740600M,/works/OL2831228W,/languages/eng,004.35,004.68,llm
+SDL with applications from protocol specification,openlibrary_editions_2026-08-31,/books/OL1542983M,/works/OL4096228W,/languages/eng,005.13,004.68,llm
+Library of Congress classification. PJ-PK. Oriental philology and literature. Indo-Iranian philology and literature,openlibrary_editions_2026-08-31,/books/OL22716169M,/works/OL39750W,/languages/eng,025.46,001.42,llm
+Best iPad apps,openlibrary_editions_2026-08-31,/books/OL27132609M,/works/OL19952295W,/languages/eng,005.36,004.68,llm
+Parallel architectures for data,openlibrary_editions_2026-08-31,/books/OL1090861M,/works/OL3477414W,/languages/eng,005.74,004.68,llm
+Compiler construction,openlibrary_editions_2026-08-31,/books/OL18830788M,/works/OL12547750W,/languages/eng,001.64,005.74,llm
+A Glossary of computing terms,openlibrary_editions_2026-08-31,/books/OL1451162M,/works/OL19033343W,/languages/eng,004.01,004.68,llm
+Access mechanisms and data structure support in data base management systems,openlibrary_editions_2026-08-31,/books/OL4944643M,/works/OL4623172W,/languages/eng,001.64,005.74,llm
+JavaScript,openlibrary_editions_2026-08-31,/books/OL6799406M,/works/OL5741197W,/languages/eng,005.27,005.1,llm
+Expert systems,openlibrary_editions_2026-08-31,/books/OL1010358M,/works/OL3354842W,/languages/eng,006.33,005.74,llm
+Informations- und Rechentechnik für die Kernforschung,openlibrary_editions_2026-08-31,/books/OL3258581M,/works/OL5664792W,/languages/ger,025.06,001.94,llm
+Management Skills for the Information Manager,openlibrary_editions_2026-08-31,/books/OL54021657M,/works/OL19220832W,/languages/eng,025.52,005.71,llm
+Preservation of electronic records,openlibrary_editions_2026-08-31,/books/OL20339843M,/works/OL13060850W,/languages/eng | /languages/fre,025.17,005.74,llm
+The W-files,openlibrary_editions_2026-08-31,/books/OL704761M,/works/OL2014251W,/languages/eng,001.94,001.43,llm
+Blockchain Technology and Applications,openlibrary_editions_2026-08-31,/books/OL57754807M,/works/OL20742942W,/languages/eng,005.74,005.74,llm
+Mathematical foundations of computer science 1989,openlibrary_editions_2026-08-31,/books/OL22776019M,/works/OL9335265W,/languages/eng,004.01,005.1,llm
+Internet business guide,openlibrary_editions_2026-08-31,/books/OL24741775M,/works/OL15831374W,/languages/eng,004.67,005.74,llm
+Comparing English worldwide,openlibrary_editions_2026-08-31,/books/OL965157M,/works/OL3031876W,/languages/eng,025.06,004.68,llm
+Graphische Datenverarbeitung,openlibrary_editions_2026-08-31,/books/OL2472824M,/works/OL5050347W,/languages/ger,006.6,004.68,llm
+Scheduling for parallel processing,openlibrary_editions_2026-08-31,/books/OL24068339M,/works/OL15090474W,/languages/eng,004.35,005.74,llm
+Wireless-Powered Communication Networks,openlibrary_editions_2026-08-31,/books/OL53980714M,/works/OL21136520W,/languages/eng,004.6,004.68,llm
+The simple book,openlibrary_editions_2026-08-31,/books/OL970470M,/works/OL1880780W,/languages/eng,004.67,004.68,llm
+Macintosh System 7,openlibrary_editions_2026-08-31,/books/OL1571767M,/works/OL15011955W,/languages/eng,005.44,005.74,llm
+Swing,openlibrary_editions_2026-08-31,/books/OL3700224M,/works/OL449078W,/languages/eng,005.13,005.74,llm
+Rx PC,openlibrary_editions_2026-08-31,/books/OL1721327M,/works/OL3147106W,/languages/eng,005.8,004.68,llm
+Building embedded Linux systems,openlibrary_editions_2026-08-31,/books/OL3705214M,/works/OL6046660W,/languages/eng,005.43,004.67,llm
+"Systems of demographic measurement, data collection systems",openlibrary_editions_2026-08-31,/books/OL4539823M,/works/OL6663457W,/languages/eng,001.42,001.94,llm
+Practical parallel computing,openlibrary_editions_2026-08-31,/books/OL1562671M,/works/OL19213055W,/languages/eng,004.35,004.68,llm
+Uninvited visitors,openlibrary_editions_2026-08-31,/books/OL4619129M,/works/OL6740536W,/languages/eng,001.9,001.43,llm
+Computer security incident handling,openlibrary_editions_2026-08-31,/books/OL3657906M,/works/OL71828W,/languages/eng,005.8,005.74,llm
+Non-book teaching materials in the health sciences,openlibrary_editions_2026-08-31,/books/OL2372365M,/works/OL4955469W,/languages/eng,025.34,005.74,llm
+Computer process control,openlibrary_editions_2026-08-31,/books/OL18561525M,/works/OL1668614W,/languages/eng,001.53,005.74,llm
+Dreamweaver CS4 all-in-one for dummies,openlibrary_editions_2026-08-31,/books/OL25029833M,/works/OL16148224W,/languages/eng,006.78,004.68,llm
+X Toolkit Intrinsics Programming Manual,openlibrary_editions_2026-08-31,/books/OL1770504M,/works/OL4347522W,/languages/eng,005.43,004.68,llm
+"Maps, a MARC format",openlibrary_editions_2026-08-31,/books/OL4693324M,/works/OL6782260W,/languages/eng,025.34,005.74,llm
+Database processing,openlibrary_editions_2026-08-31,/books/OL23181156M,/works/OL2617145W,/languages/eng,005.74,005.74,llm
+Effective MySQL,openlibrary_editions_2026-08-31,/books/OL25066852M,/works/OL16190873W,/languages/eng,005.75,005.74,llm
+802.11 wireless networks,openlibrary_editions_2026-08-31,/books/OL20858181M,/works/OL8167284W,/languages/eng,004.6,004.67,llm
+Space division multiple access for wireless local area networks,openlibrary_editions_2026-08-31,/books/OL27088533M,/works/OL19903173W,/languages/eng,004.68,004.68,llm
+cc:Mail for Windows for Dummies,openlibrary_editions_2026-08-31,/books/OL821922M,/works/OL3002633W,/languages/eng,005.71,004.68,llm
+Library of Congress classification. K. Law in general. Comparative and uniform law. Jurisprudence,openlibrary_editions_2026-08-31,/books/OL3431874M,/works/OL39934W,/languages/eng,025.46,006.78,llm
+Adobe Captivate 3,openlibrary_editions_2026-08-31,/books/OL16777688M,/works/OL8849721W,/languages/eng,006.69,005.74,llm
+"""Le rôle idéologique des mass media en Amérique latine""",openlibrary_editions_2026-08-31,/books/OL3210480M,/works/OL834411W,/languages/fre,001.51,006.78,llm
+Algebraic methods in semantics,openlibrary_editions_2026-08-31,/books/OL2854970M,/works/OL18864505W,/languages/eng,001.64,005.74,llm
+Problem solving and programming concepts,openlibrary_editions_2026-08-31,/books/OL15564005M,/works/OL1904027W,/languages/eng,005.1,005.1,llm
+Database and expert systems applications,openlibrary_editions_2026-08-31,/books/OL1546762M,/works/OL19558119W,/languages/eng,005.74,005.74,llm
+Inside SharePoint 2007 administration,openlibrary_editions_2026-08-31,/books/OL23686643M,/works/OL13815182W,/languages/eng,004.68,004.68,llm
+Strategies for meeting the information needs of society in the year 2000,openlibrary_editions_2026-08-31,/books/OL4265818M,/works/OL19149151W,/languages/eng,025.06,001.94,llm
+The design of sites,openlibrary_editions_2026-08-31,/books/OL22013280M,/works/OL12039900W,/languages/eng,004.67,004.68,llm
+CSS Web she ji kuai su shang shou,openlibrary_editions_2026-08-31,/books/OL33219834M,/works/OL24990162W,/languages/chi,006.7,005.74,llm
+Desktop guide to DDS,openlibrary_editions_2026-08-31,/books/OL808741M,/works/OL2012195W,/languages/eng,005.74,005.1,llm
+10 minute guide to the Internet,openlibrary_editions_2026-08-31,/books/OL1127166M,/works/OL1960194W,/languages/eng,004.67,004.6,llm
+LINQ programming,openlibrary_editions_2026-08-31,/books/OL22691294M,/works/OL7888957W,/languages/eng,006.78,005.74,llm
+Proceedings of the ACM,openlibrary_editions_2026-08-31,/books/OL1803781M,/works/OL4388846W,/languages/eng,004.35,005.74,llm
+Javascript,openlibrary_editions_2026-08-31,/books/OL23644006M,/works/OL101557W,/languages/eng,005.27,005.44,llm
+Introduction to computing in criminal justice.,openlibrary_editions_2026-08-31,/books/OL3477549M,/works/OL2982597W,/languages/eng,025.06,005.74,llm
+Norme per il catalogo degli stampati.,openlibrary_editions_2026-08-31,/books/OL6757407M,/works/OL1297270W,/languages/ita,025.3,025.49,llm
+GCSE ICT coursework,openlibrary_editions_2026-08-31,/books/OL32101359M,/works/OL24266721W,/languages/eng,004,004.68,llm
+Software visualization,openlibrary_editions_2026-08-31,/books/OL19289908M,/works/OL19459221W,/languages/eng,005.11,005.74,llm
+Your electro-vibratory body,openlibrary_editions_2026-08-31,/books/OL4403575M,/works/OL3482091W,/languages/eng,001.9,001.43,llm
+The design of experiments,openlibrary_editions_2026-08-31,/books/OL45633017M,/works/OL1153859W,/languages/eng,001.43,005.74,llm
+Engineering for human-computer interaction,openlibrary_editions_2026-08-31,/books/OL1735547M,/works/OL4312492W,/languages/eng,004.01,005.74,llm
+Manuscripts indexing,openlibrary_editions_2026-08-31,/books/OL2917393M,/works/OL18331685W,/languages/eng,025.34,025.49,llm
+Selected topics in cataloging Asian art,openlibrary_editions_2026-08-31,/books/OL1984506M,/works/OL3238804W,/languages/eng,025.49,005.74,llm
+The world at your fingertips,openlibrary_editions_2026-08-31,/books/OL17394786M,/works/OL12159442W,/languages/eng,025.52,005.71,llm
+Cryptography,openlibrary_editions_2026-08-31,/books/OL2397210M,/works/OL4978376W,/languages/eng,005.8,004.68,llm
+Proceedings ISAI,openlibrary_editions_2026-08-31,/books/OL778600M,/works/OL23655757W,/languages/eng,006.33,005.74,llm
+Pro project management with SharePoint 2010,openlibrary_editions_2026-08-31,/books/OL25103103M,/works/OL16284493W,/languages/eng,006.78,005.74,llm
+The Directory of possibilities,openlibrary_editions_2026-08-31,/books/OL3126911M,/works/OL19177735W,/languages/eng,001.9,001.94,llm
+Multiprozessor-Systeme,openlibrary_editions_2026-08-31,/books/OL2276107M,/works/OL16355748W,/languages/ger,004.35,001.64,llm
+Cybernetic modelling,openlibrary_editions_2026-08-31,/books/OL5575842M,/works/OL1843097W,/languages/eng,001.53,005.74,llm
+3D Art Essentials,openlibrary_editions_2026-08-31,/books/OL25542163M,/works/OL16933276W,/languages/eng,006.69,004.68,llm
+Essential PC-DOS,openlibrary_editions_2026-08-31,/books/OL2870507M,/works/OL4971343W,/languages/eng,005.44,005.74,llm
+Licensing and Managing Electronic Resources,openlibrary_editions_2026-08-31,/books/OL53933109M,/works/OL16343521W,/languages/eng,025.04,005.74,llm
+Mathematical logic for computer science,openlibrary_editions_2026-08-31,/books/OL2210628M,/works/OL4796470W,/languages/eng,004.01,005.74,llm
+Object linking and embedding programmer's reference,openlibrary_editions_2026-08-31,/books/OL1726283M,/works/OL18856856W,/languages/eng,005.43,005.74,llm
+Mastering The Electron,openlibrary_editions_2026-08-31,/books/OL2857200M,/works/OL5367503W,/languages/eng,004.16,004.6,llm
+Brilliant Mac basics,openlibrary_editions_2026-08-31,/books/OL16888223M,/works/OL15012918W,/languages/eng,005.44,004.68,llm
+Careers in multimedia,openlibrary_editions_2026-08-31,/books/OL794624M,/works/OL2943200W,/languages/eng,006.6,005.74,llm
+OSF,openlibrary_editions_2026-08-31,/books/OL1656402M,/works/OL19047740W,/languages/eng,005.43,004.68,llm
+Choosing and using portable computers,openlibrary_editions_2026-08-31,/books/OL15380504M,/works/OL19408796W,/languages/eng,004.16,004.68,llm
+How to get the most out of CompuServe,openlibrary_editions_2026-08-31,/books/OL22824805M,/works/OL9253508W,/languages/eng,005.71,004.6,llm
+Die Theorie der Variatoren,openlibrary_editions_2026-08-31,/books/OL3031317M,/works/OL5480692W,/languages/ger,001.42,001.53,llm
+Federated Learning for Smart Communication Using IoT Application,openlibrary_editions_2026-08-31,/books/OL60857022M,/works/OL39668428W,/languages/eng,004.6,004.68,llm
+Systematic discography.,openlibrary_editions_2026-08-31,/books/OL5047837M,/works/OL4629879W,/languages/eng,025.34,001.94,llm
+Definitive Guide to Amazon DynamoDB,openlibrary_editions_2026-08-31,/books/OL53264756M,/works/OL39130602W,/languages/eng,005.75,005.74,llm
+eLearning - Konzept und Drehbuch,openlibrary_editions_2026-08-31,/books/OL27034836M,/works/OL19845856W,/languages/ger,006.7,005.74,llm
+Information security and ethics,openlibrary_editions_2026-08-31,/books/OL18339384M,/works/OL9002863W,/languages/eng,005.8,005.74,llm
+Interactive Digital Narrative,openlibrary_editions_2026-08-31,/books/OL54060321M,/works/OL21264737W,/languages/eng,006.7,005.74,llm
+The road ahead,openlibrary_editions_2026-08-31,/books/OL18399457M,/works/OL9073323W,/languages/eng,004.67,004.68,llm
+Sears list of subject headings.,openlibrary_editions_2026-08-31,/books/OL3487494M,/works/OL3480120W,/languages/eng,025.49,025.49,llm
+Guida al censimento dei fenomeni franosi ed alla loro archiviazione,openlibrary_editions_2026-08-31,/books/OL767319M,/works/OL23654317W,/languages/ita,025.06,001.94,llm
+"Fuzzy logic, neural networks, and evolutionary computation",openlibrary_editions_2026-08-31,/books/OL22281774M,/works/OL3355633W,/languages/eng,006.31,005.74,llm
+Calendar and time diary methods in life course research,openlibrary_editions_2026-08-31,/books/OL16908689M,/works/OL11970254W,/languages/eng,001.43,005.74,llm
+More iPhone 3 development,openlibrary_editions_2026-08-31,/books/OL25043237M,/works/OL16163800W,/languages/eng,004.16,004.68,llm
+IE5 + sou xun yin qing,openlibrary_editions_2026-08-31,/books/OL26342208M,/works/OL17743612W,/languages/chi,005.71,004.68,llm
+"The 3rd IET International Conference on Intelligent Environments, IE 07",openlibrary_editions_2026-08-31,/books/OL23553238M,/works/OL13814910W,/languages/eng,006.33,005.74,llm
+National censuses and the United Nations,openlibrary_editions_2026-08-31,/books/OL4276520M,/works/OL4719070W,/languages/eng,001.43,001.94,llm
+Child safety on the Internet,openlibrary_editions_2026-08-31,/books/OL994868M,/works/OL7960965W,/languages/eng,025.04,004.68,llm
+The OS,openlibrary_editions_2026-08-31,/books/OL1703585M,/works/OL3485392W,/languages/eng,005.44,005.74,llm
+CCNA discovery course booklet.,openlibrary_editions_2026-08-31,/books/OL23861418M,/works/OL18757286W,/languages/eng,004.68,004.68,llm
+Foundation ActionScript for Macromedia Flash MX,openlibrary_editions_2026-08-31,/books/OL24595918M,/works/OL15663272W,/languages/eng,006.78,005.74,llm
+Foundation Flash CS4 for designers,openlibrary_editions_2026-08-31,/books/OL24053362M,/works/OL15007603W,/languages/eng,006.69,005.74,llm
+California media directory,openlibrary_editions_2026-08-31,/books/OL3791920M,/works/OL4562215W,/languages/eng,001.51,001.94,llm
+Structured systems and their performance improvement through vertical migration,openlibrary_editions_2026-08-31,/books/OL3483340M,/works/OL5118222W,/languages/eng,001.64,005.74,llm
+Local area networks,openlibrary_editions_2026-08-31,/books/OL1406060M,/works/OL1825553W,/languages/eng,004.68,004.67,llm
+Foundations of Disjunctive Logic Programming,openlibrary_editions_2026-08-31,/books/OL1564110M,/works/OL4123343W,/languages/eng,005.1,005.1,llm
+CCIE practical studies,openlibrary_editions_2026-08-31,/books/OL3573274M,/works/OL5965454W,/languages/eng,005.8,005.74,llm
+Programming in Visual Basic 2010,openlibrary_editions_2026-08-31,/books/OL24566094M,/works/OL15615878W,/languages/eng,006.78,005.74,llm
+"Microsoft FrontPage 2000, illustrated introductory",openlibrary_editions_2026-08-31,/books/OL24767189M,/works/OL15660181W,/languages/eng,005.72,005.74,llm
+Information modeling,openlibrary_editions_2026-08-31,/books/OL1403504M,/works/OL3914460W,/languages/eng,005.13,005.74,llm
+Principles and practice of constraint programming--CP 2005,openlibrary_editions_2026-08-31,/books/OL23161280M,/works/OL13762169W,/languages/eng,005.11,005.74,llm
+Data base systems.,openlibrary_editions_2026-08-31,/books/OL5256173M,/works/OL19441598W,/languages/eng,001.64,005.1,llm
+Getting the most from utilities on the IBM PC,openlibrary_editions_2026-08-31,/books/OL2723418M,/works/OL3368610W,/languages/eng,005.26,004.68,llm
+Indexing,openlibrary_editions_2026-08-31,/books/OL2184585M,/works/OL3931978W,/languages/eng,025.3,001.42,llm
+Final Cut Express 4 editing workshop,openlibrary_editions_2026-08-31,/books/OL16524164M,/works/OL5747055W,/languages/eng,006.69,005.74,llm
+Peter Norton's Inside the PC,openlibrary_editions_2026-08-31,/books/OL24940503M,/works/OL15827790W,/languages/eng,004.16,004.6,llm
+iPhone in easy steps,openlibrary_editions_2026-08-31,/books/OL26954749M,/works/OL19741676W,/languages/eng,004.16,004.68,llm
+Eteros l'altro,openlibrary_editions_2026-08-31,/books/OL2616917M,/works/OL3679499W,/languages/ita,001.51,001.43,llm
+Configuring ISA 2000 server: building firewalls for Windows 2000,openlibrary_editions_2026-08-31,/books/OL24368636M,/works/OL15390269W,/languages/eng,005.8,004.68,llm
+Delphi 6 bian cheng ji chu,openlibrary_editions_2026-08-31,/books/OL32092419M,/works/OL24260001W,/languages/chi,005.1,005.74,llm
+Mastering today's software.,openlibrary_editions_2026-08-31,/books/OL64974M,/works/OL64843W,/languages/eng,005.71,005.74,llm
+Développement d'applications professionnelles avec Android 2,openlibrary_editions_2026-08-31,/books/OL32093029M,/works/OL24260451W,/languages/fre,005.43,004.68,llm
+Artificial intelligence for microcomputers,openlibrary_editions_2026-08-31,/books/OL2536584M,/works/OL1865081W,/languages/eng,006.3,005.74,llm
+Walking the World Wide Web,openlibrary_editions_2026-08-31,/books/OL783388M,/works/OL58243W,/languages/eng,025.04,004.68,llm
+Security and cooperation in wireless networks,openlibrary_editions_2026-08-31,/books/OL18268489M,/works/OL12367802W,/languages/eng,005.8,004.68,llm
+Building solutions with the Microsoft .NET compact framework,openlibrary_editions_2026-08-31,/books/OL3678182M,/works/OL2042586W,/languages/eng,005.27,004.68,llm
+Evaluating server technologies for Internet and Intranet applications,openlibrary_editions_2026-08-31,/books/OL999216M,/works/OL1915367W,/languages/eng,004.67,004.68,llm
+Clout,openlibrary_editions_2026-08-31,/books/OL25079202M,/works/OL16216307W,/languages/eng,005.72,004.68,llm
+Digital Media Production for Beginners,openlibrary_editions_2026-08-31,/books/OL53266088M,/works/OL38622682W,/languages/eng,006.7,005.74,llm
+Sears list of subject headings,openlibrary_editions_2026-08-31,/books/OL43766775M,/works/OL3480120W,/languages/eng,025.49,025.49,llm
+Hidden powers of the TRS-80 Model 100,openlibrary_editions_2026-08-31,/books/OL2858002M,/works/OL3236721W,/languages/eng,001.64,001.43,llm
+EUDISED tesauro multilingüe para el tratamiento de la información en materia de educación,openlibrary_editions_2026-08-31,/books/OL2858025M,/works/OL16351398W,/languages/spa,025.49,001.94,llm
+Library of Congress classification. Class R. Medicine,openlibrary_editions_2026-08-31,/books/OL6794348M,/works/OL19383994W,/languages/eng,025.46,005.71,llm
+Testing Code Security,openlibrary_editions_2026-08-31,/books/OL60832956M,/works/OL9670620W,/languages/eng,005.8,005.74,llm
+Catalog use study,openlibrary_editions_2026-08-31,/books/OL6247489M,/works/OL7202755W,/languages/eng,025.3,025.49,llm
+Object oriented programming using SOM and DSOM,openlibrary_editions_2026-08-31,/books/OL22779857M,/works/OL3486772W,/languages/eng,005.11,005.74,llm
+The Dickinson classification,openlibrary_editions_2026-08-31,/books/OL4409521M,/works/OL4783972W,/languages/eng,025.46,001.94,llm
+Commodore 128 BASIC,openlibrary_editions_2026-08-31,/books/OL2720906M,/works/OL5265604W,/languages/eng,005.26,005.1,llm
+Computer applications,openlibrary_editions_2026-08-31,/books/OL2715205M,/works/OL5261016W,/languages/eng,005.36,004.68,llm
+Learn CAD with AutoSketch for Windows,openlibrary_editions_2026-08-31,/books/OL1397892M,/works/OL3906749W,/languages/eng,006.68,004.68,llm
+Foundation HTML5 with CSS3,openlibrary_editions_2026-08-31,/books/OL27039594M,/works/OL19850980W,/languages/eng,004,005.74,llm
+Who's who in the European information world,openlibrary_editions_2026-08-31,/books/OL15199846M,/works/OL43698932W,/languages/eng,025.52,001.94,llm
+Programming with Macintosh Turbo Pascal,openlibrary_editions_2026-08-31,/books/OL21469019M,/works/OL12489973W,/languages/eng,005.26,005.74,llm
+Inside NetWare 3.12,openlibrary_editions_2026-08-31,/books/OL1269127M,/works/OL3455575W,/languages/eng,005.71,004.68,llm
+Go! with,openlibrary_editions_2026-08-31,/books/OL31795536M,/works/OL24099470W,/languages/eng,005.75,005.74,llm
+Multimedia information retrieval,openlibrary_editions_2026-08-31,/books/OL27076212M,/works/OL19889528W,/languages/eng,025.04,005.74,llm
+The hundredth window,openlibrary_editions_2026-08-31,/books/OL6778887M,/works/OL6799831W,/languages/eng,005.8,004.68,llm
+Digital methods,openlibrary_editions_2026-08-31,/books/OL30659214M,/works/OL22638678W,/languages/eng,001.42,004.68,llm
+Wider horizons,openlibrary_editions_2026-08-31,/books/OL1978257M,/works/OL4576117W,/languages/eng,025.04,001.94,llm
+Ray Tracing Creations,openlibrary_editions_2026-08-31,/books/OL1096973M,/works/OL3487751W,/languages/eng,006.68,004.68,llm
+Illustrator 8 for Macintosh and Windows,openlibrary_editions_2026-08-31,/books/OL105585M,/works/OL583375W,/languages/eng,006.68,005.74,llm
+"Library of Congress classification. Class KDZ, KG-KH. Law of the Americas, Latin America, and the West Indies",openlibrary_editions_2026-08-31,/books/OL3949761M,/works/OL18325920W,/languages/eng,025.46,025.49,llm
+Visual resources,openlibrary_editions_2026-08-31,/books/OL38626700M,/works/OL28214449W,/languages/eng,025.17,025.49,llm
+Parallel processing by cellular automata and arrays,openlibrary_editions_2026-08-31,/books/OL21433544M,/works/OL13381953W,/languages/eng,004.35,001.64,llm
+Effective Angular,openlibrary_editions_2026-08-31,/books/OL53261877M,/works/OL39128979W,/languages/eng,005.27,001.43,llm
+Reference skills for the school librarian,openlibrary_editions_2026-08-31,/books/OL30660525M,/works/OL22640408W,/languages/eng,025.52,005.74,llm
+Creating ActiveX controls with Visual Basic 5,openlibrary_editions_2026-08-31,/books/OL281098M,/works/OL1633791W,/languages/eng,005.27,005.74,llm
+Structured BASIC for mini- and microcomputers,openlibrary_editions_2026-08-31,/books/OL2860138M,/works/OL5368605W,/languages/eng,001.64,005.1,llm
+Visualize this,openlibrary_editions_2026-08-31,/books/OL22464137M,/works/OL7946318W,/languages/eng,004.01,004.67,llm
+Machine Learning in Production,openlibrary_editions_2026-08-31,/books/OL57543607M,/works/OL42411561W,/languages/eng,006.31,005.74,llm
+Zenith 2016,openlibrary_editions_2026-08-31,/books/OL28708487M,/works/OL21198930W,/languages/eng,001.9,001.94,llm
+Jetzt lerne ich C++,openlibrary_editions_2026-08-31,/books/OL38578377M,/works/OL28180280W,/languages/ger,005.13,005.1,llm
+Effective executive's guide to Dreamweaver web sites,openlibrary_editions_2026-08-31,/books/OL3963082M,/works/OL517000W,/languages/eng,005.72,004.68,llm
+Statistics,openlibrary_editions_2026-08-31,/books/OL1124611M,/works/OL3533232W,/languages/eng,001.42,005.1,llm
+Semiotics,openlibrary_editions_2026-08-31,/books/OL18932058M,/works/OL29347226W,/languages/eng,001.51,001.42,llm
+SPINES thesaurus,openlibrary_editions_2026-08-31,/books/OL4595437M,/works/OL4376171W,/languages/eng,025.49,001.94,llm
+Proceedings,openlibrary_editions_2026-08-31,/books/OL25540790M,/works/OL16930084W,/languages/eng,006.3,005.74,llm
+Sams' teach yourself Microsoft Internet Explorer 5 in 24 hours,openlibrary_editions_2026-08-31,/books/OL396735M,/works/OL58130W,/languages/eng,005.71,004.68,llm
+Inductive logic programming,openlibrary_editions_2026-08-31,/books/OL689605M,/works/OL2718696W,/languages/eng,005.11,005.1,llm
+Introduction to recursive programming,openlibrary_editions_2026-08-31,/books/OL26953053M,/works/OL19739975W,/languages/eng,005.1,005.1,llm
+Problems of communication in developing countries,openlibrary_editions_2026-08-31,/books/OL3928822M,/works/OL4259701W,/languages/eng,001.51,001.43,llm
+"Transforming serials : the revolution continues : proceedings of the North American Serials Interest Group, Inc. 17th Annual Conference, June 20-23, 2002, the College of William and Mary, Williamsburg, Virginia",openlibrary_editions_2026-08-31,/books/OL3673189M,/works/OL18969596W,/languages/eng,025.17,025.49,llm
+Visual Basic 6 Client,openlibrary_editions_2026-08-31,/books/OL372618M,/works/OL1936132W,/languages/eng,005.27,005.74,llm
+Motion graphic design,openlibrary_editions_2026-08-31,/books/OL24072030M,/works/OL9350856W,/languages/eng,006.69,004.68,llm
+Managing archives and archival institutions,openlibrary_editions_2026-08-31,/books/OL1960422M,/works/OL18996100W,/languages/eng,025.17,025.49,llm
+Intranet-management,openlibrary_editions_2026-08-31,/books/OL31662385M,/works/OL23961216W,/languages/fre,004.68,004.68,llm
+Parallele und verteilte Anwendungen in Java,openlibrary_editions_2026-08-31,/books/OL25572407M,/works/OL16996349W,/languages/ger,005.13,005.74,llm
+Communication in the service of women,openlibrary_editions_2026-08-31,/books/OL2761880M,/works/OL22962201W,/languages/eng,001.51,006.78,llm
+Career as an archivist,openlibrary_editions_2026-08-31,/books/OL27023207M,/works/OL19833291W,/languages/eng,025.17,005.74,llm
+Internetworking,openlibrary_editions_2026-08-31,/books/OL21933712M,/works/OL14932235W,/languages/eng,004.6,004.68,llm
+Exploring Adobe Flash CS4,openlibrary_editions_2026-08-31,/books/OL25073819M,/works/OL16210629W,/languages/eng,006.78,005.74,llm
+Directory of spatial datasets to support environmental research along the United States-Mexico border,openlibrary_editions_2026-08-31,/books/OL539656M,/works/OL2371569W,/languages/eng,025.06,001.94,llm
+Einstieg in SQL,openlibrary_editions_2026-08-31,/books/OL25559150M,/works/OL16970021W,/languages/ger,005.75,005.74,llm
+Operation earth.,openlibrary_editions_2026-08-31,/books/OL4972694M,/works/OL8496532W,/languages/eng,001.94,025.49,llm
+Statistical data mining using SAS applications,openlibrary_editions_2026-08-31,/books/OL24791257M,/works/OL15883363W,/languages/eng,006.31,005.74,llm
+3D for graphic designers,openlibrary_editions_2026-08-31,/books/OL24906434M,/works/OL16002253W,/languages/eng,006.69,004.68,llm
+Algebra for computer science,openlibrary_editions_2026-08-31,/books/OL2039498M,/works/OL2687438W,/languages/eng,004.01,005.74,llm
+Knowledge science,openlibrary_editions_2026-08-31,/books/OL25263971M,/works/OL16576678W,/languages/eng,006.31,005.74,llm
+Cartographic materials,openlibrary_editions_2026-08-31,/books/OL3491705M,/works/OL15971005W,/languages/eng,025.34,025.49,llm
+Chang tong wu zu xue Flash dong hua zhi zuo,openlibrary_editions_2026-08-31,/books/OL27941501M,/works/OL20663033W,/languages/chi,006.69,004.68,llm
+Microsoft Outlook 2000 for Windows for dummies quick reference,openlibrary_editions_2026-08-31,/books/OL59786M,/works/OL18832604W,/languages/eng,005.36,005.74,llm
+Agile technologies in open source development,openlibrary_editions_2026-08-31,/books/OL22843370M,/works/OL16008897W,/languages/eng,005.1,005.74,llm
+Instructor's solutions manual [for] Statistics,openlibrary_editions_2026-08-31,/books/OL37936076M,/works/OL27776139W,/languages/eng,001.42,005.71,llm
+Positive feedback; a general systems approach to positive,openlibrary_editions_2026-08-31,/books/OL5610142M,/works/OL5364543W,/languages/eng,001.53,001.53,llm
+Compositional verification of concurrent and real-time systems,openlibrary_editions_2026-08-31,/books/OL21484963M,/works/OL13185560W,/languages/eng,004.35,005.74,llm
+Mastering today's software.,openlibrary_editions_2026-08-31,/books/OL1218646M,/works/OL64843W,/languages/eng,005.44,005.74,llm
+Decision and control,openlibrary_editions_2026-08-31,/books/OL5994186M,/works/OL3054938W,/languages/eng,001.42,005.74,llm
+Greg Harvey's Excel 4.0 for Windows,openlibrary_editions_2026-08-31,/books/OL1345459M,/works/OL15285052W,/languages/eng,005.36,005.44,llm
+Podcast solutions,openlibrary_editions_2026-08-31,/books/OL3404541M,/works/OL5828438W,/languages/eng,006.78,005.74,llm
+PHP cookbook,openlibrary_editions_2026-08-31,/books/OL3438225M,/works/OL5759153W,/languages/eng,005.72,005.74,llm
+Spinning the Web,openlibrary_editions_2026-08-31,/books/OL3964348M,/works/OL6221385W,/languages/eng,025.04,004.68,llm
+Le triangle des perturbations,openlibrary_editions_2026-08-31,/books/OL3874849M,/works/OL6157353W,/languages/fre,001.94,001.43,llm
+DECnet phase V,openlibrary_editions_2026-08-31,/books/OL1548181M,/works/OL2354652W,/languages/eng,004.6,004.68,llm
+منهج البحث التاريخي,openlibrary_editions_2026-08-31,/books/OL61161431M,/works/OL44799775W,/languages/ara,001.43,001.94,llm
+Designing information,openlibrary_editions_2026-08-31,/books/OL3895433M,/works/OL4944637W,/languages/eng,001.51,005.71,llm
+Foundations of information and knowledge systems,openlibrary_editions_2026-08-31,/books/OL3585218M,/works/OL5974457W,/languages/eng,006.33,005.74,llm
+CEH,openlibrary_editions_2026-08-31,/books/OL24049899M,/works/OL16921106W,/languages/eng,005.8,006.78,llm
+Sears list of subject headings.,openlibrary_editions_2026-08-31,/books/OL1532636M,/works/OL3480120W,/languages/eng,025.49,025.49,llm
+Steve Michel's SuperCard handbook,openlibrary_editions_2026-08-31,/books/OL1799766M,/works/OL3636133W,/languages/eng,005.26,005.74,llm
+Nonmonotonic reasoning,openlibrary_editions_2026-08-31,/books/OL43504206M,/works/OL31806554W,/languages/eng,006.33,005.74,llm
+Population censuses of Nepal and the problems of data analysis,openlibrary_editions_2026-08-31,/books/OL4076889M,/works/OL4261708W,/languages/eng,001.43,001.94,llm
+Author entry for government publications,openlibrary_editions_2026-08-31,/books/OL61331785M,/works/OL36945890W,/languages/eng,025.3,025.49,llm
+Object-oriented programming with ABAP Objects,openlibrary_editions_2026-08-31,/books/OL30398650M,/works/OL22319778W,/languages/eng,005.11,005.74,llm
+"Archives & manuscripts, arrangement & description",openlibrary_editions_2026-08-31,/books/OL4545753M,/works/OL2281932W,/languages/eng,025.17,025.49,llm
+Categories and Computer Science,openlibrary_editions_2026-08-31,/books/OL15058566M,/works/OL3755501W,/languages/eng,004.01,005.1,llm
+What is a monster?,openlibrary_editions_2026-08-31,/books/OL4734380M,/works/OL3602533W,/languages/eng,001.94,001.94,llm
+Taxonomies and toolkits of regular language algorithms,openlibrary_editions_2026-08-31,/books/OL916369M,/works/OL3168101W,/languages/eng,005.13,005.74,llm
+Magicians of the gods,openlibrary_editions_2026-08-31,/books/OL27191582M,/works/OL20011502W,/languages/eng,001.94,001.9,knn
+The design and analysis of parallel algorithms,openlibrary_editions_2026-08-31,/books/OL1727836M,/works/OL3459339W,/languages/eng,005.11,005.44,llm
+Hunt for the skinwalker,openlibrary_editions_2026-08-31,/books/OL3428777M,/works/OL5850693W,/languages/eng,001.94,001.94,knn
+NetWare for dummies,openlibrary_editions_2026-08-31,/books/OL1443286M,/works/OL121066W,/languages/eng,004.68,004.68,llm
+6o. Simpósio Brasileiro de Banco de Dados,openlibrary_editions_2026-08-31,/books/OL1364799M,/works/OL3869840W,/languages/por,005.74,005.74,llm
+A [plus] fast pass,openlibrary_editions_2026-08-31,/books/OL22047083M,/works/OL15123009W,/languages/eng,004,005.71,llm
+Legend and reality,openlibrary_editions_2026-08-31,/books/OL17181034M,/works/OL6455497W,/languages/eng,001.94,001.94,llm
+Parallel supercomputing,openlibrary_editions_2026-08-31,/books/OL2216064M,/works/OL19196184W,/languages/eng,004.35,001.64,llm
+From Carnegie to Internet2,openlibrary_editions_2026-08-31,/books/OL6779134M,/works/OL17203099W,/languages/eng,025.34,001.94,llm
+The HTML programmer's reference,openlibrary_editions_2026-08-31,/books/OL1003081M,/works/OL3341699W,/languages/eng,005.72,005.74,llm
+"Serial publications, their place and treatment in libraries.",openlibrary_editions_2026-08-31,/books/OL6175970M,/works/OL6324980W,/languages/eng,025.17,025.49,llm
+Advanced SOAP for Web professionals,openlibrary_editions_2026-08-31,/books/OL3558836M,/works/OL5956359W,/languages/eng,005.27,004.68,llm
+The tomes of Delphi,openlibrary_editions_2026-08-31,/books/OL24930188M,/works/OL16027040W,/languages/eng,005.75,005.74,llm
+Flash 5 Magic with ActionScript,openlibrary_editions_2026-08-31,/books/OL23058291M,/works/OL2629840W,/languages/eng,006.69,005.74,llm
+Trends in Functional Programming,openlibrary_editions_2026-08-31,/books/OL27092863M,/works/OL19907944W,/languages/eng,005.11,005.74,llm
+Audiovisual resources in a hospital medical library,openlibrary_editions_2026-08-31,/books/OL21701243M,/works/OL4976059W,/languages/eng,025.17,005.74,llm
+"Logic, Language, and Computation",openlibrary_editions_2026-08-31,/books/OL27071625M,/works/OL19884520W,/languages/eng,006.6,005.74,llm
+Fast EtherLink XL PCI 10,openlibrary_editions_2026-08-31,/books/OL95673M,/works/OL775561W,/languages/eng,004.68,004.68,llm
+Report of the Council of Higher Education on academic library facility needs in Virginia's public system of higher education to the Governor and the General Assembly of Virginia,openlibrary_editions_2026-08-31,/books/OL2496519M,/works/OL697499W,/languages/eng,025.52,025.49,llm
+IEEE Symposium on Visual Languages and Human Centric Computing,openlibrary_editions_2026-08-31,/books/OL30514025M,/works/OL22424452W,/languages/eng,004.01,005.74,llm
+Creating a Web page with HTML,openlibrary_editions_2026-08-31,/books/OL18391925M,/works/OL710831W,/languages/eng,005.72,004.68,llm
+Networking handbook,openlibrary_editions_2026-08-31,/books/OL6896416M,/works/OL1904089W,/languages/eng,004.6,004.68,llm
+SAX2,openlibrary_editions_2026-08-31,/books/OL3585129M,/works/OL5974401W,/languages/eng,005.72,005.74,llm
+Logic in databases,openlibrary_editions_2026-08-31,/books/OL1002503M,/works/OL18279921W,/languages/eng,005.74,005.74,llm
+Mac OS X maximum security,openlibrary_editions_2026-08-31,/books/OL3959425M,/works/OL2552851W,/languages/eng,005.44,004.68,llm
+Conspiracy theories & other dangerous ideas,openlibrary_editions_2026-08-31,/books/OL27156446M,/works/OL19976280W,/languages/eng,001.9,001.94,llm
+The Complexity Theory Companion,openlibrary_editions_2026-08-31,/books/OL27025510M,/works/OL19835893W,/languages/eng,005.1,004.6,llm
+Digital video and DSP,openlibrary_editions_2026-08-31,/books/OL22672633M,/works/OL3918470W,/languages/eng,006.69,005.74,llm
+The unexplained,openlibrary_editions_2026-08-31,/books/OL21064393M,/works/OL18895457W,/languages/eng,001.94,001.94,llm
+The complete idiot's guide to online personal finance,openlibrary_editions_2026-08-31,/books/OL6797816M,/works/OL5759134W,/languages/eng,025.06,005.74,llm
+Inside form·̳Z,openlibrary_editions_2026-08-31,/books/OL358011M,/works/OL84818W,/languages/eng,006.68,004.68,llm
+Illustrated Turbo prolog,openlibrary_editions_2026-08-31,/books/OL2401427M,/works/OL4632395W,/languages/eng,006.3,005.1,llm
+Documented BackOffice,openlibrary_editions_2026-08-31,/books/OL682635M,/works/OL1926729W,/languages/eng,005.71,004.68,llm
+Design of reservation protocols for multimedia communication,openlibrary_editions_2026-08-31,/books/OL809004M,/works/OL2974494W,/languages/eng,006.6,004.68,llm
+Te putanga i te wheiao ki te ao mārama,openlibrary_editions_2026-08-31,/books/OL31276311M,/works/OL23419008W,/languages/eng,001.42,005.74,llm
+Business software companion,openlibrary_editions_2026-08-31,/books/OL21467010M,/works/OL2483148W,/languages/eng,005.36,005.74,llm
+Beyond bizarre,openlibrary_editions_2026-08-31,/books/OL28428942M,/works/OL20997345W,/languages/eng,001.9,001.43,llm
+Class FC,openlibrary_editions_2026-08-31,/books/OL3118840M,/works/OL19177563W,/languages/eng,025.46,025.49,llm
+World Wide Web programming,openlibrary_editions_2026-08-31,/books/OL677824M,/works/OL2686201W,/languages/eng,005.27,004.67,llm
+Leading the reference renaissance,openlibrary_editions_2026-08-31,/books/OL25094372M,/works/OL16263138W,/languages/eng,025.52,025.49,llm
+Weiterbildungsberatung für Erwerbslose,openlibrary_editions_2026-08-31,/books/OL3529611M,/works/OL2057569W,/languages/ger,025.06,001.94,llm
+Industries list,openlibrary_editions_2026-08-31,/books/OL6064369M,/works/OL6150094W,/languages/eng,025.46,001.94,llm
+ClarisWorks 4 for Macintosh,openlibrary_editions_2026-08-31,/books/OL24938982M,/works/OL16037269W,/languages/eng,005.36,004.68,llm
+UFOs--God's chariots?,openlibrary_editions_2026-08-31,/books/OL19582625M,/works/OL3267340W,/languages/eng,001.94,001.94,llm
+8087,openlibrary_editions_2026-08-31,/books/OL2528584M,/works/OL5093394W,/languages/eng,005.26,005.74,llm
+Thinking in C♯,openlibrary_editions_2026-08-31,/books/OL23722068M,/works/OL15313243W,/languages/eng,005.13,005.1,llm
+Library of Congress classification. KF. Law of the United States,openlibrary_editions_2026-08-31,/books/OL3310508M,/works/OL18242310W,/languages/eng,025.46,025.49,llm
+Hooking teens with the Net,openlibrary_editions_2026-08-31,/books/OL3567167M,/works/OL5961115W,/languages/eng,025.04,004.68,llm
+Microsoft Windows NT technical support,openlibrary_editions_2026-08-31,/books/OL26431062M,/works/OL15826030W,/languages/eng,005.74,004.68,llm
+dBASE Mac in business,openlibrary_editions_2026-08-31,/books/OL2082383M,/works/OL3005381W,/languages/eng,005.75,005.74,llm
+Abusing the internet of things,openlibrary_editions_2026-08-31,/books/OL27193595M,/works/OL20013520W,/languages/eng,005.8,004.68,llm
+Der Problembezug von Entscheidungsmodellen,openlibrary_editions_2026-08-31,/books/OL3900908M,/works/OL6179507W,/languages/ger,001.53,005.74,llm
+"UNIX introduction, level 1",openlibrary_editions_2026-08-31,/books/OL1142230M,/works/OL23539251W,/languages/eng,005.43,004.68,llm
+Advanced message applications with MSMQ and MQSeries,openlibrary_editions_2026-08-31,/books/OL24763637M,/works/OL15790403W,/languages/eng,005.71,005.74,llm
+C programmerʼs guide to NetBIOS,openlibrary_editions_2026-08-31,/books/OL2065471M,/works/OL2708685W,/languages/eng,004.68,004.68,llm
+Common desktop environment 1.0.,openlibrary_editions_2026-08-31,/books/OL1279335M,/works/OL8020372W,/languages/eng,005.43,004.68,llm
+The ultimate DOS programmer's manual,openlibrary_editions_2026-08-31,/books/OL1401654M,/works/OL59512W,/languages/eng,005.44,004.68,llm
+Guide to Computing for Expressive Music Performance,openlibrary_editions_2026-08-31,/books/OL27042393M,/works/OL19854072W,/languages/eng,004,005.74,llm
+WIMAX technology and network evolution,openlibrary_editions_2026-08-31,/books/OL24033820M,/works/OL18569569W,/languages/eng,004.67,004.68,llm
+Building object applications that work,openlibrary_editions_2026-08-31,/books/OL435609M,/works/OL578156W,/languages/eng,005.11,005.74,llm
+Advanced information systems engineering,openlibrary_editions_2026-08-31,/books/OL361980M,/works/OL1894139W,/languages/eng,005.1,005.74,llm
+Medien und Kommunikation als Lernfeld,openlibrary_editions_2026-08-31,/books/OL2490682M,/works/OL19565891W,/languages/ger,001.51,005.74,llm
+Foundations of intelligent systems,openlibrary_editions_2026-08-31,/books/OL971839M,/works/OL3245958W,/languages/eng,006.33,005.74,llm
+Reference services in academic research libraries,openlibrary_editions_2026-08-31,/books/OL2335289M,/works/OL4918621W,/languages/eng,025.52,025.49,llm
+Graph-theoretic concepts in computer science,openlibrary_editions_2026-08-31,/books/OL21486660M,/works/OL13394657W,/languages/eng,004.01,004.68,llm
+Fuzzy Classifier Design,openlibrary_editions_2026-08-31,/books/OL27040499M,/works/OL19851998W,/languages/eng,006.3,005.74,llm
+Microsoft Windows NT workstation version 3.5 step by step,openlibrary_editions_2026-08-31,/books/OL1107045M,/works/OL8407845W,/languages/eng,005.44,004.68,llm
+Reasoning with complex cases,openlibrary_editions_2026-08-31,/books/OL658778M,/works/OL18330896W,/languages/eng,006.33,005.74,llm
+Computer data structures,openlibrary_editions_2026-08-31,/books/OL4893135M,/works/OL6910932W,/languages/eng,001.64,005.1,llm
+Library of Congress classification. Class KJ-KKZ. Law of Europe,openlibrary_editions_2026-08-31,/books/OL1856840M,/works/OL23095210W,/languages/eng,025.49,025.49,llm
+Production topologies for WebSphere process server and WebSphere ESB V6,openlibrary_editions_2026-08-31,/books/OL31762677M,/works/OL24064413W,/languages/eng,006.78,004.68,llm
+Kooperative Softwareentwicklung,openlibrary_editions_2026-08-31,/books/OL27067608M,/works/OL19880260W,/languages/ger,004,005.74,llm
+Access for Windows 95 essentials level II,openlibrary_editions_2026-08-31,/books/OL820574M,/works/OL2040886W,/languages/eng,005.75,005.74,llm
+MICROBOOK,openlibrary_editions_2026-08-31,/books/OL3487828M,/works/OL2912930W,/languages/eng,001.64,005.1,llm
+Adobe Premiere Elements 9 Classroom in a Book,openlibrary_editions_2026-08-31,/books/OL25535436M,/works/OL16917435W,/languages/eng,006.68,005.74,llm
+dBase III plus programming,openlibrary_editions_2026-08-31,/books/OL1879771M,/works/OL4110079W,/languages/eng,005.75,005.74,llm
+Gender Considerations in Online Consumption Behavior and Internet Use,openlibrary_editions_2026-08-31,/books/OL55587915M,/works/OL27385504W,/languages/eng,004.67,004.68,llm
+British education thesaurus,openlibrary_editions_2026-08-31,/books/OL2243424M,/works/OL12293091W,/languages/eng,025.49,001.42,llm
+Corpos gestores e dirigentes das empresas públicas e intervencionadas do sector da comunicação social,openlibrary_editions_2026-08-31,/books/OL2906067M,/works/OL22828923W,/languages/por,001.51,005.74,llm
+Wild Talents,openlibrary_editions_2026-08-31,/books/OL57734104M,/works/OL66057W,/languages/eng,001.94,001.43,llm
+Organizing Wisconsin public documents,openlibrary_editions_2026-08-31,/books/OL4856202M,/works/OL6889946W,/languages/eng,025.34,025.49,llm
+BASIC on the ATARI computer for kids,openlibrary_editions_2026-08-31,/books/OL3189336M,/works/OL5611482W,/languages/eng,005.26,005.1,llm
+Film libraries,openlibrary_editions_2026-08-31,/books/OL20626397M,/works/OL19027588W,/languages/eng,025.17,025.49,llm
+Windows NT backup & recovery,openlibrary_editions_2026-08-31,/books/OL443654M,/works/OL2161890W,/languages/eng,005.44,004.68,llm
+Reliable JavaScript,openlibrary_editions_2026-08-31,/books/OL27185358M,/works/OL20005266W,/languages/eng,005.27,005.74,llm
+Mathematical Foundations of Computer Science 2012,openlibrary_editions_2026-08-31,/books/OL27073221M,/works/OL19886255W,/languages/eng,005.1,005.74,llm
+Convergence of mobile and stationary next-generation networks,openlibrary_editions_2026-08-31,/books/OL24494163M,/works/OL15537588W,/languages/eng,004.68,004.68,llm
+Designing & doing survey research,openlibrary_editions_2026-08-31,/books/OL25376248M,/works/OL16704385W,/languages/eng,001.43,005.74,llm
+The art of Prolog,openlibrary_editions_2026-08-31,/books/OL1436996M,/works/OL3961566W,/languages/eng,005.13,005.1,llm
+Sears list of subject headings.,openlibrary_editions_2026-08-31,/books/OL2714751M,/works/OL3480120W,/languages/eng,025.49,025.49,llm
+The Simple book,openlibrary_editions_2026-08-31,/books/OL14943375M,/works/OL1880780W,/languages/eng,004.6,004.68,llm
+Indexing Multimedia and Creative Works,openlibrary_editions_2026-08-31,/books/OL53998539M,/works/OL5726661W,/languages/eng,025.04,005.74,llm
+A practical introduction to Pascal,openlibrary_editions_2026-08-31,/books/OL33220305M,/works/OL19896065W,/languages/eng,001.64,005.13,llm
+Web design in simple steps,openlibrary_editions_2026-08-31,/books/OL24462255M,/works/OL15500352W,/languages/eng,006.7,004.68,llm
+Data structures and program design in C,openlibrary_editions_2026-08-31,/books/OL18148939M,/works/OL11310993W,/languages/eng,005.1,005.13,llm
+Parallel and distributed computation,openlibrary_editions_2026-08-31,/books/OL2033902M,/works/OL2021801W,/languages/eng,004.35,004.68,llm
+Dreamweaver 2,openlibrary_editions_2026-08-31,/books/OL6804021M,/works/OL1728658W,/languages/eng,005.72,004.68,llm
+Survey of libraries providing locally mounted databases,openlibrary_editions_2026-08-31,/books/OL1660013M,/works/OL19575710W,/languages/eng,025.04,025.49,llm
+Statistical Mining and Data Visualization in Atmospheric Sciences,openlibrary_editions_2026-08-31,/books/OL27089163M,/works/OL19903876W,/languages/eng,005.74,005.74,llm
+"Classification. Class P, subclasses PB-PH: modern European languages (with supplementary pages)",openlibrary_editions_2026-08-31,/books/OL5965454M,/works/OL4398403W,/languages/eng,025.46,001.43,llm
+Proof and computation,openlibrary_editions_2026-08-31,/books/OL780631M,/works/OL19897485W,/languages/eng,004.01,005.74,llm
+Applications of AI for Interdisciplinary Research,openlibrary_editions_2026-08-31,/books/OL53264135M,/works/OL39130246W,/languages/eng,001.42,001.53,llm
+Data modeling and design for today's architectures,openlibrary_editions_2026-08-31,/books/OL686238M,/works/OL2709706W,/languages/eng,005.74,004.68,llm
+Motion capture in performance,openlibrary_editions_2026-08-31,/books/OL30846547M,/works/OL22939304W,/languages/eng,006.69,005.74,llm
+Computer languages,openlibrary_editions_2026-08-31,/books/OL2713133M,/works/OL16058352W,/languages/eng,005.13,005.1,llm
+Object-relational DBMSs,openlibrary_editions_2026-08-31,/books/OL811709M,/works/OL832964W,/languages/eng,005.75,005.74,llm
+Parallel inference engine,openlibrary_editions_2026-08-31,/books/OL22422809M,/works/OL19488490W,/languages/eng,004.35,005.74,llm
+The incredible Internet guide to comic books & superheroes,openlibrary_editions_2026-08-31,/books/OL6805322M,/works/OL7801230W,/languages/eng,025.06,004.68,llm
+The giant book of mysterious and bizarre people,openlibrary_editions_2026-08-31,/books/OL35446948M,/works/OL26285039W,/languages/eng,001.9,001.94,llm
+International business information on the web,openlibrary_editions_2026-08-31,/books/OL25564859M,/works/OL16982003W,/languages/eng,025.06,001.94,llm
+Responsive web design toolkit,openlibrary_editions_2026-08-31,/books/OL30393256M,/works/OL22315300W,/languages/eng,006.7,004.68,llm
+Computer graphics,openlibrary_editions_2026-08-31,/books/OL27151110M,/works/OL19970917W,/languages/eng,006.6,004.6,llm
+Sams teach yourself computer basics in 24 hours,openlibrary_editions_2026-08-31,/books/OL19273233M,/works/OL58131W,/languages/eng,004,004,llm
+Novell NetWare 2.2,openlibrary_editions_2026-08-31,/books/OL1564114M,/works/OL4107755W,/languages/eng,005.71,005.74,llm
+Knowledge-based expert systems in industry,openlibrary_editions_2026-08-31,/books/OL2374431M,/works/OL19470242W,/languages/eng,006.33,005.74,llm
+Dreamweaver CS3,openlibrary_editions_2026-08-31,/books/OL37049182M,/works/OL19931548W,/languages/eng,005.72,004.68,llm
+Inkscape,openlibrary_editions_2026-08-31,/books/OL27114917M,/works/OL19934236W,/languages/eng,006.68,005.74,llm
+The Filter Bubble,openlibrary_editions_2026-08-31,/books/OL24842155M,/works/OL15747216W,/languages/eng,004.67,004.68,llm
+Multi Level Resource Information System users guide,openlibrary_editions_2026-08-31,/books/OL18069376M,/works/OL12314729W,/languages/eng,005.74,005.74,llm
+Internet messaging,openlibrary_editions_2026-08-31,/books/OL359178M,/works/OL1880776W,/languages/eng,005.71,004.68,llm
+Advances in cryptology--CRYPTO 8̀8,openlibrary_editions_2026-08-31,/books/OL17970441M,/works/OL12294009W,/languages/eng,005.8,005.74,llm
+Super searchers make it on their own,openlibrary_editions_2026-08-31,/books/OL3551950M,/works/OL5951619W,/languages/eng,025.52,001.53,llm
+Software reusability,openlibrary_editions_2026-08-31,/books/OL21128413M,/works/OL19309629W,/languages/eng,005.1,005.74,llm
+Internet and e-mail for seniors with Windows Vista,openlibrary_editions_2026-08-31,/books/OL23109624M,/works/OL17191341W,/languages/eng,004.67,004.68,llm
+Expertensysteme für den Einsatz von Subroutinenpaketen,openlibrary_editions_2026-08-31,/books/OL1761281M,/works/OL4338047W,/languages/ger,006.6,005.74,llm
+Build your own security lab,openlibrary_editions_2026-08-31,/books/OL19999522M,/works/OL8206080W,/languages/eng,005.8,004.68,llm
+Transputer,openlibrary_editions_2026-08-31,/books/OL3963454M,/works/OL6220947W,/languages/eng,004.35,004.68,llm
+Public cloud computing,openlibrary_editions_2026-08-31,/books/OL25346786M,/works/OL16672046W,/languages/eng,004.67,004.68,llm
+Periodicals administration in libraries,openlibrary_editions_2026-08-31,/books/OL4721356M,/works/OL22585110W,/languages/eng,025.34,025.49,llm
+Security of data and transaction processing,openlibrary_editions_2026-08-31,/books/OL18293071M,/works/OL18506078W,/languages/eng,005.8,005.74,llm
+"Internet of Things, Smart Spaces, and Next Generation Networking",openlibrary_editions_2026-08-31,/books/OL27046571M,/works/OL19858691W,/languages/eng,004.6,004.68,llm
+List of descriptors in the field of transport economics,openlibrary_editions_2026-08-31,/books/OL3848063M,/works/OL22742919W,/languages/eng,025.49,001.94,llm
+Operational research techniques,openlibrary_editions_2026-08-31,/books/OL4034507M,/works/OL4274286W,/languages/eng,001.42,005.74,llm
+ESPRIT '86,openlibrary_editions_2026-08-31,/books/OL2738269M,/works/OL5278385W,/languages/eng,004,004.6,llm
+Learning Adobe Photoshop CS2,openlibrary_editions_2026-08-31,/books/OL3430547M,/works/OL19372722W,/languages/eng,006.68,005.74,llm
+Applications oflocal area networks for information management,openlibrary_editions_2026-08-31,/books/OL21663842M,/works/OL9576773W,/languages/eng,004.68,004.68,llm
+Network Troubleshooting Tools,openlibrary_editions_2026-08-31,/books/OL23007223M,/works/OL8167306W,/languages/eng,004.6,004.68,llm
+Windows 3.1 programming for mere mortals,openlibrary_editions_2026-08-31,/books/OL1143348M,/works/OL1700986W,/languages/eng,005.26,005.74,llm
+XForms essentials,openlibrary_editions_2026-08-31,/books/OL3320672M,/works/OL5749172W,/languages/eng,005.72,004.68,llm
+The Painter 8 Wow! book,openlibrary_editions_2026-08-31,/books/OL3318759M,/works/OL2148475W,/languages/eng,006.68,004.68,llm
+BSD,openlibrary_editions_2026-08-31,/books/OL25569216M,/works/OL16990106W,/languages/fre,005.36,004.68,llm
+Exploration of Visual Data,openlibrary_editions_2026-08-31,/books/OL27037883M,/works/OL19849137W,/languages/eng,006.6,005.74,llm
+Systematische Aufstellung in deutschen wissenschaftlichen Bibliotheken,openlibrary_editions_2026-08-31,/books/OL1142600M,/works/OL3099149W,/languages/ger,025.3,025.49,llm
+Podcasting bible,openlibrary_editions_2026-08-31,/books/OL24789076M,/works/OL15880840W,/languages/eng,006.78,005.74,llm
+Navigating business information sources,openlibrary_editions_2026-08-31,/books/OL6823217M,/works/OL6074174W,/languages/eng,025.06,001.94,llm
+"Video, audio and data recording",openlibrary_editions_2026-08-31,/books/OL19387993M,/works/OL12746970W,/languages/eng,005.74,004.68,llm
+Cybernetics,openlibrary_editions_2026-08-31,/books/OL5767146M,/works/OL112992W,/languages/eng,001.53,001.43,llm
+Le PC,openlibrary_editions_2026-08-31,/books/OL32763415M,/works/OL24684262W,/languages/fre,004.16,004,llm
+Highly parallel computing,openlibrary_editions_2026-08-31,/books/OL1423731M,/works/OL3944405W,/languages/eng,004.35,004.68,llm
+Programming in Prolog,openlibrary_editions_2026-08-31,/books/OL27083219M,/works/OL2716116W,/languages/eng,005.13,005.1,llm
+"Standards for cataloging, coding, and scheduling educational media.",openlibrary_editions_2026-08-31,/books/OL5615336M,/works/OL22467213W,/languages/eng,025.3,005.74,llm
+Microsoft's 80386,openlibrary_editions_2026-08-31,/books/OL21932019M,/works/OL4303005W,/languages/eng,005.36,005.1,llm
+The digital playing fields,openlibrary_editions_2026-08-31,/books/OL30510464M,/works/OL22421329W,/languages/eng,006.7,005.74,llm
+Inkscape efficace,openlibrary_editions_2026-08-31,/books/OL27045677M,/works/OL19857716W,/languages/fre,006.68,005.74,llm
+NT & virtual private networks seminar,openlibrary_editions_2026-08-31,/books/OL45472308M,/works/OL33538592W,/languages/eng,005.71,004.68,llm
+Communication networks,openlibrary_editions_2026-08-31,/books/OL27025153M,/works/OL19835494W,/languages/eng,004.6,004.67,llm
+See how they run,openlibrary_editions_2026-08-31,/books/OL19856422M,/works/OL12911053W,/languages/eng,025.06,001.42,llm
+Mastering NetWare,openlibrary_editions_2026-08-31,/books/OL2224628M,/works/OL4324830W,/languages/eng,005.71,004.68,llm
+Intermediate problem solving and data structures,openlibrary_editions_2026-08-31,/books/OL2532670M,/works/OL3903041W,/languages/eng,001.64,005.74,llm
+Mastering DOS 5,openlibrary_editions_2026-08-31,/books/OL1895066M,/works/OL3972323W,/languages/eng,005.44,004.68,llm
+Communicate!,openlibrary_editions_2026-08-31,/books/OL4114624M,/works/OL13811W,/languages/eng,001.51,001.94,llm
+Guide des Archives de la Haute-Savoie,openlibrary_editions_2026-08-31,/books/OL4320299M,/works/OL3116965W,/languages/fre,025.17,025.49,llm
+FileMaker Pro for the Mac,openlibrary_editions_2026-08-31,/books/OL1105441M,/works/OL516122W,/languages/eng,005.75,005.74,llm
+Arbetsplatsbibliotek i Sverige,openlibrary_editions_2026-08-31,/books/OL2451531M,/works/OL5030475W,/languages/swe,025.52,025.49,llm
+Compilers and operating systems for low power,openlibrary_editions_2026-08-31,/books/OL19290287M,/works/OL19114297W,/languages/eng,005.43,004.6,llm
+Understanding Editorial Text: A Computer Model of Argument Comprehension,openlibrary_editions_2026-08-31,/books/OL27093414M,/works/OL19908562W,/languages/eng,006.3,005.74,llm
+Multimedia technologies,openlibrary_editions_2026-08-31,/books/OL16865268M,/works/OL18795423W,/languages/eng,006.7,004.68,llm
+AS,openlibrary_editions_2026-08-31,/books/OL1426464M,/works/OL3948223W,/languages/eng,005.43,005.1,llm
+Microsoft PowerPoint 2000 MOUS cheat sheet,openlibrary_editions_2026-08-31,/books/OL22344247M,/works/OL8578537W,/languages/eng,006.68,005.74,llm
+Pyramids and the second reality,openlibrary_editions_2026-08-31,/books/OL4127961M,/works/OL3534699W,/languages/eng,001.9,001.43,llm
+AI Factory,openlibrary_editions_2026-08-31,/books/OL60821669M,/works/OL36460569W,/languages/eng,006.3,005.1,knn
+Success with internet,openlibrary_editions_2026-08-31,/books/OL852935M,/works/OL2421743W,/languages/eng,004.67,004.6,llm
+Inside VMS,openlibrary_editions_2026-08-31,/books/OL1550567M,/works/OL4106032W,/languages/eng,005.44,005.74,llm
+Toeganklikheid van inligtingsbronne vir 'n groep geesteswetenskaplike navorsers,openlibrary_editions_2026-08-31,/books/OL3811883M,/works/OL5048722W,/languages/afr,025.04,025.49,llm
+Writing bug-free C code for Windows,openlibrary_editions_2026-08-31,/books/OL1114234M,/works/OL3515647W,/languages/eng,005.26,004.67,llm
+"Index to the Library of Congress Cataloging service bulletin, 108-125",openlibrary_editions_2026-08-31,/books/OL2656454M,/works/OL22883965W,/languages/eng,025.3,025.49,llm
+Dreamweaver MX 2004,openlibrary_editions_2026-08-31,/books/OL24926659M,/works/OL16023033W,/languages/eng,005.72,005.74,llm
+Theoretical computer science,openlibrary_editions_2026-08-31,/books/OL2227365M,/works/OL19560120W,/languages/eng,004,004.6,llm
+Curiosity won't kill you,openlibrary_editions_2026-08-31,/books/OL20132376M,/works/OL13000020W,/languages/eng,001.9,001.94,llm
+The quick Internet guide to career and college information,openlibrary_editions_2026-08-31,/books/OL675662M,/works/OL18920304W,/languages/eng,025.06,001.94,llm
+dBASE IV,openlibrary_editions_2026-08-31,/books/OL1563488M,/works/OL3463083W,/languages/eng,005.75,005.74,llm
+Slovarʹ predmetnykh oboznacheniĭ [rubrik].,openlibrary_editions_2026-08-31,/books/OL6769213M,/works/OL7681478W,/languages/rus,025.3,025.49,llm
+Models of neural networks III,openlibrary_editions_2026-08-31,/books/OL20871942M,/works/OL19535359W,/languages/eng,006.3,005.74,llm
+Extreme 3D fundamentals,openlibrary_editions_2026-08-31,/books/OL1011593M,/works/OL2031976W,/languages/eng,006.69,004.68,llm
+Library of Congress subject headings in philosophy,openlibrary_editions_2026-08-31,/books/OL3958680M,/works/OL19151844W,/languages/eng,025.49,001.94,llm
+Joomla!-Websites erweitern und optimieren,openlibrary_editions_2026-08-31,/books/OL25542982M,/works/OL16935409W,/languages/ger,006.78,005.74,llm
+Paradox 5 for Windows essentials,openlibrary_editions_2026-08-31,/books/OL1126514M,/works/OL2761624W,/languages/eng,005.75,005.74,llm
+Object-oriented database programming,openlibrary_editions_2026-08-31,/books/OL19605701M,/works/OL12824802W,/languages/eng,005.74,005.74,llm
+National healthlines directory,openlibrary_editions_2026-08-31,/books/OL18300179M,/works/OL9558926W,/languages/eng,025.52,004.68,llm
+Integrated services digital networks (ISDN),openlibrary_editions_2026-08-31,/books/OL2327462M,/works/OL22983253W,/languages/eng,004.6,004.68,llm
+Man and the beasts within,openlibrary_editions_2026-08-31,/books/OL4899079M,/works/OL5279118W,/languages/eng,001.9,001.94,llm
+Computer Programming with C++,openlibrary_editions_2026-08-31,/books/OL54886042M,/works/OL19751845W,/languages/eng,005.13,005.13,llm
+Intergovernmental Council of the International Programme for the Development of Communication,openlibrary_editions_2026-08-31,/books/OL3100603M,/works/OL4892921W,/languages/eng,001.51,001.94,llm
+Quick success.,openlibrary_editions_2026-08-31,/books/OL1107954M,/works/OL1993538W,/languages/eng,005.43,004.68,llm
+"Machine learning, ECML-97",openlibrary_editions_2026-08-31,/books/OL667395M,/works/OL2655700W,/languages/eng,006.31,005.74,llm
+Localnet '92,openlibrary_editions_2026-08-31,/books/OL1458530M,/works/OL3988742W,/languages/eng,004.68,004.6,llm
+Online,openlibrary_editions_2026-08-31,/books/OL21916785M,/works/OL13497835W,/languages/eng,025.52,001.94,llm
+Advanced computer graphics,openlibrary_editions_2026-08-31,/books/OL2713814M,/works/OL5259992W,/languages/eng,006.6,004.6,llm
+STC '07,openlibrary_editions_2026-08-31,/books/OL30761797M,/works/OL22796539W,/languages/eng,005.8,004.68,llm
+Pro Puppet,openlibrary_editions_2026-08-31,/books/OL27156236M,/works/OL19976068W,/languages/eng,005.11,005.74,llm
+A diary on information theory,openlibrary_editions_2026-08-31,/books/OL2716109M,/works/OL5261716W,/languages/eng,001.53,001.53,llm
+Psychological abstracts information services,openlibrary_editions_2026-08-31,/books/OL3789803M,/works/OL19464066W,/languages/eng,025.06,005.71,llm
+Hacking exposed Linux,openlibrary_editions_2026-08-31,/books/OL18733376M,/works/OL18723585W,/languages/eng,005.8,004.68,llm
+The Web after work for dummies,openlibrary_editions_2026-08-31,/books/OL1018110M,/works/OL2766415W,/languages/eng,004.67,004.6,llm
+Compendium of statistical concepts and definitions used in the Uganda statistical system and services,openlibrary_editions_2026-08-31,/books/OL53401474M,/works/OL23940513W,/languages/eng,001.42,001.94,llm
+Rapidfile for business users,openlibrary_editions_2026-08-31,/books/OL2465663M,/works/OL4665916W,/languages/eng,005.75,005.74,llm
+The 68000 and 68020 microprocessors,openlibrary_editions_2026-08-31,/books/OL1860770M,/works/OL2664570W,/languages/eng,004.16,004.68,llm
+CorelDRAW! 3,openlibrary_editions_2026-08-31,/books/OL21467384M,/works/OL13263363W,/languages/eng,006.68,004.68,llm
+Multimodal human computer interaction and pervasive services,openlibrary_editions_2026-08-31,/books/OL23145728M,/works/OL16981634W,/languages/eng,004.01,004.68,llm
+Neuro-Fuzzy-Systeme,openlibrary_editions_2026-08-31,/books/OL27077041M,/works/OL19890448W,/languages/ger,004,005.74,llm
+Marine and coastal databases,openlibrary_editions_2026-08-31,/books/OL62432110M,/works/OL45883149W,/languages/eng,025.06,005.74,llm
+Interactive distributed multimedia systems and telecommunication services,openlibrary_editions_2026-08-31,/books/OL14752197M,/works/OL11209967W,/languages/eng,006.7,004.68,llm
+Archival theory and practice in the United States,openlibrary_editions_2026-08-31,/books/OL3507466M,/works/OL4137659W,/languages/eng,025.34,025.49,llm
+Navigating the Internet with OS,openlibrary_editions_2026-08-31,/books/OL817982M,/works/OL2038182W,/languages/eng,005.71,004.68,llm
+"Mathematical foundations of computer science, 1990",openlibrary_editions_2026-08-31,/books/OL22824577M,/works/OL8056880W,/languages/eng,004.01,005.1,llm
+"Classification of snow, ice, frozen ground, and related subjects",openlibrary_editions_2026-08-31,/books/OL5242637M,/works/OL22491083W,/languages/eng,025.46,001.94,llm
+Graphical Models for Machine Learning and Digital Communication,openlibrary_editions_2026-08-31,/books/OL53280890M,/works/OL1855353W,/languages/eng,006.31,005.74,llm
+"Slide collections, a user requirement survey",openlibrary_editions_2026-08-31,/books/OL4292793M,/works/OL4968853W,/languages/eng,025.34,025.49,llm
+Beyond the Desktop Metaphor,openlibrary_editions_2026-08-31,/books/OL53301693M,/works/OL16970232W,/languages/eng,004.16,005.74,llm
+Using FASTBACK PLUS,openlibrary_editions_2026-08-31,/books/OL1971136M,/works/OL4569390W,/languages/eng,005.43,004.68,llm
+Protocols and Applications for the Industrial Internet of Things,openlibrary_editions_2026-08-31,/books/OL55956431M,/works/OL27392016W,/languages/eng,004.67,004.68,llm
+FDDI and FDDI-II,openlibrary_editions_2026-08-31,/books/OL1430826M,/works/OL3953770W,/languages/eng,004.68,004.68,llm
+Software-Projektmanagement kompakt,openlibrary_editions_2026-08-31,/books/OL27088190M,/works/OL19902782W,/languages/ger,005.74,005.74,llm
+Programming the 8086,openlibrary_editions_2026-08-31,/books/OL3188325M,/works/OL4849654W,/languages/eng,001.64,005.74,llm
+Parallel and distributed processing and applications,openlibrary_editions_2026-08-31,/books/OL22650327M,/works/OL19816079W,/languages/eng,004.35,004.68,llm
+Computer communications,openlibrary_editions_2026-08-31,/books/OL3484354M,/works/OL18155433W,/languages/eng,004.6,004.68,llm
+Library of Congress classification. K. Law in general. Comparative and uniform law. Jurisprudence,openlibrary_editions_2026-08-31,/books/OL31756M,/works/OL39934W,/languages/eng,025.46,006.78,llm
+Theory of cataloguing,openlibrary_editions_2026-08-31,/books/OL5979178M,/works/OL7071967W,/languages/eng,025.3,025.49,llm
+Web design for dummies,openlibrary_editions_2026-08-31,/books/OL23037279M,/works/OL2399226W,/languages/eng,005.72,004.6,llm
+Bayesian reasoning and machine learning,openlibrary_editions_2026-08-31,/books/OL25032989M,/works/OL16152264W,/languages/eng,006.31,005.74,llm
+Developing embedded software using DaVinci & OMAP technology,openlibrary_editions_2026-08-31,/books/OL27030832M,/works/OL19841612W,/languages/eng,004.16,005.74,llm
+Interactive 3-D graphics in Windows,openlibrary_editions_2026-08-31,/books/OL19721006M,/works/OL2957751W,/languages/eng,006.6,004.68,llm
+How to be a geek,openlibrary_editions_2026-08-31,/books/OL26933928M,/works/OL19720803W,/languages/eng,005.1,005.74,llm
+Cascading style sheets complete,openlibrary_editions_2026-08-31,/books/OL343643M,/works/OL516201W,/languages/eng,006.6,004.68,llm
+Building object applications that work,openlibrary_editions_2026-08-31,/books/OL671380M,/works/OL578156W,/languages/eng,005.11,005.74,llm
+The Wadsworth Guide to Research,openlibrary_editions_2026-08-31,/books/OL31114058M,/works/OL18574017W,/languages/eng,001.42,005.74,llm
+Going live,openlibrary_editions_2026-08-31,/books/OL3672383M,/works/OL6026917W,/languages/eng,025.52,025.49,llm
+Learn to program with Minecraft,openlibrary_editions_2026-08-31,/books/OL27188272M,/works/OL20008185W,/languages/eng,005.13,005.74,llm
+Microsoft Visual Basic 6.0 developer's workshop,openlibrary_editions_2026-08-31,/books/OL372609M,/works/OL1939796W,/languages/eng,005.27,005.44,llm
+"Cybernetics, artificial intelligence, and ecology.",openlibrary_editions_2026-08-31,/books/OL4468014M,/works/OL6608722W,/languages/eng,001.53,005.74,llm
+Introduction to structured COBOL,openlibrary_editions_2026-08-31,/books/OL21472587M,/works/OL3915477W,/languages/eng,001.64,005.74,llm
+Glosario estructurado de términos sobre pasturas y producción animal,openlibrary_editions_2026-08-31,/books/OL1362940M,/works/OL3867953W,/languages/spa,025.49,001.94,llm
+Public library services in South Australia,openlibrary_editions_2026-08-31,/books/OL2968659M,/works/OL2537259W,/languages/eng,025.52,025.49,llm
+Hypertext and the technology of conversation,openlibrary_editions_2026-08-31,/books/OL1401450M,/works/OL3911657W,/languages/eng,025.04,005.74,llm
+Mastering QuickPascal,openlibrary_editions_2026-08-31,/books/OL1894170M,/works/OL4487434W,/languages/eng,005.26,005.13,llm
+Mysterious America,openlibrary_editions_2026-08-31,/books/OL6800018M,/works/OL4777317W,/languages/eng,001.94,001.94,llm
+Machine learning methods in the environmental sciences,openlibrary_editions_2026-08-31,/books/OL23977380M,/works/OL16986740W,/languages/eng,006.31,005.74,llm
+Understanding and using Multiplan,openlibrary_editions_2026-08-31,/books/OL22340562M,/works/OL11288082W,/languages/eng,005.36,004.68,llm
+Zwischen Technik und Psychologie.,openlibrary_editions_2026-08-31,/books/OL5550395M,/works/OL7143128W,/languages/ger | /languages/eng,001.53,005.74,llm
+Mail surveys,openlibrary_editions_2026-08-31,/books/OL1277665M,/works/OL3750668W,/languages/eng,001.43,005.74,llm
+Recent advances in broadband integrated network operations and services management,openlibrary_editions_2026-08-31,/books/OL24906189M,/works/OL16002008W,/languages/eng,004.6,004.68,llm
+Designing and supporting computer networks,openlibrary_editions_2026-08-31,/books/OL18894775M,/works/OL6944976W,/languages/eng,004.6,004.68,llm
+Netjobs,openlibrary_editions_2026-08-31,/books/OL442192M,/works/OL19570216W,/languages/eng,025.06,001.94,llm
+Time travelers from our future,openlibrary_editions_2026-08-31,/books/OL347975M,/works/OL1824748W,/languages/eng,001.94,001.94,llm
+Entwicklung einer Expertensystemumgebung zur Verarbeitung sich häufig ändernder Vorschriften,openlibrary_editions_2026-08-31,/books/OL1972255M,/works/OL4570507W,/languages/ger,006.33,005.74,llm
+Classification for international law and relations.,openlibrary_editions_2026-08-31,/books/OL5687644M,/works/OL6490352W,/languages/eng,025.46,025.46,knn
+Applied WPF 4 in context,openlibrary_editions_2026-08-31,/books/OL25244058M,/works/OL16555070W,/languages/eng,006.78,005.74,llm
+Rules for descriptive cataloging in the Library of Congress,openlibrary_editions_2026-08-31,/books/OL6148172M,/works/OL2130798W,/languages/eng,025.34,005.71,llm
+Basi di dati,openlibrary_editions_2026-08-31,/books/OL2623685M,/works/OL5183073W,/languages/ita,005.74,005.1,llm
+New topics in learning automata theory and applications,openlibrary_editions_2026-08-31,/books/OL3029484M,/works/OL5479384W,/languages/eng,001.53,005.74,llm
+Photoshop and Dreamweaver integration,openlibrary_editions_2026-08-31,/books/OL3438456M,/works/OL5800874W,/languages/eng,005.72,004.68,llm
+PowerPoint for Windows 95,openlibrary_editions_2026-08-31,/books/OL541936M,/works/OL2378013W,/languages/eng,006.68,005.74,llm
+Create your first Web page,openlibrary_editions_2026-08-31,/books/OL391893M,/works/OL514510W,/languages/eng,025.04,004.68,llm
+Formale Methoden zur Spezifizierung automatischer Parallelisierung,openlibrary_editions_2026-08-31,/books/OL2272546M,/works/OL3161175W,/languages/ger,004.35,004.68,llm
+A Tribute to Prof. Dr. Da Ruan,openlibrary_editions_2026-08-31,/books/OL27092903M,/works/OL19907989W,/languages/eng,006.3,005.74,llm
+Red Hat Linux 8,openlibrary_editions_2026-08-31,/books/OL22994664M,/works/OL1864963W,/languages/eng,005.44,004.68,llm
+A procedure for detecting intersections and its application.,openlibrary_editions_2026-08-31,/books/OL5396346M,/works/OL7190674W,/languages/eng,001.64,004.68,llm
+Adobe illustrator 10,openlibrary_editions_2026-08-31,/books/OL22146830M,/works/OL7943354W,/languages/eng,006.68,005.74,llm
+Aggregation Functions in Theory and in Practise,openlibrary_editions_2026-08-31,/books/OL27015566M,/works/OL19825088W,/languages/eng,006.3,005.74,llm
+Microcomputer and LAN security,openlibrary_editions_2026-08-31,/books/OL1181826M,/works/OL3625972W,/languages/eng,005.8,004.68,llm
+Methodology of longitudinal surveys,openlibrary_editions_2026-08-31,/books/OL22974696M,/works/OL4019789W,/languages/eng,001.43,001.53,llm
+Computer Vision – ECCV 2012,openlibrary_editions_2026-08-31,/books/OL27026342M,/works/OL19836807W,/languages/eng,006.6,005.74,llm
+Effective PC networking,openlibrary_editions_2026-08-31,/books/OL1043784M,/works/OL669049W,/languages/eng,004.68,004.68,llm
+Graphik in Dokumenten,openlibrary_editions_2026-08-31,/books/OL2316094M,/works/OL16353570W,/languages/ger,006.6,004.6,llm
+Communicating with the computer,openlibrary_editions_2026-08-31,/books/OL5429051M,/works/OL22480774W,/languages/eng,001.64,005.1,llm
+Professional XML schemas,openlibrary_editions_2026-08-31,/books/OL3596599M,/works/OL23794645W,/languages/eng,005.72,005.74,llm
+"Messung, Modellierung und Bewertung von Rechensystemen",openlibrary_editions_2026-08-31,/books/OL2892219M,/works/OL5382560W,/languages/ger,004,004.6,llm
+The art of computer programming,openlibrary_editions_2026-08-31,/books/OL18383973M,/works/OL14941574W,/languages/eng,005.1,005.1,llm
+Win32 system programming,openlibrary_editions_2026-08-31,/books/OL677238M,/works/OL2684660W,/languages/eng,005.26,005.74,llm
+The European market for banking systems.,openlibrary_editions_2026-08-31,/books/OL5103694M,/works/OL6171984W,/languages/eng,001.64,005.74,llm
+"Fuzzy logic in knowledge-based systems, decision and control",openlibrary_editions_2026-08-31,/books/OL2035080M,/works/OL19199268W,/languages/eng,006.33,005.74,llm
+Logical link control,openlibrary_editions_2026-08-31,/books/OL2867687M,/works/OL1672584W,/languages/eng,004.68,004.68,llm
+A primer on SQL,openlibrary_editions_2026-08-31,/books/OL2400100M,/works/OL3182407W,/languages/eng,005.75,005.1,llm
+Great conspiracies and elaborate cover-ups,openlibrary_editions_2026-08-31,/books/OL997758M,/works/OL15218569W,/languages/eng,001.9,001.94,llm
+PC Learning Labs teaches Microsoft access,openlibrary_editions_2026-08-31,/books/OL1495429M,/works/OL19527879W,/languages/eng,005.75,005.74,llm
+Cataloging nonprint and Internet resources,openlibrary_editions_2026-08-31,/books/OL3703897M,/works/OL2685828W,/languages/eng,025.34,005.74,llm
+IEEE Symposium on FPGAs for Custom Computing Machines,openlibrary_editions_2026-08-31,/books/OL1129470M,/works/OL3540519W,/languages/eng,004.16,004.68,llm
+The MS-DOS encyclopedia,openlibrary_editions_2026-08-31,/books/OL2392008M,/works/OL19590581W,/languages/eng,005.44,004.68,llm
+"Unix System V, release 4.",openlibrary_editions_2026-08-31,/books/OL1583466M,/works/OL19415638W,/languages/eng,005.43,004.68,llm
+INGRES,openlibrary_editions_2026-08-31,/books/OL1618622M,/works/OL23324205W,/languages/eng,005.75,005.74,llm
+Modern manuscripts,openlibrary_editions_2026-08-31,/books/OL5186534M,/works/OL7087476W,/languages/eng,025.17,001.94,llm
+If we build it,openlibrary_editions_2026-08-31,/books/OL1411149M,/works/OL17645648W,/languages/eng,025.34,025.49,llm
+Statistics Users Conference,openlibrary_editions_2026-08-31,/books/OL4613494M,/works/OL6734944W,/languages/eng,001.42,001.94,llm
+Running Microsoft Excel for Windows 95,openlibrary_editions_2026-08-31,/books/OL794770M,/works/OL2943503W,/languages/eng,005.36,005.44,llm
+The lingo handbook,openlibrary_editions_2026-08-31,/books/OL679914M,/works/OL2691757W,/languages/eng,006.78,005.1,llm
+Evaluation of diagnostic systems,openlibrary_editions_2026-08-31,/books/OL3484405M,/works/OL2955484W,/languages/eng,001.53,005.74,llm
+Metadata for digital resources,openlibrary_editions_2026-08-31,/books/OL19534248M,/works/OL9914149W,/languages/eng,025.3,005.74,llm
+The official alien abductee's handbook,openlibrary_editions_2026-08-31,/books/OL1000163M,/works/OL3336728W,/languages/eng,001.94,001.94,llm
+Productivity tools for the microcomputer,openlibrary_editions_2026-08-31,/books/OL2066315M,/works/OL4656499W,/languages/eng,005.36,005.74,llm
+Operations research,openlibrary_editions_2026-08-31,/books/OL2796033M,/works/OL3982112W,/languages/eng,001.42,005.74,llm
+HCI Remixed,openlibrary_editions_2026-08-31,/books/OL53277029M,/works/OL16946128W,/languages/eng,004.01,005.74,llm
+MCTS self-paced training kit (exam 70-505),openlibrary_editions_2026-08-31,/books/OL25564277M,/works/OL16980922W,/languages/eng,006.78,005.74,llm
+survey of information skills teaching in colleges of further and higher education,openlibrary_editions_2026-08-31,/books/OL20812629M,/works/OL127932W,/languages/eng,025.52,025.49,llm
+Modeling microprocessor performance,openlibrary_editions_2026-08-31,/books/OL361712M,/works/OL1892551W,/languages/eng,004.16,001.53,llm
+Dreamweaver 4,openlibrary_editions_2026-08-31,/books/OL3970112M,/works/OL6043837W,/languages/eng,005.72,004.68,llm
+Ras la pub,openlibrary_editions_2026-08-31,/books/OL2419203M,/works/OL4998200W,/languages/fre,001.51,006.78,llm
+Guardians of the ancient wisdom,openlibrary_editions_2026-08-31,/books/OL3901516M,/works/OL126661W,/languages/eng,001.9,001.94,llm
+Introduction to C++ programming,openlibrary_editions_2026-08-31,/books/OL23963345M,/works/OL18653088W,/languages/eng,005.13,005.13,llm
+Formal methods for embedded distributed systems,openlibrary_editions_2026-08-31,/books/OL19291702M,/works/OL19114328W,/languages/eng,005.1,005.74,llm
+Sears list of subject headings.,openlibrary_editions_2026-08-31,/books/OL3702929M,/works/OL3480120W,/languages/eng,025.49,025.49,llm
+Classification scheme for law books in the University of Rhodesia Law Library,openlibrary_editions_2026-08-31,/books/OL5118981M,/works/OL7056036W,/languages/eng,025.46,025.49,llm
+Golden Age of Data Visualization,openlibrary_editions_2026-08-31,/books/OL53261060M,/works/OL38684485W,/languages/eng,005.72,001.43,llm
+Multimedia communications and video coding,openlibrary_editions_2026-08-31,/books/OL983906M,/works/OL18330954W,/languages/eng,006.6,005.74,llm
+Using DOS 4,openlibrary_editions_2026-08-31,/books/OL1787523M,/works/OL2073419W,/languages/eng,005.44,004.68,llm
+Semantic Web and Web Science,openlibrary_editions_2026-08-31,/books/OL27087047M,/works/OL19901502W,/languages/eng,006.31,005.74,llm
+Exploring the Internet with Netscape Communicator 4,openlibrary_editions_2026-08-31,/books/OL464082M,/works/OL15033246W,/languages/eng,005.71,004.68,llm
+Active directory for Microsoft Windows server 2003,openlibrary_editions_2026-08-31,/books/OL22066552M,/works/OL5745090W,/languages/eng,005.71,005.74,llm
+"dBASE for professionals, with dBASE IV",openlibrary_editions_2026-08-31,/books/OL2196847M,/works/OL4280541W,/languages/eng,005.75,005.74,llm
+Online with ProComm plus for Windows 2,openlibrary_editions_2026-08-31,/books/OL1107513M,/works/OL3365891W,/languages/eng,005.71,004.68,llm
+Mut zur Typographie,openlibrary_editions_2026-08-31,/books/OL27076411M,/works/OL19889750W,/languages/ger,006.7,006.78,llm
+Assembly language safari on the IBM PC,openlibrary_editions_2026-08-31,/books/OL2844314M,/works/OL2624944W,/languages/eng,001.64,004.68,llm
+Software Development '92-spring,openlibrary_editions_2026-08-31,/books/OL1748726M,/works/OL4325108W,/languages/eng,005.1,005.1,llm
+Internet,openlibrary_editions_2026-08-31,/books/OL1112222M,/works/OL3512532W,/languages/eng,004.67,004.6,llm
+Computer security,openlibrary_editions_2026-08-31,/books/OL2199612M,/works/OL18852929W,/languages/eng,005.8,005.74,llm
+Digital video surveillance and security,openlibrary_editions_2026-08-31,/books/OL24419908M,/works/OL15452838W,/languages/eng,006.69,004.68,llm
+Database and expert systems applications,openlibrary_editions_2026-08-31,/books/OL377435M,/works/OL1961654W,/languages/eng,005.74,005.74,llm
+Inside servlets,openlibrary_editions_2026-08-31,/books/OL24210799M,/works/OL15143302W,/languages/eng,005.27,005.74,llm
+Adobe Photoshop 5.5 Web design with ImageReady 2 and GoLive 4,openlibrary_editions_2026-08-31,/books/OL6896348M,/works/OL1815849W,/languages/eng,005.72,006.78,llm
+Statistical techniques in simulation,openlibrary_editions_2026-08-31,/books/OL20207018M,/works/OL13021368W,/languages/eng,001.43,005.74,llm
+LawDesk Expertise for Windows,openlibrary_editions_2026-08-31,/books/OL31640479M,/works/OL23936544W,/languages/eng,025.06,005.74,llm
+Essential SharePoint 2007,openlibrary_editions_2026-08-31,/books/OL17852192M,/works/OL8021060W,/languages/eng,004.68,004.68,llm
+Java programming with CORBA,openlibrary_editions_2026-08-31,/books/OL703057M,/works/OL2754361W,/languages/eng,005.27,005.74,llm
+Service efficient network interconnection via satellite,openlibrary_editions_2026-08-31,/books/OL22432048M,/works/OL19427361W,/languages/eng,004.68,004.68,llm
+Database-driven web sites,openlibrary_editions_2026-08-31,/books/OL22001365M,/works/OL3364196W,/languages/eng,005.75,005.74,llm
+Semantic video object segmentation for content-based multimedia applications,openlibrary_editions_2026-08-31,/books/OL20644036M,/works/OL12609296W,/languages/eng,006.7,005.74,llm
+Inside XML.,openlibrary_editions_2026-08-31,/books/OL22032284M,/works/OL15035898W,/languages/eng,005.72,005.74,llm
+Macworld Office 98 bible,openlibrary_editions_2026-08-31,/books/OL393480M,/works/OL18167496W,/languages/eng,005.36,005.44,llm
+"The 3rd IET International Conference on Intelligent Environments, IE 07",openlibrary_editions_2026-08-31,/books/OL23630396M,/works/OL13814910W,/languages/eng,006.33,005.74,llm
+Introducing WebTV,openlibrary_editions_2026-08-31,/books/OL685101M,/works/OL2037496W,/languages/eng,006.78,001.43,llm
+Advanced UNIX,openlibrary_editions_2026-08-31,/books/OL2552892M,/works/OL2036075W,/languages/eng,005.43,004.68,llm
+MacAddict guide to living the iLife,openlibrary_editions_2026-08-31,/books/OL31689195M,/works/OL601227W,/languages/eng,004.16,004.68,llm
+Designing sensible surveys,openlibrary_editions_2026-08-31,/books/OL3849175M,/works/OL3253595W,/languages/eng,001.43,005.74,llm
+Mana physics,openlibrary_editions_2026-08-31,/books/OL4743882M,/works/OL4320073W,/languages/eng,001.9,001.94,llm
+Informatik,openlibrary_editions_2026-08-31,/books/OL27045328M,/works/OL19857346W,/languages/ger,005.1,004,llm
+A practical guide to localization,openlibrary_editions_2026-08-31,/books/OL18559002M,/works/OL1927579W,/languages/eng,005.1,005.74,llm
+Advanced techniques in Turbo prolog,openlibrary_editions_2026-08-31,/books/OL2411671M,/works/OL3500721W,/languages/eng,006.33,005.74,llm
+Building mobile web sites,openlibrary_editions_2026-08-31,/books/OL35346957M,/works/OL26196014W,/languages/eng,006.7,004.68,llm
+Introduction to Genetic Algorithms,openlibrary_editions_2026-08-31,/books/OL53282260M,/works/OL39140738W,/languages/eng,006.31,005.74,llm
+Prolog by example,openlibrary_editions_2026-08-31,/books/OL2400392M,/works/OL4981320W,/languages/eng,006.3,005.1,llm
+Computational intelligent systems for applied research,openlibrary_editions_2026-08-31,/books/OL3438860M,/works/OL5859901W,/languages/eng,006.3,006.78,llm
+Systems design in a database environment,openlibrary_editions_2026-08-31,/books/OL2230153M,/works/OL4089099W,/languages/eng,005.74,005.74,llm
+MCSE training kit.,openlibrary_editions_2026-08-31,/books/OL3542462M,/works/OL19526407W,/languages/eng,005.71,005.74,llm
+Research project success using digital tools,openlibrary_editions_2026-08-31,/books/OL30399526M,/works/OL22320529W,/languages/eng,001.42,001.94,llm
+Motif-index of medieval Catalan folktales,openlibrary_editions_2026-08-31,/books/OL1714630M,/works/OL4289620W,/languages/eng,025.46,001.43,llm
+Your electro-vibratory body,openlibrary_editions_2026-08-31,/books/OL4568490M,/works/OL3482091W,/languages/eng,001.9,001.43,llm
+Adobe Flash Professional CS5 classroom in a book,openlibrary_editions_2026-08-31,/books/OL25030655M,/works/OL16149194W,/languages/eng,006.78,004.68,llm
+Up & running with Norton Utilities on the Macintosh,openlibrary_editions_2026-08-31,/books/OL1570797M,/works/OL2032661W,/languages/eng,005.43,004.68,llm
+Inductive logic programming,openlibrary_editions_2026-08-31,/books/OL21135215M,/works/OL13311253W,/languages/eng,005.13,005.1,llm
+Amiga system programmer's guide,openlibrary_editions_2026-08-31,/books/OL22232401M,/works/OL4437474W,/languages/eng,005.26,005.74,llm
+"Discrete structures, logic, and computability",openlibrary_editions_2026-08-31,/books/OL18386190M,/works/OL2974750W,/languages/eng,004.01,005.74,llm
+Creating a 3D animated CGI short,openlibrary_editions_2026-08-31,/books/OL23861405M,/works/OL15082310W,/languages/eng,006.69,005.74,llm
+Handbook of effective graphic and tabular communication,openlibrary_editions_2026-08-31,/books/OL4403051M,/works/OL5472581W,/languages/eng,001.42,001.43,llm
+Information and induction,openlibrary_editions_2026-08-31,/books/OL5100980M,/works/OL6092210W,/languages/eng,001.53,005.74,llm
+Algorithmic learning theory,openlibrary_editions_2026-08-31,/books/OL1603197M,/works/OL18221254W,/languages/eng,006.31,005.74,llm
+SuperCalc professional,openlibrary_editions_2026-08-31,/books/OL22264570M,/works/OL9827824W,/languages/eng,005.36,005.74,llm
+GREP et InDesign CS3,openlibrary_editions_2026-08-31,/books/OL27041876M,/works/OL19853531W,/languages/fre,006.68,004.68,llm
+"1-2-3 for Windows, release 4.0",openlibrary_editions_2026-08-31,/books/OL916231M,/works/OL23588090W,/languages/eng,005.36,005.74,llm
+Continuous Integration and Delivery with Test-Driven Development,openlibrary_editions_2026-08-31,/books/OL62107758M,/works/OL45607642W,/languages/eng,005.1,005.74,llm
+Reference manual for machine-readable descriptions of research projects and institutions,openlibrary_editions_2026-08-31,/books/OL3207168M,/works/OL5625383W,/languages/eng,025.04,001.94,llm
+Research and development in intelligent systems XVII,openlibrary_editions_2026-08-31,/books/OL22422374M,/works/OL13585288W,/languages/eng,006.33,005.74,llm
+The new DOS 4.0,openlibrary_editions_2026-08-31,/books/OL21464723M,/works/OL13389664W,/languages/eng,005.44,005.74,llm
+Programmieren mit PostScript,openlibrary_editions_2026-08-31,/books/OL27083137M,/works/OL19897166W,/languages/ger,004,005.74,llm
+The end of the world as we know it,openlibrary_editions_2026-08-31,/books/OL659466M,/works/OL2631595W,/languages/eng,001.9,001.94,llm
+A design for a study of a continuing inventory of research activities and research resources of the State of Kansas.,openlibrary_editions_2026-08-31,/books/OL5637367M,/works/OL6540586W,/languages/eng,001.43,001.94,llm
+BASIC programming,openlibrary_editions_2026-08-31,/books/OL3497589M,/works/OL15199559W,/languages/eng,001.64,004.6,llm
+Readings in database systems,openlibrary_editions_2026-08-31,/books/OL1116584M,/works/OL23536113W,/languages/eng,005.74,005.74,llm
+Improving Knowledge Discovery Through the Integration of Data Mining Techniques,openlibrary_editions_2026-08-31,/books/OL56225749M,/works/OL27368668W,/languages/eng,006.31,005.74,llm
+Applied structured WATFIV,openlibrary_editions_2026-08-31,/books/OL2840539M,/works/OL3182386W,/languages/eng,001.64,005.74,llm
+Entwicklung eines Expertensystems für das DV-Controlling,openlibrary_editions_2026-08-31,/books/OL2262933M,/works/OL4843962W,/languages/ger,006.33,005.74,llm
+Beginning CSS,openlibrary_editions_2026-08-31,/books/OL21112331M,/works/OL11650188W,/languages/eng,006.7,005.74,llm
+Introduction to Machine Learning,openlibrary_editions_2026-08-31,/books/OL53287160M,/works/OL17366306W,/languages/eng,006.31,005.44,llm
+Computer-based natural language processing,openlibrary_editions_2026-08-31,/books/OL3192021M,/works/OL22786536W,/languages/eng,001.53,005.44,llm
+The day after Roswell,openlibrary_editions_2026-08-31,/books/OL301105M,/works/OL1700954W,/languages/eng,001.94,001.94,llm
+Clip Studio Paint by Example,openlibrary_editions_2026-08-31,/books/OL54040401M,/works/OL25338532W,/languages/eng,006.68,004.68,llm
+Human Computer Interaction Developments and Management,openlibrary_editions_2026-08-31,/books/OL54542898M,/works/OL40073765W,/languages/eng,004.01,005.74,llm
+"Adobe Photoshop CS, level one",openlibrary_editions_2026-08-31,/books/OL3433259M,/works/OL3008386W,/languages/eng,006.68,005.74,llm
+Statistics,openlibrary_editions_2026-08-31,/books/OL4745392M,/works/OL16477396W,/languages/eng,001.42,001.42,knn
+How to cheat at administering Office communications server 2007,openlibrary_editions_2026-08-31,/books/OL19968847M,/works/OL19568900W,/languages/eng,005.27,004.68,llm
+C++ programming,openlibrary_editions_2026-08-31,/books/OL31920810M,/works/OL8221396W,/languages/eng,005.13,005.1,llm
+Virtualization,openlibrary_editions_2026-08-31,/books/OL22974523M,/works/OL6048738W,/languages/eng,005.43,004.68,llm
+Probability and information,openlibrary_editions_2026-08-31,/books/OL3162623M,/works/OL4978611W,/languages/eng | /languages/rus,001.53,005.74,llm
+MS-DOS bible,openlibrary_editions_2026-08-31,/books/OL2557977M,/works/OL4130205W,/languages/eng,005.44,004.68,llm
+PostScript programmer's reference guide,openlibrary_editions_2026-08-31,/books/OL2188001M,/works/OL2675954W,/languages/eng,005.13,005.74,llm
+Diseño web,openlibrary_editions_2026-08-31,/books/OL36639841M,/works/OL27027652W,/languages/spa,006.7,004.68,llm
+"Ancient French archives, or, Extracts from the minutes of Council relating to the records of Canada, while under the government of France",openlibrary_editions_2026-08-31,/books/OL24234716M,/works/OL17068990W,,025.17,025.49,llm
+Pattern recognition,openlibrary_editions_2026-08-31,/books/OL5729410M,/works/OL7320199W,/languages/eng,001.53,005.74,llm
+Recommendations for bibliographical references to maps and charts =,openlibrary_editions_2026-08-31,/books/OL18951311M,/works/OL1144257W,/languages/eng,025.34,025.49,llm
+Palm and Treo hacks,openlibrary_editions_2026-08-31,/books/OL18396292M,/works/OL8167562W,/languages/eng,004.16,004.68,llm
+PC first-aid kit,openlibrary_editions_2026-08-31,/books/OL1408994M,/works/OL3922850W,/languages/eng,004.16,004.68,llm
+Internet imaging III,openlibrary_editions_2026-08-31,/books/OL3583219M,/works/OL19474119W,/languages/eng,006.6,004.68,llm
+Non-book materials cataloguing rules,openlibrary_editions_2026-08-31,/books/OL5102349M,/works/OL7044762W,/languages/eng,025.34,025.49,llm
+Introducing Microsoft Silverlight 1.0,openlibrary_editions_2026-08-31,/books/OL18265011M,/works/OL7951702W,/languages/eng,006.7,005.74,llm
+Exploring the Internet,openlibrary_editions_2026-08-31,/books/OL754707M,/works/OL15033244W,/languages/eng,004.67,004.6,llm
+Windows Small Business Server 2011,openlibrary_editions_2026-08-31,/books/OL25140788M,/works/OL16362902W,/languages/eng,005.71,004.68,llm
+Singularity Hypotheses,openlibrary_editions_2026-08-31,/books/OL27087738M,/works/OL19902273W,/languages/eng,006.3,005.44,llm
+1980 National Census Project,openlibrary_editions_2026-08-31,/books/OL3209862M,/works/OL5627479W,/languages/eng,001.43,025.49,llm
+Object-oriented technology,openlibrary_editions_2026-08-31,/books/OL19142490M,/works/OL12565502W,/languages/eng,005.11,005.1,llm
+File management techniques,openlibrary_editions_2026-08-31,/books/OL1532119M,/works/OL4079656W,/languages/eng,005.74,005.74,llm
+Interactive3D graphics in Windows,openlibrary_editions_2026-08-31,/books/OL21346879M,/works/OL2957751W,/languages/eng,006.6,004.68,llm
+Master Microsoft Office 2000 visually,openlibrary_editions_2026-08-31,/books/OL395977M,/works/OL15162548W,/languages/eng,005.36,005.74,llm
+Internet tools of the profession,openlibrary_editions_2026-08-31,/books/OL665126M,/works/OL18956255W,/languages/eng,025.04,004.68,llm
+Computing and information,openlibrary_editions_2026-08-31,/books/OL15216877M,/works/OL11456370W,/languages/eng,004,005.74,llm
+Footage.net,openlibrary_editions_2026-08-31,/books/OL45447266M,/works/OL33518782W,/languages/eng,025.17,001.94,llm
+Invitation to effective speech communication,openlibrary_editions_2026-08-31,/books/OL2046452M,/works/OL4635536W,/languages/eng,001.51,001.43,llm
+Visual Basic 5 client,openlibrary_editions_2026-08-31,/books/OL659789M,/works/OL18186889W,/languages/eng,005.27,005.74,llm
+"Subject headings for the literature of law and international law, and index to LC K schedules",openlibrary_editions_2026-08-31,/books/OL4269720M,/works/OL19149280W,/languages/eng,025.49,006.78,llm
+Inductive inference for large scale text classification,openlibrary_editions_2026-08-31,/books/OL25007993M,/works/OL16120907W,/languages/eng,005.1,005.44,llm
+Universal assembly language,openlibrary_editions_2026-08-31,/books/OL2713078M,/works/OL5259274W,/languages/eng,005.13,005.1,llm
+Selecting a high-performance embedded microprocessor,openlibrary_editions_2026-08-31,/books/OL68932M,/works/OL602647W,/languages/eng,004.16,004.68,llm
+VGA und SuperVGA professionell programmiert,openlibrary_editions_2026-08-31,/books/OL27094436M,/works/OL19909662W,/languages/ger,006.6,004.68,llm
+Advances in computers,openlibrary_editions_2026-08-31,/books/OL25568867M,/works/OL16989295W,/languages/eng,004,004.6,llm
+Alternative computers,openlibrary_editions_2026-08-31,/books/OL2051785M,/works/OL15158718W,/languages/eng,004,004,llm
+Cap Gemini Ernst & Young guide to wireless enterprise application architecture,openlibrary_editions_2026-08-31,/books/OL24202701M,/works/OL15135301W,,004.6,004.68,llm
+Use and users of electronic library resources,openlibrary_editions_2026-08-31,/books/OL31640636M,/works/OL23936722W,/languages/eng,025.04,005.74,llm
+Machine beauty,openlibrary_editions_2026-08-31,/books/OL668804M,/works/OL937467W,/languages/eng,004.01,004.6,llm
+Practical design of experiments (DOE),openlibrary_editions_2026-08-31,/books/OL30402622M,/works/OL22322897W,/languages/eng,001.43,005.74,llm
+Developments in information education and their implications for schools of librarianship and information studies in the United Kingdom,openlibrary_editions_2026-08-31,/books/OL19312028M,/works/OL8680469W,/languages/eng,025.04,025.34,llm
+QuickTime for the Web,openlibrary_editions_2026-08-31,/books/OL6798187M,/works/OL7940742W,/languages/eng,006.78,005.74,llm
+Comunicação,openlibrary_editions_2026-08-31,/books/OL2596355M,/works/OL3708289W,/languages/por,001.51,006.78,llm
+Learning algorithms theory and applications,openlibrary_editions_2026-08-31,/books/OL4270535M,/works/OL3457263W,/languages/eng,001.53,005.44,llm
+Getting started in computer graphics,openlibrary_editions_2026-08-31,/books/OL2194475M,/works/OL3298166W,/languages/eng,006.6,004.6,llm
+Memorias del II Seminario de Publicaciones Seriadas,openlibrary_editions_2026-08-31,/books/OL2922040M,/works/OL5401395W,/languages/spa,025.34,005.74,llm
+An introduction to object-oriented programming with Visual Basic . NET,openlibrary_editions_2026-08-31,/books/OL3438752M,/works/OL5859783W,/languages/eng,005.11,005.74,llm
+Intelligent control and automation,openlibrary_editions_2026-08-31,/books/OL18524524M,/works/OL12443182W,/languages/eng,006.3,005.74,llm
+Can you recommend a good book on indexing?,openlibrary_editions_2026-08-31,/books/OL695916M,/works/OL2735337W,/languages/eng,025.3,025.49,llm
+Zeitungen in Bibliotheken,openlibrary_editions_2026-08-31,/books/OL2298016M,/works/OL16353473W,/languages/ger,025.34,005.74,llm
+Dependency injection,openlibrary_editions_2026-08-31,/books/OL23945556M,/works/OL15083545W,/languages/eng,005.11,005.74,llm
+Microsoft PowerPoint 97 for Windows quickstart,openlibrary_editions_2026-08-31,/books/OL762909M,/works/OL2873601W,/languages/eng,006.68,005.74,llm
+Integration of AI and OR techniques in constraint programming for combinatorial optimization problems,openlibrary_editions_2026-08-31,/books/OL3480540M,/works/OL5895111W,/languages/eng,005.11,005.74,llm
+Official NetscapeNavigator gold 3.0 book,openlibrary_editions_2026-08-31,/books/OL22257899M,/works/OL2995138W,/languages/eng,025.04,004.68,llm
+Join forces,openlibrary_editions_2026-08-31,/books/OL25270381M,/works/OL16585464W,/languages/eng,001.42,004.68,llm
+"Microsoft Office Access 2007, courseware # 3134-1",openlibrary_editions_2026-08-31,/books/OL31958933M,/works/OL24200526W,/languages/eng,004,005.74,llm
+Catalog of electronic data products,openlibrary_editions_2026-08-31,/books/OL43893491M,/works/OL32155763W,/languages/eng,001.42,001.94,llm
+Class FC.,openlibrary_editions_2026-08-31,/books/OL18850439M,/works/OL12695091W,/languages/eng,025.46,025.49,llm
+List of generic terms in languages used in ISDS-SEA member countries.,openlibrary_editions_2026-08-31,/books/OL3153582M,/works/OL22774347W,/languages/mul,025.34,005.74,llm
+Data structures and program design in C,openlibrary_editions_2026-08-31,/books/OL21138167M,/works/OL11310993W,/languages/eng,005.13,005.13,llm
+Hands-On Blockchain for Python Developers,openlibrary_editions_2026-08-31,/books/OL54008451M,/works/OL22594264W,/languages/eng,005.74,005.74,llm
+ACIS save file format manual,openlibrary_editions_2026-08-31,/books/OL455099M,/works/OL23680634W,/languages/eng,006.69,004.68,llm
+Formato Común Argentino para Documentos,openlibrary_editions_2026-08-31,/books/OL1342739M,/works/OL23482569W,/languages/spa,025.3,005.74,llm
+Develop a professional Visual Basic application in 14 days,openlibrary_editions_2026-08-31,/books/OL1125286M,/works/OL2999120W,/languages/eng,005.26,005.74,llm
+INFOIL 2 thesaurus,openlibrary_editions_2026-08-31,/books/OL2123381M,/works/OL4716354W,/languages/eng,025.49,025.49,knn
+HTML 4 for dummies quick reference,openlibrary_editions_2026-08-31,/books/OL713147M,/works/OL58755W,/languages/eng,005.72,004.68,llm
+200 (religion) class.,openlibrary_editions_2026-08-31,/books/OL5844326M,/works/OL74316W,/languages/eng,025.46,025.46,knn
+Fundamentals of computer graphics,openlibrary_editions_2026-08-31,/books/OL23397668M,/works/OL13642407W,/languages/eng,006.6,005.74,llm
+The Web server handbook,openlibrary_editions_2026-08-31,/books/OL621402M,/works/OL2568773W,/languages/eng,005.71,004.68,llm
+Instrumentation for future parallel computing systems,openlibrary_editions_2026-08-31,/books/OL2182596M,/works/OL19194868W,/languages/eng,004.35,005.74,llm
+Results from the first six months of the dual-record system.,openlibrary_editions_2026-08-31,/books/OL4533733M,/works/OL6207488W,/languages/eng,001.43,001.94,llm
+SPAA,openlibrary_editions_2026-08-31,/books/OL26580288M,/works/OL18003203W,/languages/eng,004.35,004.68,llm
+Thesaurus of informationtechnology terms,openlibrary_editions_2026-08-31,/books/OL22585724M,/works/OL4509129W,/languages/eng,025.49,005.74,llm
+Artificial Intelligence Applications and Innovations,openlibrary_editions_2026-08-31,/books/OL27018221M,/works/OL19827963W,/languages/eng,006.3,005.74,llm
+Usages suivis dans la rédaction du Catalogue général des livres imprimés,openlibrary_editions_2026-08-31,/books/OL6042169M,/works/OL439158W,/languages/fre,025.3,025.49,llm
+Advances in kernel methods,openlibrary_editions_2026-08-31,/books/OL378250M,/works/OL19451178W,/languages/eng,006.31,005.74,llm
+Formal ontology in information systems,openlibrary_editions_2026-08-31,/books/OL3584167M,/works/OL5973496W,/languages/eng,006.33,005.74,llm
+GeoRef thesaurus.,openlibrary_editions_2026-08-31,/books/OL1485313M,/works/OL19219950W,/languages/eng,025.49,001.94,llm
+Proceedings of the First International Conference on Computer Communications and Networks (IC³N),openlibrary_editions_2026-08-31,/books/OL3702944M,/works/OL6045013W,/languages/eng,004.6,004.6,llm
+Introduction to the art of programming using Scala,openlibrary_editions_2026-08-31,/books/OL30658881M,/works/OL22637990W,/languages/eng,005.11,005.13,llm
+Converting to a divided catalog,openlibrary_editions_2026-08-31,/books/OL4615406M,/works/OL6736562W,/languages/eng,025.3,025.49,llm
+The Tujunga Canyon contacts,openlibrary_editions_2026-08-31,/books/OL4098478M,/works/OL1820766W,/languages/eng,001.94,001.94,llm
+Turbo C : version 2.0.,openlibrary_editions_2026-08-31,/books/OL1799525M,/works/OL23078886W,/languages/eng,005.26,005.1,llm
+The universal access handbook,openlibrary_editions_2026-08-31,/books/OL23001060M,/works/OL16935503W,/languages/eng,004.01,005.74,llm
+Pro SQL server 2008 service broker,openlibrary_editions_2026-08-31,/books/OL23644044M,/works/OL8977927W,/languages/eng,005.27,005.74,llm
+Joomla! for Dummies,openlibrary_editions_2026-08-31,/books/OL25536427M,/works/OL16919453W,/languages/eng,006.78,004.68,llm
+Bridging the digital divide with mobile services,openlibrary_editions_2026-08-31,/books/OL32082326M,/works/OL24252057W,/languages/eng,004.16,005.74,llm
+Trust and Deception in Virtual Societies,openlibrary_editions_2026-08-31,/books/OL27092976M,/works/OL19908070W,/languages/eng,006.3,005.74,llm
+Iconic,openlibrary_editions_2026-08-31,/books/OL53263418M,/works/OL39129858W,/languages/eng,001.42,004.01,knn
+Cataloguing,openlibrary_editions_2026-08-31,/books/OL6324958M,/works/OL7450631W,/languages/eng,025.3,025.49,llm
+The Anglin Collection of Canadian Catholic Church History,openlibrary_editions_2026-08-31,/books/OL1338214M,/works/OL3837512W,/languages/eng,025.49,025.49,llm
+Swarm intelligence for multi-objective problems in data mining,openlibrary_editions_2026-08-31,/books/OL25000744M,/works/OL16112883W,/languages/eng,006.31,005.74,llm
+The Peter Norton programmer's guide to the IBM PC,openlibrary_editions_2026-08-31,/books/OL21147795M,/works/OL65477W,/languages/eng,004.16,004.6,llm
+OSGi and Equinox,openlibrary_editions_2026-08-31,/books/OL62104763M,/works/OL18719035W,/languages/eng,005.27,005.74,llm
+Expert systems integration,openlibrary_editions_2026-08-31,/books/OL1539963M,/works/OL4091912W,/languages/eng,006.33,005.74,llm
+Descriptive cataloging.,openlibrary_editions_2026-08-31,/books/OL5874116M,/works/OL6324970W,/languages/eng,025.3,025.49,llm
+MS-DOS batch file programming,openlibrary_editions_2026-08-31,/books/OL1871054M,/works/OL3264104W,/languages/eng,005.26,005.74,llm
+VBScript for dummies,openlibrary_editions_2026-08-31,/books/OL1019397M,/works/OL23613628W,/languages/eng,005.27,005.74,llm
+Running windows on NetWare,openlibrary_editions_2026-08-31,/books/OL15362627M,/works/OL11545214W,/languages/eng,005.43,004.68,llm
+A manual of sampling techniques.,openlibrary_editions_2026-08-31,/books/OL5096024M,/works/OL2953738W,/languages/eng,001.43,005.71,llm
+Instant UNIX,openlibrary_editions_2026-08-31,/books/OL816592M,/works/OL2991016W,/languages/eng,005.43,004.68,llm
+The Gates library computer,openlibrary_editions_2026-08-31,/books/OL31600280M,/works/OL23888925W,/languages/eng,004.16,004.68,llm
+The Loch Ness story,openlibrary_editions_2026-08-31,/books/OL17400321M,/works/OL11374549W,/languages/eng,001.94,001.43,llm
+The case writing workbook,openlibrary_editions_2026-08-31,/books/OL25346998M,/works/OL16672258W,/languages/eng,001.43,005.74,llm
+"INIS, manual for subject analysis",openlibrary_editions_2026-08-31,/books/OL599342M,/works/OL8856249W,/languages/eng,025.49,001.43,llm
+Hard disk aerobics,openlibrary_editions_2026-08-31,/books/OL1399378M,/works/OL19418719W,/languages/eng,005.44,004.68,llm
+Referral centres and services,openlibrary_editions_2026-08-31,/books/OL4193158M,/works/OL19060212W,/languages/eng,025.52,025.49,llm
+Remarkabilia,openlibrary_editions_2026-08-31,/books/OL24749231M,/works/OL15839454W,/languages/eng,001.9,025.49,llm
+Formal methods for open object-based distributed systems IV,openlibrary_editions_2026-08-31,/books/OL18321386M,/works/OL12382737W,/languages/eng,005.11,005.74,llm
+The production and application of microprocessors in the GDR,openlibrary_editions_2026-08-31,/books/OL3223103M,/works/OL4681077W,/languages/eng,004.16,004.6,llm
+Verslag van die Kommissie van Ondersoek na die massamedia.,openlibrary_editions_2026-08-31,/books/OL3232618M,/works/OL18976326W,/languages/afr | /languages/eng,001.51,006.78,llm
+Windows Vista,openlibrary_editions_2026-08-31,/books/OL33026322M,/works/OL24848087W,/languages/fre,005.43,004.68,llm
+TCP,openlibrary_editions_2026-08-31,/books/OL1129072M,/works/OL3539597W,/languages/eng,004.6,004.68,llm
+Human computer interaction,openlibrary_editions_2026-08-31,/books/OL22849253M,/works/OL16952330W,/languages/eng,004.01,005.74,llm
+Classification,openlibrary_editions_2026-08-31,/books/OL6216489M,/works/OL3125302W,/languages/eng,025.46,025.46,knn
+Programming the 68000,openlibrary_editions_2026-08-31,/books/OL2771131M,/works/OL4052316W,/languages/eng,005.26,005.74,llm
+Estado de la situación archivística en Costa Rica,openlibrary_editions_2026-08-31,/books/OL56622684M,/works/OL41700410W,/languages/spa,025.17,025.49,llm
+Developing expert systems for business,openlibrary_editions_2026-08-31,/books/OL2452651M,/works/OL4675995W,/languages/eng,006.33,005.74,llm
+La gestion d'un centre d'archives,openlibrary_editions_2026-08-31,/books/OL3748802M,/works/OL17998466W,/languages/fre,025.17,025.49,llm
+Advanced JavaScript,openlibrary_editions_2026-08-31,/books/OL21485372M,/works/OL5956364W,/languages/eng,005.27,005.13,llm
+iPhone for programmers,openlibrary_editions_2026-08-31,/books/OL25255664M,/works/OL16567962W,/languages/eng,005.26,005.44,llm
+Microsoft Office 98 for Macintosh,openlibrary_editions_2026-08-31,/books/OL344903M,/works/OL23670982W,/languages/eng,005.36,005.44,llm
+"Guide to census reports, Great Britain, 1801-1966",openlibrary_editions_2026-08-31,/books/OL4285278M,/works/OL2416357W,/languages/eng,001.43,025.49,llm
+Foundations of intelligent systems,openlibrary_editions_2026-08-31,/books/OL19292110M,/works/OL5895015W,/languages/eng,006.33,005.44,llm
+QBasic programming,openlibrary_editions_2026-08-31,/books/OL1543183M,/works/OL19575489W,/languages/eng,005.26,005.13,llm
+Turbo C[plus plus].,openlibrary_editions_2026-08-31,/books/OL22242811M,/works/OL1956015W,/languages/eng,005.26,005.1,llm
+Mars,openlibrary_editions_2026-08-31,/books/OL790557M,/works/OL2933388W,/languages/eng,001.94,001.43,llm
+Schaum's outline of theory and problems of programming with Fortran 77,openlibrary_editions_2026-08-31,/books/OL1101564M,/works/OL3495342W,/languages/eng,005.13,005.13,llm
+"Searching online for image, audio, and video files",openlibrary_editions_2026-08-31,/books/OL22842311M,/works/OL9472241W,/languages/eng,025.04,001.94,llm
+National Archives at Kansas City,openlibrary_editions_2026-08-31,/books/OL38627323M,/works/OL28214840W,/languages/eng,025.17,025.49,llm
+Web design,openlibrary_editions_2026-08-31,/books/OL27095323M,/works/OL19910631W,/languages/eng,006.7,004.68,llm
+The XLISP primer,openlibrary_editions_2026-08-31,/books/OL2374366M,/works/OL4957394W,/languages/eng,005.13,005.1,llm
+Web content RX,openlibrary_editions_2026-08-31,/books/OL22853216M,/works/OL17843151W,/languages/eng,006.7,004.68,llm
+Highly parallel computers,openlibrary_editions_2026-08-31,/books/OL21433506M,/works/OL13381947W,/languages/eng,004.35,001.64,llm
+Data processing logic,openlibrary_editions_2026-08-31,/books/OL2714292M,/works/OL3850895W,/languages/eng,005.26,005.74,llm
+Apocalypse how,openlibrary_editions_2026-08-31,/books/OL23859486M,/works/OL9499951W,/languages/eng,001.9,001.43,llm
+Rules for descriptive cataloging in the Library of Congress.,openlibrary_editions_2026-08-31,/books/OL6523156M,/works/OL2130798W,/languages/eng,025.3,005.71,llm
+Metadata for digital resources,openlibrary_editions_2026-08-31,/books/OL21173723M,/works/OL9914149W,/languages/eng,025.3,005.74,llm
+Detection theory.,openlibrary_editions_2026-08-31,/books/OL5945637M,/works/OL173176W,/languages/eng,001.53,005.71,llm
+Texas state documents,openlibrary_editions_2026-08-31,/books/OL4378731M,/works/OL6539609W,/languages/eng,025.17,025.49,llm
+"Quattro Pro 4, inside & out",openlibrary_editions_2026-08-31,/books/OL22182116M,/works/OL2984335W,/languages/eng,005.36,004.68,llm
+Sharepoint 2007 development recipes,openlibrary_editions_2026-08-31,/books/OL23919856M,/works/OL13854818W,/languages/eng,006.78,004.68,llm
+Running an agile software development project,openlibrary_editions_2026-08-31,/books/OL27086090M,/works/OL19900456W,/languages/eng,005.11,005.74,llm
+CNET Do-it-yourself home networking projects,openlibrary_editions_2026-08-31,/books/OL21811548M,/works/OL2041017W,/languages/eng,004.68,004.6,llm
+Linux+ study guide,openlibrary_editions_2026-08-31,/books/OL17862899M,/works/OL58207W,/languages/eng,005.43,005.74,llm
+ABC of communication studies,openlibrary_editions_2026-08-31,/books/OL22350310M,/works/OL4087028W,/languages/eng,001.51,004.68,llm
+Abominable snowman,openlibrary_editions_2026-08-31,/books/OL17962035M,/works/OL5708109W,/languages/eng,001.94,001.94,llm
+Extreme programming and agile processes in software engineering,openlibrary_editions_2026-08-31,/books/OL3314750M,/works/OL5742247W,/languages/eng,005.11,005.74,llm
+Handbook of research on novel soft computing intelligent algorithms,openlibrary_editions_2026-08-31,/books/OL31143082M,/works/OL23296877W,/languages/eng,006.3,005.74,llm
+State-of-the-Art in Content-Based Image and Video Retrieval,openlibrary_editions_2026-08-31,/books/OL27089075M,/works/OL19903772W,/languages/eng,006.7,005.74,llm
+Streaming media,openlibrary_editions_2026-08-31,/books/OL22026919M,/works/OL13518934W,/languages/eng,006.78,004.68,llm

@@ -1,0 +1,126 @@
+split_a,split_b,normalized_title,edition_id_a,edition_id_b,work_id_a,work_id_b,title_a,title_b,cdd_a,cdd_b,same_cdd
+train,val,advanced information systems engineering,/books/OL1535137M,/books/OL361980M,/works/OL4083971W,/works/OL1894139W,Advanced information systems engineering,Advanced information systems engineering,005.1,005.1,True
+train,val,advanced javascript,/books/OL27014604M,/books/OL21485372M,/works/OL19823959W,/works/OL5956364W,Advanced JavaScript,Advanced JavaScript,005.27,005.27,True
+train,val,algorithmic learning theory,/books/OL21843250M,/books/OL1603197M,/works/OL13479179W,/works/OL18221254W,Algorithmic learning theory,Algorithmic learning theory,006.31,006.31,True
+train,val,algorithmic learning theory,/books/OL691039M,/books/OL1603197M,/works/OL2722576W,/works/OL18221254W,Algorithmic learning theory,Algorithmic learning theory,006.31,006.31,True
+train,val,as,/books/OL1096491M,/books/OL1426464M,/works/OL3487082W,/works/OL3948223W,AS,AS,005.44,005.43,False
+train,val,author entry for government publications,/books/OL6392807M,/books/OL61331785M,/works/OL1525918W,/works/OL36945890W,Author entry for government publications,Author entry for government publications,025.3,025.3,True
+train,val,classification,/books/OL20314854M,/books/OL6216489M,/works/OL3288791W,/works/OL3125302W,Classification.,Classification,025.46,025.46,True
+train,val,classification,/books/OL28020420M,/books/OL6216489M,/works/OL20720375W,/works/OL3125302W,Classification,Classification,025.46,025.46,True
+train,val,classification,/books/OL49878232M,/books/OL6216489M,/works/OL20720375W,/works/OL3125302W,Classification,Classification,025.46,025.46,True
+train,val,computer graphics,/books/OL1423242M,/books/OL27151110M,/works/OL3262959W,/works/OL19970917W,Computer graphics,Computer graphics,006.6,006.6,True
+train,val,computer graphics,/books/OL60857855M,/books/OL27151110M,/works/OL16486246W,/works/OL19970917W,Computer Graphics,Computer graphics,006.6,006.6,True
+train,val,dbase iv,/books/OL1802260M,/books/OL1563488M,/works/OL2032676W,/works/OL3463083W,dBase IV,dBASE IV,005.75,005.75,True
+train,val,go with,/books/OL24002761M,/books/OL31795536M,/works/OL18665561W,/works/OL24099470W,Go! with.,Go! with,005.44,005.75,False
+train,val,graph theoretic concepts in computer science,/books/OL1084106M,/books/OL21486660M,/works/OL1803177W,/works/OL13394657W,Graph-theoretic concepts in computer science,Graph-theoretic concepts in computer science,004.01,004.01,True
+train,val,ieee symposium on visual languages and human centric computing,/books/OL23144478M,/books/OL30514025M,/works/OL13758144W,/works/OL22424452W,IEEE Symposium on Visual Languages and Human Centric Computing,IEEE Symposium on Visual Languages and Human Centric Computing,004.01,004.01,True
+train,val,infoil 2 thesaurus,/books/OL21103070M,/books/OL2123381M,/works/OL13303409W,/works/OL4716354W,INFOIL 2 thesaurus,INFOIL 2 thesaurus,025.49,025.49,True
+train,val,internet,/books/OL1132578M,/books/OL1112222M,/works/OL2040336W,/works/OL3512532W,Internet,Internet,004.67,004.67,True
+train,val,introduction to genetic algorithms,/books/OL18020916M,/books/OL53282260M,/works/OL12304749W,/works/OL39140738W,Introduction to genetic algorithms,Introduction to Genetic Algorithms,006.31,006.31,True
+train,val,javascript,/books/OL27065392M,/books/OL23644006M,/works/OL19877970W,/works/OL101557W,JavaScript,Javascript,005.27,005.27,True
+train,val,javascript,/books/OL27065392M,/books/OL6799406M,/works/OL19877970W,/works/OL5741197W,JavaScript,JavaScript,005.27,005.27,True
+train,val,library of congress classification kf law of the united states,/books/OL3310515M,/books/OL3310508M,/works/OL19170964W,/works/OL18242310W,Library of Congress classification. KF. Law of the United States,Library of Congress classification. KF. Law of the United States,025.46,025.46,True
+train,val,local area networks,/books/OL1426482M,/books/OL1406060M,/works/OL2354695W,/works/OL1825553W,Local area networks,Local area networks,004.68,004.68,True
+train,val,local area networks,/books/OL17843505M,/books/OL1406060M,/works/OL12248942W,/works/OL1825553W,Local area networks,Local area networks,004.68,004.68,True
+train,val,osf,/books/OL1324333M,/books/OL1656402M,/works/OL19537322W,/works/OL19047740W,OSF,OSF,005.71,005.43,False
+train,val,parallel computing,/books/OL1089474M,/books/OL2373640M,/works/OL3475230W,/works/OL2042120W,Parallel computing,Parallel computing,004.35,004.35,True
+train,val,parallel computing,/books/OL2184048M,/books/OL2373640M,/works/OL4771998W,/works/OL2042120W,Parallel computing,Parallel computing,004.35,004.35,True
+train,val,pattern recognition,/books/OL27080002M,/books/OL5729410M,/works/OL19893735W,/works/OL7320199W,Pattern Recognition,Pattern recognition,006.3,001.53,False
+train,val,pattern recognition,/books/OL4910117M,/books/OL5729410M,/works/OL6920310W,/works/OL7320199W,Pattern recognition,Pattern recognition,001.53,001.53,True
+train,val,proceedings,/books/OL1801099M,/books/OL25540790M,/works/OL4384983W,/works/OL16930084W,Proceedings,Proceedings,006.33,006.3,False
+train,val,proceedings,/books/OL4541115M,/books/OL25540790M,/works/OL6664960W,/works/OL16930084W,Proceedings.,Proceedings,001.53,006.3,False
+train,val,proceedings,/books/OL834831M,/books/OL25540790M,/works/OL3029953W,/works/OL16930084W,Proceedings,Proceedings,006.33,006.3,False
+train,val,sears list of subject headings,/books/OL1724103M,/books/OL1532636M,/works/OL2383504W,/works/OL3480120W,Sears list of subject headings.,Sears list of subject headings.,025.49,025.49,True
+train,val,sears list of subject headings,/books/OL1724103M,/books/OL2714751M,/works/OL2383504W,/works/OL3480120W,Sears list of subject headings.,Sears list of subject headings.,025.49,025.49,True
+train,val,sears list of subject headings,/books/OL1724103M,/books/OL3487494M,/works/OL2383504W,/works/OL3480120W,Sears list of subject headings.,Sears list of subject headings.,025.49,025.49,True
+train,val,sears list of subject headings,/books/OL1724103M,/books/OL3702929M,/works/OL2383504W,/works/OL3480120W,Sears list of subject headings.,Sears list of subject headings.,025.49,025.49,True
+train,val,sears list of subject headings,/books/OL1724103M,/books/OL43766775M,/works/OL2383504W,/works/OL3480120W,Sears list of subject headings.,Sears list of subject headings,025.49,025.49,True
+train,val,subject headings for the literature of law and international law and index to lc k schedules,/books/OL1881838M,/books/OL4269720M,/works/OL19374627W,/works/OL19149280W,"Subject headings for the literature of law and international law, and index to LC K schedules","Subject headings for the literature of law and international law, and index to LC K schedules",025.49,025.49,True
+train,val,the directory of possibilities,/books/OL3786250M,/books/OL3126911M,/works/OL18233267W,/works/OL19177735W,The Directory of possibilities,The Directory of possibilities,001.9,001.9,True
+train,val,transputer,/books/OL3963453M,/books/OL3963454M,/works/OL6220946W,/works/OL6220947W,Transputer,Transputer,004.35,004.35,True
+train,test,advanced web and network technologies and applications,/books/OL24447916M,/books/OL27014720M,/works/OL15483303W,/works/OL19824090W,"Advanced web and network technologies, and applications","Advanced Web and Network Technologies, and Applications",006.31,025.04,False
+train,test,algorithms,/books/OL105898M,/books/OL27221630M,/works/OL104280W,/works/OL20041597W,Algorithms,Algorithms,005.1,005.1,True
+train,test,classification,/books/OL20314854M,/books/OL22143368M,/works/OL3288791W,/works/OL4398462W,Classification.,Classification.,025.46,025.46,True
+train,test,classification,/books/OL20314854M,/books/OL22321620M,/works/OL3288791W,/works/OL4398462W,Classification.,Classification.,025.46,025.46,True
+train,test,classification,/books/OL20314854M,/books/OL22645997M,/works/OL3288791W,/works/OL4398462W,Classification.,Classification.,025.46,025.46,True
+train,test,classification,/books/OL20314854M,/books/OL5814211M,/works/OL3288791W,/works/OL4398462W,Classification.,Classification.,025.46,025.46,True
+train,test,classification,/books/OL20314854M,/books/OL5814235M,/works/OL3288791W,/works/OL4398462W,Classification.,Classification.,025.46,025.46,True
+train,test,classification,/books/OL28020420M,/books/OL22143368M,/works/OL20720375W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+train,test,classification,/books/OL28020420M,/books/OL22321620M,/works/OL20720375W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+train,test,classification,/books/OL28020420M,/books/OL22645997M,/works/OL20720375W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+train,test,classification,/books/OL28020420M,/books/OL5814211M,/works/OL20720375W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+train,test,classification,/books/OL28020420M,/books/OL5814235M,/works/OL20720375W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+train,test,classification,/books/OL49878232M,/books/OL22143368M,/works/OL20720375W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+train,test,classification,/books/OL49878232M,/books/OL22321620M,/works/OL20720375W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+train,test,classification,/books/OL49878232M,/books/OL22645997M,/works/OL20720375W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+train,test,classification,/books/OL49878232M,/books/OL5814211M,/works/OL20720375W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+train,test,classification,/books/OL49878232M,/books/OL5814235M,/works/OL20720375W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+train,test,computer science,/books/OL5760356M,/books/OL1849824M,/works/OL5353710W,/works/OL3275955W,Computer science.,Computer science,001.64,004,False
+train,test,computers,/books/OL1554311M,/books/OL3182112M,/works/OL1818040W,/works/OL5605949W,Computers,Computers,004,001.64,False
+train,test,computers,/books/OL1554311M,/books/OL783269M,/works/OL1818040W,/works/OL2632095W,Computers,Computers,004,004,True
+train,test,computers,/books/OL2201312M,/books/OL3182112M,/works/OL29838W,/works/OL5605949W,Computers,Computers,004,001.64,False
+train,test,computers,/books/OL2201312M,/books/OL783269M,/works/OL29838W,/works/OL2632095W,Computers,Computers,004,004,True
+train,test,computers,/books/OL22111817M,/books/OL3182112M,/works/OL2188350W,/works/OL5605949W,Computers,Computers,004,001.64,False
+train,test,computers,/books/OL22111817M,/books/OL783269M,/works/OL2188350W,/works/OL2632095W,Computers,Computers,004,004,True
+train,test,computers,/books/OL22329997M,/books/OL3182112M,/works/OL13572289W,/works/OL5605949W,Computers,Computers,004,001.64,False
+train,test,computers,/books/OL22329997M,/books/OL783269M,/works/OL13572289W,/works/OL2632095W,Computers,Computers,004,004,True
+train,test,computers,/books/OL22640433M,/books/OL3182112M,/works/OL2188350W,/works/OL5605949W,Computers,Computers,004,001.64,False
+train,test,computers,/books/OL22640433M,/books/OL783269M,/works/OL2188350W,/works/OL2632095W,Computers,Computers,004,004,True
+train,test,computers,/books/OL31487697M,/books/OL3182112M,/works/OL20480373W,/works/OL5605949W,Computers,Computers,004,001.64,False
+train,test,computers,/books/OL31487697M,/books/OL783269M,/works/OL20480373W,/works/OL2632095W,Computers,Computers,004,004,True
+train,test,data mining,/books/OL25047396M,/books/OL22239271M,/works/OL16168633W,/works/OL8856081W,Data mining,Data mining,006.31,005.74,False
+train,test,data mining,/books/OL25047396M,/books/OL27226588M,/works/OL16168633W,/works/OL20046562W,Data mining,Data mining,006.31,006.3,False
+train,test,dummies 101,/books/OL397194M,/books/OL22315683M,/works/OL2035086W,/works/OL58756W,Dummies 101.,Dummies 101.,004.67,005.72,False
+train,test,experimental design,/books/OL4802667M,/books/OL2537403M,/works/OL4933863W,/works/OL5101993W,Experimental design,Experimental design,001.42,001.43,False
+train,test,ibm eserver certification study guide,/books/OL17859094M,/books/OL17881917M,/works/OL6085714W,/works/OL19446112W,IBM eserver certification study guide,IBM eserver certification study guide,005.43,005.43,True
+train,test,internet,/books/OL1132578M,/books/OL22425411M,/works/OL2040336W,/works/OL2994978W,Internet,Internet,004.67,004.67,True
+train,test,library of congress classification n fine arts,/books/OL24412906M,/books/OL24399967M,/works/OL15445352W,/works/OL15431346W,Library of Congress classification. N. Fine arts,Library of Congress classification. N. Fine arts,025.46,025.46,True
+train,test,library of congress classification pl pm languages of eastern asia africa oceania hyperborean indian and artificial languages,/books/OL24566177M,/books/OL3945577M,/works/OL15615961W,/works/OL39753W,"Library of Congress classification. PL-PM. Languages of Eastern Asia, Africa, Oceania. Hyperborean, Indian, and artificial languages","Library of Congress classification. PL-PM. Languages of Eastern Asia, Africa, Oceania. Hyperborean, Indian, and artificial languages",025.46,025.46,True
+train,test,logic programming,/books/OL21570043M,/books/OL1714060M,/works/OL13412981W,/works/OL4289098W,Logic programming,Logic programming,005.13,005.11,False
+train,test,logic programming,/books/OL21570043M,/books/OL20374025M,/works/OL13412981W,/works/OL13070068W,Logic programming,Logic programming,005.13,005.11,False
+train,test,logic programming,/books/OL21570043M,/books/OL2215747M,/works/OL13412981W,/works/OL17922696W,Logic programming,Logic programming,005.13,005.1,False
+train,test,logic programming,/books/OL6804957M,/books/OL1714060M,/works/OL7801129W,/works/OL4289098W,Logic programming,Logic programming,005.11,005.11,True
+train,test,logic programming,/books/OL6804957M,/books/OL20374025M,/works/OL7801129W,/works/OL13070068W,Logic programming,Logic programming,005.11,005.11,True
+train,test,logic programming,/books/OL6804957M,/books/OL2215747M,/works/OL7801129W,/works/OL17922696W,Logic programming,Logic programming,005.11,005.1,False
+train,test,machine learning,/books/OL19142325M,/books/OL1084450M,/works/OL12655214W,/works/OL3465695W,Machine learning,Machine learning,006.31,006.31,True
+train,test,machine learning,/books/OL2710095M,/books/OL1084450M,/works/OL19420941W,/works/OL3465695W,Machine learning,Machine learning,006.31,006.31,True
+train,test,machine learning,/books/OL60884451M,/books/OL1084450M,/works/OL21616980W,/works/OL3465695W,Machine Learning,Machine learning,006.31,006.31,True
+train,test,managing the structured techniques,/books/OL21136332M,/books/OL2547551M,/works/OL12163526W,/works/OL2626002W,Managing the structured techniques,Managing the structured techniques,005.11,005.11,True
+train,test,mathematical and algorithmic foundations of the internet,/books/OL25066539M,/books/OL60832435M,/works/OL16190560W,/works/OL25109692W,Mathematical and algorithmic foundations of the internet,Mathematical and Algorithmic Foundations of the Internet,004.67,004.67,True
+train,test,mcse,/books/OL6805190M,/books/OL713160M,/works/OL830930W,/works/OL521339W,MCSE,MCSE.,005.71,004.6,False
+train,test,monsters,/books/OL29377288M,/books/OL3159649M,/works/OL487526W,/works/OL2736043W,Monsters,Monsters,001.94,001.94,True
+train,test,php,/books/OL27080815M,/books/OL24965446M,/works/OL19894618W,/works/OL5854647W,PHP,PHP,005.13,005.13,True
+train,test,php,/books/OL27080816M,/books/OL24965446M,/works/OL19894619W,/works/OL5854647W,PHP,PHP,005.72,005.13,False
+train,test,portals to the world,/books/OL3776978M,/books/OL3776981M,/works/OL23873681W,/works/OL23873684W,Portals to the world.,Portals to the world.,025.06,025.06,True
+train,test,portals to the world,/books/OL3776984M,/books/OL3776981M,/works/OL23873687W,/works/OL23873684W,Portals to the world.,Portals to the world.,025.06,025.06,True
+train,test,proceedings,/books/OL1801099M,/books/OL18807081M,/works/OL4384983W,/works/OL12514621W,Proceedings,Proceedings,006.33,005.13,False
+train,test,proceedings,/books/OL1801099M,/books/OL5977908M,/works/OL4384983W,/works/OL7398997W,Proceedings,Proceedings.,006.33,025.17,False
+train,test,proceedings,/books/OL1801099M,/books/OL6799371M,/works/OL4384983W,/works/OL7799551W,Proceedings,Proceedings,006.33,004.35,False
+train,test,proceedings,/books/OL4541115M,/books/OL18807081M,/works/OL6664960W,/works/OL12514621W,Proceedings.,Proceedings,001.53,005.13,False
+train,test,proceedings,/books/OL4541115M,/books/OL5977908M,/works/OL6664960W,/works/OL7398997W,Proceedings.,Proceedings.,001.53,025.17,False
+train,test,proceedings,/books/OL4541115M,/books/OL6799371M,/works/OL6664960W,/works/OL7799551W,Proceedings.,Proceedings,001.53,004.35,False
+train,test,proceedings,/books/OL834831M,/books/OL18807081M,/works/OL3029953W,/works/OL12514621W,Proceedings,Proceedings,006.33,005.13,False
+train,test,proceedings,/books/OL834831M,/books/OL5977908M,/works/OL3029953W,/works/OL7398997W,Proceedings,Proceedings.,006.33,025.17,False
+train,test,proceedings,/books/OL834831M,/books/OL6799371M,/works/OL3029953W,/works/OL7799551W,Proceedings,Proceedings,006.33,004.35,False
+train,test,rationalisation of serial holdings and the use of the british library lending division blld,/books/OL24794746M,/books/OL4588645M,/works/OL15886870W,/works/OL4944604W,"Rationalisation of serial holdings and the use of the British Library, Lending Division (BLLD)","Rationalisation of serial holdings and the use of the British Library, Lending Division (BLLD)",025.17,025.17,True
+train,test,report,/books/OL5112475M,/books/OL5723963M,/works/OL22525810W,/works/OL18847038W,Report.,Report,001.43,025.3,False
+train,test,sql,/books/OL1884626M,/books/OL17031848M,/works/OL4477213W,/works/OL5800894W,SQL,SQL,005.75,005.75,True
+train,test,thesaurus,/books/OL2795191M,/books/OL1951016M,/works/OL5320060W,/works/OL18258832W,Thesaurus,Thésaurus.,025.49,025.34,False
+val,test,ancient french archives or extracts from the minutes of council relating to the records of canada while under the government of france,/books/OL24234716M,/books/OL14754414M,/works/OL17068990W,/works/OL12853163W,"Ancient French archives, or, Extracts from the minutes of Council relating to the records of Canada, while under the government of France","Ancient French archives, or, Extracts from the minutes of Council relating to the records of Canada, while under the government of France.",025.17,025.17,True
+val,test,classification,/books/OL6216489M,/books/OL22143368M,/works/OL3125302W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+val,test,classification,/books/OL6216489M,/books/OL22321620M,/works/OL3125302W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+val,test,classification,/books/OL6216489M,/books/OL22645997M,/works/OL3125302W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+val,test,classification,/books/OL6216489M,/books/OL5814211M,/works/OL3125302W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+val,test,classification,/books/OL6216489M,/books/OL5814235M,/works/OL3125302W,/works/OL4398462W,Classification,Classification.,025.46,025.46,True
+val,test,computer security,/books/OL2199612M,/books/OL23147892M,/works/OL18852929W,/works/OL18658397W,Computer security,Computer security,005.8,005.8,True
+val,test,interactive distributed multimedia systems and telecommunication services,/books/OL14752197M,/books/OL376831M,/works/OL11209967W,/works/OL18220376W,Interactive distributed multimedia systems and telecommunication services,Interactive distributed multimedia systems and telecommunication services,006.7,006.7,True
+val,test,internet,/books/OL1112222M,/books/OL22425411M,/works/OL3512532W,/works/OL2994978W,Internet,Internet,004.67,004.67,True
+val,test,proceedings,/books/OL25540790M,/books/OL18807081M,/works/OL16930084W,/works/OL12514621W,Proceedings,Proceedings,006.3,005.13,False
+val,test,proceedings,/books/OL25540790M,/books/OL5977908M,/works/OL16930084W,/works/OL7398997W,Proceedings,Proceedings.,006.3,025.17,False
+val,test,proceedings,/books/OL25540790M,/books/OL6799371M,/works/OL16930084W,/works/OL7799551W,Proceedings,Proceedings,006.3,004.35,False
+val,test,programming in visual basic 2010,/books/OL24566094M,/books/OL24580406M,/works/OL15615878W,/works/OL15633012W,Programming in Visual Basic 2010,Programming in Visual Basic 2010,006.78,005.27,False
+val,test,statistics,/books/OL1124611M,/books/OL24220536M,/works/OL3533232W,/works/OL15152928W,Statistics,Statistics,001.42,001.42,True
+val,test,statistics,/books/OL4745392M,/books/OL24220536M,/works/OL16477396W,/works/OL15152928W,Statistics,Statistics,001.42,001.42,True
+val,test,the loch ness story,/books/OL17400321M,/books/OL4936149M,/works/OL11374549W,/works/OL6936077W,The Loch Ness story,The Loch Ness story,001.94,001.94,True
+val,test,the london classification of business studies,/books/OL4608864M,/books/OL4369352M,/works/OL3258932W,/works/OL19021968W,The London classification of Business Studies,The London classification of business studies,025.46,025.46,True
+val,test,unix system v release 4,/books/OL1583466M,/books/OL1979619M,/works/OL19415638W,/works/OL19449801W,"Unix System V, release 4.","UNIX System V, release 4",005.43,005.43,True

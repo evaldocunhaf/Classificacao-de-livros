@@ -1,0 +1,231 @@
+scope,group,edition_id,work_id,titulo,cdd,texto
+val,0,/books/OL64974M,/works/OL64843W,Mastering today's software.,005.71,"Mastering today's software.
+1-2-3 for Windows
+Application software
+BASIC (Computer program language)
+Business
+Computer programs
+Computer software
+Computers
+DBASE V (Computer file)
+DBase III plus (Computer file)
+DBase IV (Computer file)
+DOS 5.0.
+Database management
+Electronic spreadsheets
+Internet
+Lotus 1-2-3 (Computer file)
+MS-DOS (Computer file)
+Microcomputers
+Microsoft Access
+Microsoft Excel (Computer file)
+Microsoft Office
+Microsoft PowerPoint (Computer file)
+Microsoft Windows (Computer file)
+Microsoft Word
+Netscape
+Operating systems (Computers)
+PC-DOS (Computer file)
+Paradox (Computer file)
+Presentation graphics software
+Quattro pro
+Windows (Computer programs)
+Word processing
+WordPerfect (Computer file)
+World Wide Web
+Dbase iv (computer program)
+Paradox (computer program)
+Dbase iii plus (computer program)
+Lotus 1-2-3 (computer program)
+Wordperfect (computer program)"
+val,0,/books/OL1218646M,/works/OL64843W,Mastering today's software.,005.44,"Mastering today's software.
+1-2-3 for Windows
+Application software
+BASIC (Computer program language)
+Business
+Computer programs
+Computer software
+Computers
+DBASE V (Computer file)
+DBase III plus (Computer file)
+DBase IV (Computer file)
+DOS 5.0.
+Database management
+Electronic spreadsheets
+Internet
+Lotus 1-2-3 (Computer file)
+MS-DOS (Computer file)
+Microcomputers
+Microsoft Access
+Microsoft Excel (Computer file)
+Microsoft Office
+Microsoft PowerPoint (Computer file)
+Microsoft Windows (Computer file)
+Microsoft Word
+Netscape
+Operating systems (Computers)
+PC-DOS (Computer file)
+Paradox (Computer file)
+Presentation graphics software
+Quattro pro
+Windows (Computer programs)
+Word processing
+WordPerfect (Computer file)
+World Wide Web
+Dbase iv (computer program)
+Paradox (computer program)
+Dbase iii plus (computer program)
+Lotus 1-2-3 (computer program)
+Wordperfect (computer program)"
+val,1,/books/OL18148939M,/works/OL11310993W,Data structures and program design in C,005.1,"Data structures and program design in C
+C (Computer program language)
+C++ (programming language)"
+val,1,/books/OL21138167M,/works/OL11310993W,Data structures and program design in C,005.13,"Data structures and program design in C
+C (Computer program language)
+C++ (programming language)"
+test,0,/books/OL3828544M,/works/OL5004788W,Catholic subject headings,025.49,"Catholic subject headings
+Subject headings
+Catholic literature
+Theology
+Catholic libraries
+Vedettes-matière anglaises
+Vedettes-matière
+Théologie
+Littérature catholique
+Catholic authors"
+test,0,/books/OL6441027M,/works/OL5004788W,Catholic subject headings,025.3,"Catholic subject headings
+Subject headings
+Catholic literature
+Theology
+Catholic libraries
+Vedettes-matière anglaises
+Vedettes-matière
+Théologie
+Littérature catholique
+Catholic authors"
+test,1,/books/OL1404279M,/works/OL3455578W,NetWare training guide,005.71,"NetWare training guide
+Local area networks (Computer networks)
+NetWare
+Operating systems (Computers)"
+test,1,/books/OL1413203M,/works/OL3455578W,NetWare training guide,004.68,"NetWare training guide
+Local area networks (Computer networks)
+NetWare
+Operating systems (Computers)"
+all,0,/books/OL21570043M,/works/OL13412981W,Logic programming,005.13,"Logic programming
+Logic programming
+Congresses"
+all,0,/books/OL20374025M,/works/OL13070068W,Logic programming,005.11,"Logic programming
+Logic programming
+Congresses"
+all,1,/books/OL64974M,/works/OL64843W,Mastering today's software.,005.71,"Mastering today's software.
+1-2-3 for Windows
+Application software
+BASIC (Computer program language)
+Business
+Computer programs
+Computer software
+Computers
+DBASE V (Computer file)
+DBase III plus (Computer file)
+DBase IV (Computer file)
+DOS 5.0.
+Database management
+Electronic spreadsheets
+Internet
+Lotus 1-2-3 (Computer file)
+MS-DOS (Computer file)
+Microcomputers
+Microsoft Access
+Microsoft Excel (Computer file)
+Microsoft Office
+Microsoft PowerPoint (Computer file)
+Microsoft Windows (Computer file)
+Microsoft Word
+Netscape
+Operating systems (Computers)
+PC-DOS (Computer file)
+Paradox (Computer file)
+Presentation graphics software
+Quattro pro
+Windows (Computer programs)
+Word processing
+WordPerfect (Computer file)
+World Wide Web
+Dbase iv (computer program)
+Paradox (computer program)
+Dbase iii plus (computer program)
+Lotus 1-2-3 (computer program)
+Wordperfect (computer program)"
+all,1,/books/OL1218646M,/works/OL64843W,Mastering today's software.,005.44,"Mastering today's software.
+1-2-3 for Windows
+Application software
+BASIC (Computer program language)
+Business
+Computer programs
+Computer software
+Computers
+DBASE V (Computer file)
+DBase III plus (Computer file)
+DBase IV (Computer file)
+DOS 5.0.
+Database management
+Electronic spreadsheets
+Internet
+Lotus 1-2-3 (Computer file)
+MS-DOS (Computer file)
+Microcomputers
+Microsoft Access
+Microsoft Excel (Computer file)
+Microsoft Office
+Microsoft PowerPoint (Computer file)
+Microsoft Windows (Computer file)
+Microsoft Word
+Netscape
+Operating systems (Computers)
+PC-DOS (Computer file)
+Paradox (Computer file)
+Presentation graphics software
+Quattro pro
+Windows (Computer programs)
+Word processing
+WordPerfect (Computer file)
+World Wide Web
+Dbase iv (computer program)
+Paradox (computer program)
+Dbase iii plus (computer program)
+Lotus 1-2-3 (computer program)
+Wordperfect (computer program)"
+all,2,/books/OL18148939M,/works/OL11310993W,Data structures and program design in C,005.1,"Data structures and program design in C
+C (Computer program language)
+C++ (programming language)"
+all,2,/books/OL21138167M,/works/OL11310993W,Data structures and program design in C,005.13,"Data structures and program design in C
+C (Computer program language)
+C++ (programming language)"
+all,3,/books/OL3828544M,/works/OL5004788W,Catholic subject headings,025.49,"Catholic subject headings
+Subject headings
+Catholic literature
+Theology
+Catholic libraries
+Vedettes-matière anglaises
+Vedettes-matière
+Théologie
+Littérature catholique
+Catholic authors"
+all,3,/books/OL6441027M,/works/OL5004788W,Catholic subject headings,025.3,"Catholic subject headings
+Subject headings
+Catholic literature
+Theology
+Catholic libraries
+Vedettes-matière anglaises
+Vedettes-matière
+Théologie
+Littérature catholique
+Catholic authors"
+all,4,/books/OL1404279M,/works/OL3455578W,NetWare training guide,005.71,"NetWare training guide
+Local area networks (Computer networks)
+NetWare
+Operating systems (Computers)"
+all,4,/books/OL1413203M,/works/OL3455578W,NetWare training guide,004.68,"NetWare training guide
+Local area networks (Computer networks)
+NetWare
+Operating systems (Computers)"

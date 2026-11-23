@@ -1,0 +1,33 @@
+model: qwen3.5:9b
+host: http://localhost:11434
+temperature: 0.0
+
+llm:
+  think: false
+  max_output_tokens: 400
+
+extractors:
+  tfidf:
+    enabled: true
+    top_n: 10
+    ngram_range: [1, 2]
+  keybert:
+    enabled: true
+    top_n: 10
+    ngram_range: [1, 2]
+    model: paraphrase-multilingual-MiniLM-L12-v2
+    use_mmr: true
+  yake:
+    enabled: true
+    top_n: 10
+    language: pt
+
+consolidation:
+  mode: votes
+  min_votes: 2
+
+data:
+  input: output/livros_cdd_005.csv
+  prepared_dir: output/prepared
+  openlibrary_editions_dump: data/ol_dump_editions_2026-08-31.txt
+  openlibrary_dataset: output/datasets/openlibrary_editions.csv

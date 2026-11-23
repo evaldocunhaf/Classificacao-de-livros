@@ -1,0 +1,598 @@
+model,edition_id,titulo,cdd_true,cdd_pred,category,texto,status
+RL,/books/OL4969061M,Mensch und Roboter,001.53,004.01,divergência de seção,"Mensch und Roboter
+Human mechanics
+Robots",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL66980M,On simultaneous rigid E-unification,004.01,001.53,divergência de seção,"On simultaneous rigid E-unification
+Automatic theorem proving",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL1189282M,ToolTalk and open protocols,005.71,005.1,código distinto na mesma seção,"ToolTalk and open protocols
+Application software
+Computer software
+Development
+ToolTalk
+Computer software, development",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL994212M,3D modeling construction kit,006.6,006.69,previsão mais específica,"3D modeling construction kit
+World Wide Web
+Interactive multimedia
+Computer graphics
+Computer animation
+Truespace (computer program)",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL21433861M,Information systems assessment,025.52,025.06,código distinto na mesma seção,"Information systems assessment
+Congresses
+Evaluation
+Information resources management
+Information services
+Information technology",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL1330786M,Bizarre America 2,001.94,001.9,previsão menos específica,"Bizarre America 2
+Curiosities and wonders
+Parapsychology
+Humor, form, comic strips & cartoons",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL1289497M,AST Premium II computers,004.16,005.11,divergência de seção,"AST Premium II computers
+AST Premium II (Computer)",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL2612068M,Porter's Programs for the Apple® II family,005.26,001.64,divergência de seção,"Porter's Programs for the Apple® II family
+Programming
+Apple II Plus (Computer)
+Apple IIc (Computer)
+Computer programs
+Apple IIe (Computer)
+Apple II (Computer)",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL3319609M,The posthuman condition,006.3,001.53,divergência de seção,"The posthuman condition
+Artificial intelligence
+Human beings
+Social aspects
+Social aspects of Technology
+Technology
+Literature, history and criticism
+Consciousness
+Culture",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL6761273M,Die Proctor-Haeblersche Methode und der Versuch ihrer Widerlegung,025.3,025.34,previsão mais específica,"Die Proctor-Haeblersche Methode und der Versuch ihrer Widerlegung
+Cataloging of incunabula
+Gesamtkatalog der Wiegendrucke
+Type and type-founding",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL3629616M,The stargate conspiracy,001.9,001.94,previsão mais específica,"The stargate conspiracy
+Miscellanea
+Human-alien encounters
+Antiquities
+Military intelligence
+New Age
+Nonfiction
+Fiction, science fiction, general
+Life on other planets
+Egypt
+Ancient Civilization
+Extraterrestrial influences
+Pyramids",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL6893811M,The global course of the information revolution,004.67,025.17,divergência de seção,"The global course of the information revolution
+Congresses
+Information technology
+Forecasting
+Technological innovations",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL2032021M,Programming the Apple IIGS in Assembly language,005.26,001.64,divergência de seção,"Programming the Apple IIGS in Assembly language
+Apple IIGS (Computer)
+Assembler language (Computer program language)
+Programming
+Assembly languages (Electronic computers)",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL3324155M,Streaming media server design,006.78,005.71,divergência de seção,"Streaming media server design
+Streaming technology (Telecommunications)
+Client/server computing",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL2203327M,IT strategies for information management,025.52,025.04,código distinto na mesma seção,"IT strategies for information management
+Information resources management
+Information technology",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL4700320M,An index of current research in the social sciences 1968-1970,001.43,001.42,código distinto na mesma seção,"An index of current research in the social sciences 1968-1970
+Research
+Social sciences",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL22480822M,Human computer interaction with mobile devices,004.16,004.01,código distinto na mesma seção,"Human computer interaction with mobile devices
+Congresses
+Mobile computing
+Human-computer interaction
+Informatique mobile
+Mensch-Maschine-Kommunikation
+Interaction homme-machine (Informatique)
+Congrès
+REDES DE COMPUTADORES
+SISTEMAS DE INFORMAÇÃO
+INTELIGÊNCIA ARTIFICIAL
+SISTEMAS DE INFORMACʹAO
+INTELIGENCIA ARTIFICIAL
+Congres
+Computer software
+Human factors",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL28412932M,Understanding operating systems,005.43,005.44,código distinto na mesma seção,"Understanding operating systems
+Sistemes operatius (Ordinadors)
+Operating systems (Computers)
+Computer programming",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL19884553M,Design by numbers.,006.6,005.1,divergência de seção,"Design by numbers.
+Computer graphics
+Computer programming for non-technical people
+Computer programming
+Programmation (Informatique)
+Infographie
+Ontwerpen
+Computers
+Grafische vormgeving
+Software
+Courseware
+Processamento grafico (graphics)
+Programacao de computadores
+Programming
+Open Source
+Software Development & Engineering
+Tools
+General
+Computer-aided design",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL3233700M,Medieval classification and cataloguing,025.3,025.34,previsão mais específica,"Medieval classification and cataloguing
+Cataloging
+Cataloging of manuscripts
+Classification
+History
+Libraries
+Library catalogs
+Manuscripts
+Medieval Manuscripts
+Learning and scholarship
+Intellectual life",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL3182112M,Computers,001.64,004,divergência de seção,"Computers
+Computers
+Electronic digital computers
+Juvenile literature
+Electronic digital computers, juvenile literature",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL27084799M,Rechner-Kommunikation für Anwender,004.6,001.51,divergência de seção,"Rechner-Kommunikation für Anwender
+Datenübertragung
+Rechnernetz",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL3301344M,Error control coding,005.72,001.53,divergência de seção,"Error control coding
+Error-correcting codes (Information theory)
+Codes correcteurs d'erreurs (Theorie de l'information)
+Codes correcteurs d'erreurs (Théorie de l'information)
+Fehlerkorrekturcode",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL27015084M,Advances in Knowledge Discovery and Data Mining,006.31,006.3,previsão menos específica,"Advances in Knowledge Discovery and Data Mining
+Data Mining and Knowledge Discovery
+Information organization
+Information storage and retrieval systems
+Information retrieval
+Artificial Intelligence (incl. Robotics)
+Data mining
+Artificial intelligence
+Computer science",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL382901M,Safety on the Internet,025.04,004.67,divergência de seção,"Safety on the Internet
+Internet and children
+United States
+Juvenile literature
+Internet
+Security measures
+Computer networks
+Access control
+Safety measures
+Safety
+Safety education
+Safety education, juvenile literature
+Internet, juvenile literature",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL3182682M,Retrieval and organizational strategies in conceptual memory,001.53,006.31,divergência de seção,"Retrieval and organizational strategies in conceptual memory
+Data processing
+Memory
+Recollection (Psychology)
+Organizational learning
+Knowledge management
+Rappel (Psychologie)
+Informatique
+REFERENCE
+Questions & Answers",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL27066331M,Kasparov versus Deep Blue,004,004.01,previsão mais específica,"Kasparov versus Deep Blue
+Computer science
+Kasparov, g. k. (garri kimovich), 1963-
+Computer chess",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL31489945M,Webmaster's guide,005.27,004.67,divergência de seção,"Webmaster's guide
+Web site development
+Web servers
+Handbooks, manuals
+Internet
+OS/2 (computer operating system)",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL6897688M,1999 IEEE Parallel Visualization and Graphics Symposium,006.6,004.35,divergência de seção,"1999 IEEE Parallel Visualization and Graphics Symposium
+Computer graphics
+Congresses
+Parallel processing (Electronic computers)
+Visualization",relação formal automática; interpretação temática e confirmação humana pendentes
+RL,/books/OL45488349M,ProLISSA 2002,025.52,025.04,código distinto na mesma seção,"ProLISSA 2002
+Information retrieval
+Congresses
+Information technology
+Management
+Knowledge management
+Information resources",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL1530460M,Model assisted survey sampling,001.42,001.43,código distinto na mesma seção,"Model assisted survey sampling
+Sampling (Statistics)
+Sampling Studies",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL382505M,Computer arithmetic,004.01,005.1,divergência de seção,"Computer arithmetic
+Computer algorithms
+Computer arithmetic
+Qa76.9.c62 p37 2000
+004/.01/513",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL358263M,Microsoft Visual InterDev 6.0 programmer's guide.,005.27,006.78,divergência de seção,"Microsoft Visual InterDev 6.0 programmer's guide.
+Microsoft Visual InterDev
+Web sites
+Design",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL23712820M,Intelligent soft computation and evolving data mining,006.3,006.31,previsão mais específica,"Intelligent soft computation and evolving data mining
+Soft computing
+Computational intelligence
+Data mining",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL45488349M,ProLISSA 2002,025.52,025.06,código distinto na mesma seção,"ProLISSA 2002
+Information retrieval
+Congresses
+Information technology
+Management
+Knowledge management
+Information resources",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL4398644M,"Research within the university, 1973-1976.",001.43,001.42,código distinto na mesma seção,"Research within the university, 1973-1976.
+Bibliography
+Indexes
+Nairobi
+Nairobi. University
+Research
+Research grants
+University of Nairobi",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL27093929M,Usability Engineering kompakt,004,005.1,divergência de seção,"Usability Engineering kompakt
+Computer science
+Software engineering",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL17163486M,Trends in constraint programming,005.11,005.13,código distinto na mesma seção,"Trends in constraint programming
+Constraint programming (Computer science)",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL17924749M,Flash 8,006.69,006.78,código distinto na mesma seção,"Flash 8
+Computer animation
+Computer programs
+Design
+Flash (Computer file)
+Web sites
+Flash (computer program)",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL6114935M,A standard list of subject headings in industrial relations.,025.46,025.49,código distinto na mesma seção,"A standard list of subject headings in industrial relations.
+Subject headings
+Industries
+Industrial relations
+Labor and laboring classes",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL30400421M,Reproducibility,001.42,004,divergência de seção,"Reproducibility
+Science, methodology",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL25551297M,Data Mining for Retail Website Design and Enhanced Marketing,004,006.31,divergência de seção,"Data Mining for Retail Website Design and Enhanced Marketing
+System design
+Industrial design
+Marketing
+Web sites
+Retail trade
+Data mining
+Design
+Data processing
+Databases
+Computer network resources",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL2612068M,Porter's Programs for the Apple® II family,005.26,001.64,divergência de seção,"Porter's Programs for the Apple® II family
+Programming
+Apple II Plus (Computer)
+Apple IIc (Computer)
+Computer programs
+Apple IIe (Computer)
+Apple II (Computer)",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL3413129M,Flash 8 ActionScript bible,006.69,006.78,código distinto na mesma seção,"Flash 8 ActionScript bible
+ActionScript (Computer program language)
+Computer Technology
+Computer animation
+Design
+Flash (Computer file)
+Nonfiction
+Web sites
+Programming languages (electronic computers)
+Web programming/development
+Animation
+Multimedia
+Computer graphics & design
+Internet & world wide web
+Filmmaking
+Programming languages",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL2297201M,Fachsystematik und Einzelsprachensystematik der Bibliothek des Instituts für Allgemeine Sprachwissenschaft der Westfälischen Wilhelms-Universität Münster,025.49,025.46,código distinto na mesma seção,"Fachsystematik und Einzelsprachensystematik der Bibliothek des Instituts für Allgemeine Sprachwissenschaft der Westfälischen Wilhelms-Universität Münster
+Books
+Classification
+Collection development
+Language and languages
+Linguistics
+Linguistics libraries
+Universität Münster
+Universität Münster. Institut für Allgemeine Sprachwissenschaft. Bibliothek",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL4591455M,The curse of the pharaohs,001.94,001.9,previsão menos específica,"The curse of the pharaohs
+Egyptology
+Antiquities
+Civilization
+Egytology
+Miscellanea
+Funeral rites and ceremonies
+Egypt, antiquities",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL1859559M,The complete beginner's guide to the Atari portfolio,004.16,005.26,divergência de seção,"The complete beginner's guide to the Atari portfolio
+Atari Portfolio (Computer)
+Atari computer",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL22650316M,Build a web site now,005.27,006.78,divergência de seção,"Build a web site now
+Web site development
+Active server pages
+Microsoft Visual Web Developer
+Microsoft Visual studio
+Microsoft .NET Framework",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL22272491M,Machine intelligence.,006.3,001.53,divergência de seção,"Machine intelligence.
+Congresses
+Artificial intelligence
+Machine learning
+Long Now Manual for Civilization",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL22324634M,Non-book materials in libraries,025.17,025.34,código distinto na mesma seção,"Non-book materials in libraries
+Libraries
+Non-book materials
+Special collections",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL17624593M,"ACM Sigmod International Conference on Management of Data, Austin, Texas, May 31, June 1 and 2, 1978",001.64,005.74,divergência de seção,"ACM Sigmod International Conference on Management of Data, Austin, Texas, May 31, June 1 and 2, 1978
+Congresses
+Database management",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL23117149M,ASUS Eee PC for Dummies,004,004.16,previsão mais específica,"ASUS Eee PC for Dummies
+Computer Technology
+Nonfiction
+Laptop computers
+Microcomputers
+Asus Eee PC (Computers)",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL18807081M,Proceedings,005.13,005.26,código distinto na mesma seção,"Proceedings
+Ada (Computer program language)
+Congresses",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL54005830M,Mining of Massive Datasets,006.31,005.74,divergência de seção,"Mining of Massive Datasets
+Data mining
+Database management
+Commerce",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL2240723M,Secondary sources of research data,025.04,001.42,divergência de seção,"Secondary sources of research data
+Information storage and retrieval systems
+Statistical services
+Statistics",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL53946041M,Routledge Guide to Interviewing,001.43,001.94,código distinto na mesma seção,"Routledge Guide to Interviewing
+Interviewing in sociology",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL24739522M,World Wide Web design guide,004.67,005.72,divergência de seção,"World Wide Web design guide
+World Wide Web
+HTML (Document markup language)
+Ontwerpen",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL6898803M,MCSD FrontPage 98 study guide,005.72,005.44,código distinto na mesma seção,"MCSD FrontPage 98 study guide
+Examinations
+Certification
+Microsoft software
+Study guides
+Microsoft FrontPage
+Electronic data processing personnel",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL22483367M,Cooperative information agents II,006.33,006.3,previsão menos específica,"Cooperative information agents II
+Congresses
+Intelligent agents (Computer software)
+Internet (Computer network)",relação formal automática; interpretação temática e confirmação humana pendentes
+F,/books/OL20318351M,Classification in the CHIN humanities databases,025.06,025.46,código distinto na mesma seção,"Classification in the CHIN humanities databases
+Classification
+Museums
+Art objects
+Humanities
+Information storage and retrieval systems
+Antiques",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL3182682M,Retrieval and organizational strategies in conceptual memory,001.53,006.31,divergência de seção,"Retrieval and organizational strategies in conceptual memory
+Data processing
+Memory
+Recollection (Psychology)
+Organizational learning
+Knowledge management
+Rappel (Psychologie)
+Informatique
+REFERENCE
+Questions & Answers",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL27066331M,Kasparov versus Deep Blue,004,005.1,divergência de seção,"Kasparov versus Deep Blue
+Computer science
+Kasparov, g. k. (garri kimovich), 1963-
+Computer chess",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL27047063M,Introduction to Scientific Programming,005.11,005.1,previsão menos específica,"Introduction to Scientific Programming
+Algorithms
+Computer science
+Software engineering
+Mathematica (computer program)
+Computer programming
+C (computer program language)
+Electronic digital computers, programming, programmed instruction",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL24847670M,Microsoft Sharepoint 2010 business intelligence unleashed,006.78,004.68,divergência de seção,"Microsoft Sharepoint 2010 business intelligence unleashed
+Business intelligence
+Management
+Intranets (Computer networks)
+Business
+Computer programs
+Microsoft SharePoint (Electronic resource)
+Performance
+Business intelligence, computer programs
+Business, computer programs",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL1118225M,Advances in GIS research,025.06,006.6,divergência de seção,"Advances in GIS research
+Congresses
+Geographic information systems",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL19848082M,Micro computers,001.64,004.16,divergência de seção,"Micro computers
+Microcomputers",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL30660327M,Cloud enterprise architecture,004.67,005.8,divergência de seção,"Cloud enterprise architecture
+Business enterprises
+Service-oriented architecture (Computer science)
+Management
+Management information systems
+Computer networks
+Cloud computing
+Information technology
+Computer software, development
+Software architecture
+Computer software
+Development
+Infonuagique
+Architecture logicielle",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL1879986M,QuickBASIC fundamentals and style,005.26,005.13,código distinto na mesma seção,"QuickBASIC fundamentals and style
+BASIC (Computer program language)
+Microsoft QuickBASIC",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL2745110M,Artificial intelligence,006.3,006.33,previsão mais específica,"Artificial intelligence
+Artificial intelligence
+Congresses
+Expert systems (Computer science)",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL27087034M,Semantic Technology,025.04,006.31,divergência de seção,"Semantic Technology
+Data Mining and Knowledge Discovery
+Database management
+Information storage and retrieval systems
+Information organization
+Information retrieval
+Computer science
+Data mining
+Artificial intelligence
+Artificial Intelligence (incl. Robotics)
+Web site development
+World wide web",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL22317500M,Computer modellingfor discrete simulation,001.42,001.43,código distinto na mesma seção,"Computer modellingfor discrete simulation
+Digital computer simulation
+Computer simulation
+Discrete-time systems",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL713160M,MCSE.,004.6,005.44,divergência de seção,"MCSE.
+Examinations
+Study guides
+Computer networks
+Management
+Certification
+Operating systems (Computers)
+Telecommunications engineers
+Computer Communications & Networking
+Software engineering
+Computers
+Microcomputer Networks
+Networking - General
+Computers - Certification
+Internet - General
+Computer Books: Internet General
+General
+Certification Guides - MCSE
+Microsoft windows (computer program)
+Engineering and science, computer science and software development
+Microsoft windows server (computer program)
+Electronic data processing personnel, certification",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL1534982M,Using Novell Netware,005.71,004.68,divergência de seção,"Using Novell Netware
+Local area networks (Computer networks)
+NetWare",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL25282674M,Interactive visualization,006.7,006.6,código distinto na mesma seção,"Interactive visualization
+Inquiry (Theory of knowledge)
+Information visualization
+Data processing
+Web-based user interfaces
+User interfaces (computer systems)
+Knowledge, theory of
+Information science
+Visuelle Kommunikation
+Information
+Visualisierung
+Informationsgrafik
+Mediendesign
+World Wide Web
+Dialogsystem",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL56792092M,Social Media for Communication and Instruction in Academic Libraries,025.52,001.51,divergência de seção,"Social Media for Communication and Instruction in Academic Libraries
+Online social networks
+Academic libraries
+Social media",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL3487297M,Capability architectures and small objects,001.64,005.43,divergência de seção,"Capability architectures and small objects
+Operating systems (Computers)",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL22653250M,31 days before your CCNA exam,004.6,005.44,divergência de seção,"31 days before your CCNA exam
+Computer networks
+Study guides
+Electronic data processing personnel
+Examinations
+Certification
+Electronic data processing personnel, certification",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL25026275M,Beginning Arduino,005.26,004,divergência de seção,"Beginning Arduino
+Engineering Prototypes
+Electronics
+Arduino
+Data processing
+Arduino (Computer language)
+Computer science
+Open source software
+Operating systems (computers)
+Arduino (Programmable controller)",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL22483367M,Cooperative information agents II,006.33,006.3,previsão menos específica,"Cooperative information agents II
+Congresses
+Intelligent agents (Computer software)
+Internet (Computer network)",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL2939823M,"4. Fachtagung ""Dokumenten- und Fakteninformation auf Rechenanlagen"", Leipzig, 18.5.-19.5.1983",025.06,005.72,divergência de seção,"4. Fachtagung ""Dokumenten- und Fakteninformation auf Rechenanlagen"", Leipzig, 18.5.-19.5.1983
+Communication in science
+Communication of technical information
+Congresses
+Documentation
+Science
+Technology",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL2531484M,Macintosh graphics in Modula-2,001.64,006.6,divergência de seção,"Macintosh graphics in Modula-2
+Computer graphics
+Macintosh (Computer)
+Modula-2 (Computer program language)
+Programming",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL24787081M,OSS essentials,004.67,004.6,previsão menos específica,"OSS essentials
+Computer technical support
+Internet service providers
+Management
+Data processing
+Open source software
+Computer networks
+Support services (Management)",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL22737564M,Writing for the Web,005.72,006.7,divergência de seção,"Writing for the Web
+Design
+Technical writing
+Web sites
+Electronic publishing",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL44685M,AOL's picture this,006.6,006.68,previsão mais específica,"AOL's picture this
+Digital techniques
+Photography
+Computer graphics
+Image processing",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL6441027M,Catholic subject headings,025.3,025.49,código distinto na mesma seção,"Catholic subject headings
+Subject headings
+Catholic literature
+Theology
+Catholic libraries
+Vedettes-matière anglaises
+Vedettes-matière
+Théologie
+Littérature catholique
+Catholic authors",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL3558598M,The book of the damned,001.94,001.9,previsão menos específica,"The book of the damned
+Miscellanea
+Meteorology
+Astronomy
+Curiosities and wonders
+Religion
+Life on other planets
+Unidentified flying objects
+Science
+Fiction, science fiction, general
+Meteorology, miscellanea
+Astronomy, miscellanea
+Science, miscellanea
+Brazilian Cooking",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL1849824M,Computer science,004,004.01,previsão mais específica,"Computer science
+Computer science
+Electronic digital computers
+Electronic data processing
+Computación
+General Theory of Computing
+Java & variants
+Computers - General Information
+Computer Books: General
+Datavetenskap
+Literary collections
+Qa76 .b743 2009
+004",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL3698639M,Dreamweaver MX 2004 for dummies,005.72,006.78,divergência de seção,"Dreamweaver MX 2004 for dummies
+Web sites
+Authoring programs
+Design
+Dreamweaver (Computer file)",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL18018311M,Mobile 3D graphics with OpenGL ES and M3G,006.68,006.6,previsão menos específica,"Mobile 3D graphics with OpenGL ES and M3G
+Computer graphics
+Three-dimensional display systems
+OpenGL
+Computer Programming
+Computers
+Computers - Other Applications
+Computer Books: General
+Computer Graphics - Design
+Computer Graphics - Game Programming
+Programming - Software Development
+Computers & Internet
+Computers / Computer Graphics / General
+Computer Graphics - General
+Opengl (computer program)
+Computer drawing
+Smartphones
+Programming
+Mobile computing",relação formal automática; interpretação temática e confirmação humana pendentes
+G,/books/OL818918M,The Mosaic roadmap,025.04,005.71,divergência de seção,"The Mosaic roadmap
+Mosaic (Computer file)
+World Wide Web
+Mosaic (computer program)",relação formal automática; interpretação temática e confirmação humana pendentes

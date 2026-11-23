@@ -1,0 +1,375 @@
+{
+  "final_checkpoint": "output/runs/2026-10-16-final-comparison-subjects/models/bert_attention/model.pt",
+  "final_learned_parameters": {
+    "attention.in_proj_weight": {
+      "shape": [
+        2304,
+        768
+      ],
+      "dtype": "FloatStorage",
+      "sha256": "8ea01f199f45c8580d833c75c5a6ce6e22f4d6829c7741fc87e85c1c390fffb0"
+    },
+    "attention.in_proj_bias": {
+      "shape": [
+        2304
+      ],
+      "dtype": "FloatStorage",
+      "sha256": "1838cddd7b682a95885c931e636c971bae27c588114d60d911b9d4dc90bac4eb"
+    },
+    "attention.out_proj.weight": {
+      "shape": [
+        768,
+        768
+      ],
+      "dtype": "FloatStorage",
+      "sha256": "fbb8383bfcf65f11eb4361f7ea55f4073a7d665a07db86f30e140a47e2175847"
+    },
+    "attention.out_proj.bias": {
+      "shape": [
+        768
+      ],
+      "dtype": "FloatStorage",
+      "sha256": "af7dc23bf789882ada43bc9fc875cc57980f848594f92918ad13ccae99c1c618"
+    },
+    "norm.weight": {
+      "shape": [
+        768
+      ],
+      "dtype": "FloatStorage",
+      "sha256": "9f3e7f17bb7c7e149f54a95f43eadda2ba898e162490aa83c0d2e0464da616c8"
+    },
+    "norm.bias": {
+      "shape": [
+        768
+      ],
+      "dtype": "FloatStorage",
+      "sha256": "6022b6322b32aa475add3b722696a4759259d50d2ddc8379d8689fc5f2cea7d9"
+    },
+    "head.weight": {
+      "shape": [
+        43,
+        1536
+      ],
+      "dtype": "FloatStorage",
+      "sha256": "51be8f8132286904f617c6a5ec1045fe559ffa2fc5748a62b681cf885ca6012a"
+    },
+    "head.bias": {
+      "shape": [
+        43
+      ],
+      "dtype": "FloatStorage",
+      "sha256": "8e2ef7d43f87dc15939f3b1f7210937ad8fa77046b3f5353e2829ac6389f0871"
+    }
+  },
+  "checkpoints": [
+    {
+      "checkpoint": "output/models/bert_attention/model.pt",
+      "labels": 11,
+      "same_learned_block_as_final": false,
+      "learned_parameters": {
+        "attention.in_proj_weight": {
+          "shape": [
+            2304,
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "64abecacd78eb58d9948abecc91fc047ac86d56bdd5630947dfa89df30e7c512"
+        },
+        "attention.in_proj_bias": {
+          "shape": [
+            2304
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "d9c073fd0509f26d475fe96c029c55d14e2fd355794722b81c4018c28259ff4d"
+        },
+        "attention.out_proj.weight": {
+          "shape": [
+            768,
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "a618e99c10c9639e34c0941bbe03adda15f64cde017dc96c61fbcb1f654b2c56"
+        },
+        "attention.out_proj.bias": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "5c02b836241bd017d80238d81a82d8e2abe2708e8656d246bbe649a9bb9634d3"
+        },
+        "norm.weight": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "693e47605e2f77fb5e88eec82495e3ff393557c129a09aee3a148cd3e74c8cb7"
+        },
+        "norm.bias": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "ae55c75cae0396f5ebcaca8415184a87871ddbb449ce92d0db5cec3cb6566ce8"
+        },
+        "head.weight": {
+          "shape": [
+            11,
+            1536
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "07fa6423b87b792f693b058343b6a964fa4b1da3b196979f5bd48a8b094f7f44"
+        },
+        "head.bias": {
+          "shape": [
+            11
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "837ca4a2a50c099105c84349cc72edefe470841f2c71753c49f80cccdfb734f0"
+        }
+      },
+      "neighboring_train_file": "output/prepared/train.csv",
+      "overlap_neighboring_historical_train_with_current": {
+        "val": {
+          "edition_id": 0,
+          "work_id": 0
+        },
+        "test": {
+          "edition_id": 0,
+          "work_id": 0
+        }
+      }
+    },
+    {
+      "checkpoint": "output/runs/2026-09-21-full-cdd/models/bert_attention/model.pt",
+      "labels": 19,
+      "same_learned_block_as_final": false,
+      "learned_parameters": {
+        "attention.in_proj_weight": {
+          "shape": [
+            2304,
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "cf1f094459db74411b51f7167b2abfb7a0ca79303eaf6c2c929a6be8dd51f915"
+        },
+        "attention.in_proj_bias": {
+          "shape": [
+            2304
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "534f9d7d1235868fe1e580af847e8c83c67996103a4ed5668bb5a1e5b2711ef4"
+        },
+        "attention.out_proj.weight": {
+          "shape": [
+            768,
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "736e60b0a244ca6eb83016d0f1e0b1bd37bfdc83b6824ed59767d0bcdf400119"
+        },
+        "attention.out_proj.bias": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "99f6b68f10470ff5823b39cd68fdd991b34f8fbfaaacb827a1d27e976e5456d6"
+        },
+        "norm.weight": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "c08c773c3a3a42ffe50955b472f7b624d2f32d61c61b2c22b0331b7d30148984"
+        },
+        "norm.bias": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "520786ff0831fb83e6667014d4e7cce8a549856e0528ee36a7206b425a36d71a"
+        },
+        "head.weight": {
+          "shape": [
+            19,
+            1536
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "28a2c9ae7c9fd714c013cd19ae672fa378b57275fa186ac486bf8b546f0ac5a7"
+        },
+        "head.bias": {
+          "shape": [
+            19
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "218ca9a22db89d5db6f30284cf466a2b359563e2bbd117d3f579482e33079992"
+        }
+      },
+      "neighboring_train_file": "output/runs/2026-09-21-full-cdd/prepared/train.csv",
+      "overlap_neighboring_historical_train_with_current": {
+        "val": {
+          "edition_id": 0,
+          "work_id": 0
+        },
+        "test": {
+          "edition_id": 0,
+          "work_id": 0
+        }
+      }
+    },
+    {
+      "checkpoint": "output/runs/2026-09-21-openlibrary-five-cdd/models/bert_attention/model.pt",
+      "labels": 43,
+      "same_learned_block_as_final": false,
+      "learned_parameters": {
+        "attention.in_proj_weight": {
+          "shape": [
+            2304,
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "b6e0f0ffa8b855081c4d6f97896f1e23942e972b6eb57815b84397a10b285af6"
+        },
+        "attention.in_proj_bias": {
+          "shape": [
+            2304
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "8c3ea8d4ca73f0effd29a4ee356d7310ea5f89b4ccd55f425556e750da0b8e52"
+        },
+        "attention.out_proj.weight": {
+          "shape": [
+            768,
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "7d3163bc0d3fdd7b843c785a7f8b684fd723fae7feb4302a4d662f112b120a6f"
+        },
+        "attention.out_proj.bias": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "ae9280cdd87d14f374af360e06e26a1a9f76d5d5d9d6dd7d91e71dc5580f5491"
+        },
+        "norm.weight": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "db8d80c79f97a614c3e4c2c6b26bec55be16875dcafca115fe9e1d45bb0783d8"
+        },
+        "norm.bias": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "0b00842665de46d47cc77949c6d9d72d80f9c90699817116d0b20a249c285471"
+        },
+        "head.weight": {
+          "shape": [
+            43,
+            1536
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "1297ab3e46be732c7ae95ba5ce7933fcbaf2b40b2333ceaeb316e3efc952ae68"
+        },
+        "head.bias": {
+          "shape": [
+            43
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "1a64ff1b146591e9e7c98764a7a451af8d2ea663d696e646acaa867849e975e4"
+        }
+      },
+      "neighboring_train_file": "output/runs/2026-09-21-openlibrary-five-cdd/prepared/train.csv",
+      "overlap_neighboring_historical_train_with_current": {
+        "val": {
+          "edition_id": 53,
+          "work_id": 62
+        },
+        "test": {
+          "edition_id": 54,
+          "work_id": 57
+        }
+      }
+    },
+    {
+      "checkpoint": "output/runs/2026-10-16-final-comparison-subjects/models/bert_attention/model.pt",
+      "labels": 43,
+      "same_learned_block_as_final": true,
+      "learned_parameters": {
+        "attention.in_proj_weight": {
+          "shape": [
+            2304,
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "8ea01f199f45c8580d833c75c5a6ce6e22f4d6829c7741fc87e85c1c390fffb0"
+        },
+        "attention.in_proj_bias": {
+          "shape": [
+            2304
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "1838cddd7b682a95885c931e636c971bae27c588114d60d911b9d4dc90bac4eb"
+        },
+        "attention.out_proj.weight": {
+          "shape": [
+            768,
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "fbb8383bfcf65f11eb4361f7ea55f4073a7d665a07db86f30e140a47e2175847"
+        },
+        "attention.out_proj.bias": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "af7dc23bf789882ada43bc9fc875cc57980f848594f92918ad13ccae99c1c618"
+        },
+        "norm.weight": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "9f3e7f17bb7c7e149f54a95f43eadda2ba898e162490aa83c0d2e0464da616c8"
+        },
+        "norm.bias": {
+          "shape": [
+            768
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "6022b6322b32aa475add3b722696a4759259d50d2ddc8379d8689fc5f2cea7d9"
+        },
+        "head.weight": {
+          "shape": [
+            43,
+            1536
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "51be8f8132286904f617c6a5ec1045fe559ffa2fc5748a62b681cf885ca6012a"
+        },
+        "head.bias": {
+          "shape": [
+            43
+          ],
+          "dtype": "FloatStorage",
+          "sha256": "8e2ef7d43f87dc15939f3b1f7210937ad8fa77046b3f5353e2829ac6389f0871"
+        }
+      },
+      "neighboring_train_file": "output/runs/2026-10-16-final-comparison-subjects/prepared/train.csv",
+      "overlap_neighboring_historical_train_with_current": {
+        "val": {
+          "edition_id": 0,
+          "work_id": 0
+        },
+        "test": {
+          "edition_id": 0,
+          "work_id": 0
+        }
+      }
+    }
+  ],
+  "caution": "Neighboring CSVs do not establish checkpoint training membership without a training manifest. Different parameters do not prove a new training split."
+}

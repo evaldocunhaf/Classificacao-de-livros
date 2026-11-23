@@ -1,0 +1,6 @@
+método,n,acurácia_classe,acurácia_divisão,acurácia_seção,acurácia_1_decimal,acurácia_cdd_completo,macro_f1,predições_vazias,predições_fora_gabarito
+LLM L0,808,1.0,0.87,0.4678,0.2191,0.0941,0.0617,0,0
+kNN/TF-IDF,808,1.0,0.9109,0.6646,0.5297,0.4604,0.4514,0,0
+XLM-R + atenção,808,1.0,0.9653,0.7933,0.6869,0.5891,0.5825,0,0
+Ensemble G,808,1.0,0.9579,0.8119,0.703,0.6163,0.6086,0,0
+TF-IDF + regressão logística,808,1.0,0.9691,0.8465,0.7525,0.6547,0.6493,0,0

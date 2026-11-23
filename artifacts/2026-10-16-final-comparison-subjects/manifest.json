@@ -1,0 +1,522 @@
+{
+  "schema_version": 1,
+  "run": "2026-10-16-final-comparison-subjects",
+  "publication_date": "2026-11-22",
+  "source_repository": "https://github.com/evaldocunhaf/tcc-files",
+  "source_code_commit": "564ef1aaaf9ec72f15797459a29f4d3b8d6c160b",
+  "source_commit_scope": "historical code consulted; manuscript working-tree edits are not included",
+  "limitations": [
+    "No neural checkpoint, source dumps, caches or raw LLM replies are distributed.",
+    "Training arguments and historical dependency versions were not preserved.",
+    "Archived neural validation scores used by the ensemble differ from exp_F_val.csv.",
+    "Title-overlap sensitivity is post-hoc and does not establish bibliographic duplication."
+  ],
+  "file_count": 63,
+  "total_bytes": 7265920,
+  "files": [
+    {
+      "path": "README.md",
+      "size_bytes": 7544,
+      "sha256": "ed4b3b1299844089f57ba63fe05ac382447028a4d9e7c02c2a5c2583b7f58d04",
+      "source_path": "tcc-pipeline/tools/final_artifacts_README.md",
+      "source_sha256": "ed4b3b1299844089f57ba63fe05ac382447028a4d9e7c02c2a5c2583b7f58d04",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/auditar_resultados.py",
+      "size_bytes": 12157,
+      "sha256": "927c6f6467548e40b2b1131ea6ea058f2b2ea82770b5fb122cf084af2dfecd46",
+      "source_path": "audit-workspace/auditar_resultados.py",
+      "source_sha256": "927c6f6467548e40b2b1131ea6ea058f2b2ea82770b5fb122cf084af2dfecd46",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/auditar_titulos_distribuicao.py",
+      "size_bytes": 17793,
+      "sha256": "c202e9f0453e65ae3b584dd36eb617cdbcb5a08f3d3815c8fc17fc249d9b4fbe",
+      "source_path": "audit-workspace/auditar_titulos_distribuicao.py",
+      "source_sha256": "c202e9f0453e65ae3b584dd36eb617cdbcb5a08f3d3815c8fc17fc249d9b4fbe",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/auditoria_titulos_distribuicao.json",
+      "size_bytes": 40874,
+      "sha256": "5d9da616e5e09c0b1204453d973fbf146af02e445b392fe8896412688e2ad477",
+      "source_path": "audit-workspace/auditoria_titulos_distribuicao.json",
+      "source_sha256": "27b3cae5b91afe6aa9315fe8b13962ca550aaf9e70e2c36b224ab16b25fb8ecc",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "audit/auditoria_titulos_distribuicao.md",
+      "size_bytes": 7237,
+      "sha256": "9002c7cccccb629d5047879b1f7fd1508fbd37d8f3312ca82d088bddb14c8f7e",
+      "source_path": "audit-workspace/auditoria_titulos_distribuicao.md",
+      "source_sha256": "9002c7cccccb629d5047879b1f7fd1508fbd37d8f3312ca82d088bddb14c8f7e",
+      "transformation": "local source paths replaced by portable paths when present"
+    },
+    {
+      "path": "audit/checkpoints_e_splits.json",
+      "size_bytes": 10966,
+      "sha256": "d204036cb79b7b3f3702f713a8ba806f4d0cae151fc634d958e8fe8244a6913c",
+      "source_path": "audit-workspace/checkpoints_e_splits.json",
+      "source_sha256": "d204036cb79b7b3f3702f713a8ba806f4d0cae151fc634d958e8fe8244a6913c",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "audit/conferir_checkpoints.py",
+      "size_bytes": 4609,
+      "sha256": "82500914b31736342e853db5a92c2de9479feac6ba1b6ea37bdb4cb8a52a43dc",
+      "source_path": "audit-workspace/conferir_checkpoints.py",
+      "source_sha256": "82500914b31736342e853db5a92c2de9479feac6ba1b6ea37bdb4cb8a52a43dc",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/conferir_proveniencia_coleta.py",
+      "size_bytes": 5996,
+      "sha256": "24bc7b2b837e429707698e3a67ee1a24483849259d883020d896539fab24afeb",
+      "source_path": "audit-workspace/conferir_proveniencia_coleta.py",
+      "source_sha256": "24bc7b2b837e429707698e3a67ee1a24483849259d883020d896539fab24afeb",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/distribuicao_43_cdd.csv",
+      "size_bytes": 876,
+      "sha256": "9266f00acc3d4544aadc1cf2707f2ebadf15bb068a141be981812f9d22262572",
+      "source_path": "audit-workspace/distribuicao_43_cdd.csv",
+      "source_sha256": "9266f00acc3d4544aadc1cf2707f2ebadf15bb068a141be981812f9d22262572",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/fluxo-metodologia.png",
+      "size_bytes": 160554,
+      "sha256": "9c24c520c398bfec6a65520b9de705ca9b9a34a336cd582e714b6da931ef0c4a",
+      "source_path": "audit-workspace/fluxo-metodologia.png",
+      "source_sha256": "9c24c520c398bfec6a65520b9de705ca9b9a34a336cd582e714b6da931ef0c4a",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/fluxo-metodologia.svg",
+      "size_bytes": 5003,
+      "sha256": "354747fb76311664466497ab740a45c664b6f45ececd53bb743cf3230f19c68b",
+      "source_path": "audit-workspace/fluxo-metodologia.svg",
+      "source_sha256": "354747fb76311664466497ab740a45c664b6f45ececd53bb743cf3230f19c68b",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/gerar_fluxo_metodologia.py",
+      "size_bytes": 3767,
+      "sha256": "8593f89573fc5b0ba1c1a2397c95229605d3b50a9a616fad6209a0627a1b3c98",
+      "source_path": "audit-workspace/gerar_fluxo_metodologia.py",
+      "source_sha256": "8593f89573fc5b0ba1c1a2397c95229605d3b50a9a616fad6209a0627a1b3c98",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/historical_results/amostra_90_erros.csv",
+      "size_bytes": 30744,
+      "sha256": "d338656f4d927339a4e928c6d402bfc7e3eb0bf8636f3bd87074cf35f9600f48",
+      "source_path": "audit-workspace/resultados-historicos/amostra_90_erros.csv",
+      "source_sha256": "d338656f4d927339a4e928c6d402bfc7e3eb0bf8636f3bd87074cf35f9600f48",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/historical_results/auditoria_resultados.json",
+      "size_bytes": 14935,
+      "sha256": "745364e9516affd957c565b1139c2560cf5132a3737b5d8f4a7a68f14ca845a8",
+      "source_path": "audit-workspace/resultados-historicos/auditoria_resultados.json",
+      "source_sha256": "745364e9516affd957c565b1139c2560cf5132a3737b5d8f4a7a68f14ca845a8",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "audit/historical_results/confusao_secoes_F.csv",
+      "size_bytes": 122,
+      "sha256": "e6ae42dfa6b2dd8d7471b8009b71cd64124e0321d53e08b2cd122f4a655bebe2",
+      "source_path": "audit-workspace/resultados-historicos/confusao_secoes_F.csv",
+      "source_sha256": "e6ae42dfa6b2dd8d7471b8009b71cd64124e0321d53e08b2cd122f4a655bebe2",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/historical_results/confusao_secoes_G.csv",
+      "size_bytes": 120,
+      "sha256": "5adc571629cbc8ebe139a9f0883f9907e1f0a7c4a30f8d52c8018fbad2d62b8c",
+      "source_path": "audit-workspace/resultados-historicos/confusao_secoes_G.csv",
+      "source_sha256": "5adc571629cbc8ebe139a9f0883f9907e1f0a7c4a30f8d52c8018fbad2d62b8c",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/historical_results/confusao_secoes_RL.csv",
+      "size_bytes": 119,
+      "sha256": "ac1c370a9086e8d64e54aee4584249354ac52adf1a06e21ea63f20d3d99c6afa",
+      "source_path": "audit-workspace/resultados-historicos/confusao_secoes_RL.csv",
+      "source_sha256": "ac1c370a9086e8d64e54aee4584249354ac52adf1a06e21ea63f20d3d99c6afa",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/historical_results/mcnemar_10_pares.csv",
+      "size_bytes": 735,
+      "sha256": "ab1b9fb9be2600358e3be94f51ee093854c52d42bac666a8d252a1ac430af2ae",
+      "source_path": "audit-workspace/resultados-historicos/mcnemar_10_pares.csv",
+      "source_sha256": "ab1b9fb9be2600358e3be94f51ee093854c52d42bac666a8d252a1ac430af2ae",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/historical_results/metricas_validacao_teste_bootstrap.csv",
+      "size_bytes": 921,
+      "sha256": "baacd37192af0c1c440105a86e98b0efe954cbe08e0b8a1abed87e29249b2237",
+      "source_path": "audit-workspace/resultados-historicos/metricas_validacao_teste_bootstrap.csv",
+      "source_sha256": "baacd37192af0c1c440105a86e98b0efe954cbe08e0b8a1abed87e29249b2237",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/historical_results/profundidade_e_niveis.csv",
+      "size_bytes": 333,
+      "sha256": "87e8a897d2728c0857a037ace6cffda430bc20babd436b966d7e3b7515c47d55",
+      "source_path": "audit-workspace/resultados-historicos/profundidade_e_niveis.csv",
+      "source_sha256": "87e8a897d2728c0857a037ace6cffda430bc20babd436b966d7e3b7515c47d55",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/historical_results/stuart_maxwell_10_pares.csv",
+      "size_bytes": 726,
+      "sha256": "8ab798033c730a7b750617a714614fd0a6c8bff92b74a9fa86c7d3a8fab347aa",
+      "source_path": "audit-workspace/resultados-historicos/stuart_maxwell_10_pares.csv",
+      "source_sha256": "8ab798033c730a7b750617a714614fd0a6c8bff92b74a9fa86c7d3a8fab347aa",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/historical_results/textos_identicos_referencias_distintas.csv",
+      "size_bytes": 6663,
+      "sha256": "03fb2107a21be46b4bbfacb495bfe3df56c622d7b05719ceb2f259d6d619c416",
+      "source_path": "audit-workspace/resultados-historicos/textos_identicos_referencias_distintas.csv",
+      "source_sha256": "03fb2107a21be46b4bbfacb495bfe3df56c622d7b05719ceb2f259d6d619c416",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/metricas_sensibilidade_titulos.csv",
+      "size_bytes": 4222,
+      "sha256": "f4d3cb410b659ae15255107a3dbf41532b142851ca8ed4ce56317579f726005a",
+      "source_path": "audit-workspace/metricas_sensibilidade_titulos.csv",
+      "source_sha256": "f4d3cb410b659ae15255107a3dbf41532b142851ca8ed4ce56317579f726005a",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/proveniencia_coleta.json",
+      "size_bytes": 6073,
+      "sha256": "664e7b6a8fbe79e41b495e12d7f16b870e361b9110a84ddecf9743bb1398a5b5",
+      "source_path": "audit-workspace/proveniencia_coleta.json",
+      "source_sha256": "664e7b6a8fbe79e41b495e12d7f16b870e361b9110a84ddecf9743bb1398a5b5",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "audit/proveniencia_coleta.md",
+      "size_bytes": 7863,
+      "sha256": "38923a13e66d1d224c972e60afa35b544e33bc733f9e65c12954b674377bb73e",
+      "source_path": "audit-workspace/proveniencia_coleta.md",
+      "source_sha256": "38923a13e66d1d224c972e60afa35b544e33bc733f9e65c12954b674377bb73e",
+      "transformation": "local source paths replaced by portable paths when present"
+    },
+    {
+      "path": "audit/titulo_treino_mais_proximo_por_teste.csv",
+      "size_bytes": 195883,
+      "sha256": "8fbc98ced57272c8cea152b4eec1594d26dc348d18f720b4dc2ed92c9923e0c4",
+      "source_path": "audit-workspace/titulo_treino_mais_proximo_por_teste.csv",
+      "source_sha256": "8fbc98ced57272c8cea152b4eec1594d26dc348d18f720b4dc2ed92c9923e0c4",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "audit/titulos_coincidentes_entre_splits.csv",
+      "size_bytes": 21264,
+      "sha256": "f6d0e95129ac9872b8da2ee357ed247343530439bf4113030e58b433e613b469",
+      "source_path": "audit-workspace/titulos_coincidentes_entre_splits.csv",
+      "source_sha256": "f6d0e95129ac9872b8da2ee357ed247343530439bf4113030e58b433e613b469",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "prepared/cohort_before_subject_filter.csv",
+      "size_bytes": 2344923,
+      "sha256": "6e2b2d033b481ad5d58bab807438e19766738aded468ef9c3e6539b765665889",
+      "source_path": "tcc-pipeline/output/runs/2026-10-15-openlibrary-subjects-43cdd/prepared/dataset_limpo.csv",
+      "source_sha256": "6e2b2d033b481ad5d58bab807438e19766738aded468ef9c3e6539b765665889",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "prepared/recorte_descritivo.json",
+      "size_bytes": 209,
+      "sha256": "9e6ed6f5f645cd0b9a6fc1decafeda13295de79f2d1bfa7db3ed2b57c842c09f",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/prepared/recorte_descritivo.json",
+      "source_sha256": "f330117bab4fb3b2537105e6c67f9a6081d8e17ef6dc0b4f17877a21bc543b04",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "prepared/test.csv",
+      "size_bytes": 461787,
+      "sha256": "bbeb3a057e99279e7dfe6f56ace7454fdc883d3ac2a2186f84428f17a9eea731",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/prepared/test.csv",
+      "source_sha256": "bbeb3a057e99279e7dfe6f56ace7454fdc883d3ac2a2186f84428f17a9eea731",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "prepared/train.csv",
+      "size_bytes": 1369989,
+      "sha256": "934d45689cd98f68dc91dd52d83108dc3ce7bcd46ecdf633058c3c90386cd479",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/prepared/train.csv",
+      "source_sha256": "934d45689cd98f68dc91dd52d83108dc3ce7bcd46ecdf633058c3c90386cd479",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "prepared/val.csv",
+      "size_bytes": 463641,
+      "sha256": "c4e5584cfd6d1040c9a2c7380c9067ad926569555106ad20e8f2b90ab9b56374",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/prepared/val.csv",
+      "source_sha256": "c4e5584cfd6d1040c9a2c7380c9067ad926569555106ad20e8f2b90ab9b56374",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/avaliacao_A_test_subjects.json",
+      "size_bytes": 11422,
+      "sha256": "ee9f2b17b99a40d9c0aeca96ae4479aabfe2f075ba264b2d5d2bec8a2796f339",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/avaliacao_A_test_subjects.json",
+      "source_sha256": "15f8b2ee23e77cd71ae247e8d3e94d9feff73380918767701ddf7cc498ea8636",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/avaliacao_E_test.json",
+      "size_bytes": 10070,
+      "sha256": "c9c0d3cb7247ae3b8d276462d1626a579a1c2d4db9d33885e9911192944a2772",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/avaliacao_E_test.json",
+      "source_sha256": "f575ac883c87fafb78d383e45fae85199ecd26cd3fd557a6d260f5685c493a55",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/avaliacao_E_val.json",
+      "size_bytes": 10054,
+      "sha256": "c43772baa03924b9eb3b8488c6b6d933eec24380b4c9bdf9ff3c80b4b873d8c8",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/avaliacao_E_val.json",
+      "source_sha256": "cfb6fcfcb09a81cbe3ddb9ada16738229073a9e26bfee873e5026b9456ed2eb8",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/avaliacao_F_test.json",
+      "size_bytes": 10108,
+      "sha256": "038466567485124bdacdb6e8f1f9ad22fb504d1814d94f19b01025049e5ea469",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/avaliacao_F_test.json",
+      "source_sha256": "f4fc5287f042ae38822d15dc72f8532f5f6f82131f942215b24135a8d43ceb09",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/avaliacao_F_val.json",
+      "size_bytes": 10094,
+      "sha256": "678a5ec04c00a6fa91f164e201ad4d3ac642807513dd78592b0af54a8ad5b10d",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/avaliacao_F_val.json",
+      "source_sha256": "d88a1bf2f3a5e9885a87090811777b0a742f7bb8b113f2c905fbdbb04274dc3c",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/avaliacao_G_test.json",
+      "size_bytes": 10111,
+      "sha256": "570b4a1211ba5c887ea8f924bfac6e77fd282efbb2be3c095a1dc15dac6a1b0e",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/avaliacao_G_test.json",
+      "source_sha256": "affddf3e7807ad2060fc808eedbdffd1fa339132dd98a02b64101fd4e445e64c",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/avaliacao_G_val.json",
+      "size_bytes": 10085,
+      "sha256": "623408b2904bb874c684aef3b0f8f6e3204ab1c3bf2808dbc63b95e621be0350",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/avaliacao_G_val.json",
+      "source_sha256": "e722180cdc06f0baebd22f9eebae90398377e71c9b6e593e90648c436472e303",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/avaliacao_logreg_test.json",
+      "size_bytes": 10098,
+      "sha256": "db337182e65fcb77bab2c6a86b4016dacf6f1106c7434ef9544f3cf621f7b325",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/avaliacao_logreg_test.json",
+      "source_sha256": "86f535ea363ad309132d3db77f86edbf3b3b7b54f3969a2d91b455b26fa0139a",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/avaliacao_logreg_val.json",
+      "size_bytes": 10110,
+      "sha256": "3e7337232d726d440582425d51399cc98a7125ebfcfff9c85c19d46aaa2a6047",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/avaliacao_logreg_val.json",
+      "source_sha256": "baf12df222e2c7e57b940d897318e0488ffbab5ece9a1b9c4a5798acff843468",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/complementary_llm/avaliacao_A_val_subjects.json",
+      "size_bytes": 12166,
+      "sha256": "98c74aefbee2bf7d7eaa8c0d0473b2c3fdc4a4c69f625bc7644d1616f7f9434f",
+      "source_path": "tcc-pipeline/output/runs/2026-10-15-openlibrary-subjects-43cdd/results/avaliacao_A_val_subjects.json",
+      "source_sha256": "aba67a8f137eecf6cace982c00c9e9a03bf6facc508a1d216836cc99b06036f2",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/complementary_llm/avaliacao_B_val_subjects.json",
+      "size_bytes": 11393,
+      "sha256": "38d6a97a643c40e449711009fb737bcbe726f3ca771fc636b4b0b951bfc83d54",
+      "source_path": "tcc-pipeline/output/runs/2026-10-15-openlibrary-subjects-43cdd/results/avaliacao_B_val_subjects.json",
+      "source_sha256": "81ce8c201adbe9a291f892deaf24a16b14015942825853c5185c589c3ac1e4e3",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/complementary_llm/comparacao_l0_l1.json",
+      "size_bytes": 369,
+      "sha256": "f36d6be9a702813c65eddece962862f13d4c393d66a57bcc1ee675eec6014257",
+      "source_path": "tcc-pipeline/output/runs/2026-10-15-openlibrary-subjects-43cdd/results/comparacao_l0_l1/comparacao_l0_l1.json",
+      "source_sha256": "4b1ccf4a377ace13ad84dc4d3bcb10cfa77b9e7662243a567902d3b6bf07e742",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/complementary_llm/exp_A_val_subjects.csv",
+      "size_bytes": 110062,
+      "sha256": "b9279ac2719c5445e5bf81427dcf5b3023a01cb4ba1aa4817a322af4bc53aa09",
+      "source_path": "tcc-pipeline/output/runs/2026-10-15-openlibrary-subjects-43cdd/results/exp_A_val_subjects.csv",
+      "source_sha256": "f805df5de39bfc64826c0adbb1cc4b86dc5702a09a3431b2cfea6fa12a7071f5",
+      "transformation": "CSV reserialized; excluded columns: keywords, razao, resposta_bruta, tempo_s"
+    },
+    {
+      "path": "results/complementary_llm/exp_B_val_subjects.csv",
+      "size_bytes": 110081,
+      "sha256": "87185ba1c8600d6a76ffe201b4b2fef6971093420ee49943abdb3c4070362d9d",
+      "source_path": "tcc-pipeline/output/runs/2026-10-15-openlibrary-subjects-43cdd/results/exp_B_val_subjects.csv",
+      "source_sha256": "f7874336223c53bf9f752b13009cf86b403e1959e6be00a84632daaa6e66b0b9",
+      "transformation": "CSV reserialized; excluded columns: keywords, razao, resposta_bruta, tempo_s"
+    },
+    {
+      "path": "results/escores_G_test.npz",
+      "size_bytes": 171873,
+      "sha256": "6bab5a5dd2763b3a0054cbb5e6938fe4b391ed79c44f86a97164ad19b54dd4ab",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/escores_G_test.npz",
+      "source_sha256": "6bab5a5dd2763b3a0054cbb5e6938fe4b391ed79c44f86a97164ad19b54dd4ab",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/escores_G_val.npz",
+      "size_bytes": 167408,
+      "sha256": "18cff1724dd819081a3427c5dc8f153723ae6a331b7c88ad9fd495d62d03eb45",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/escores_G_val.npz",
+      "source_sha256": "18cff1724dd819081a3427c5dc8f153723ae6a331b7c88ad9fd495d62d03eb45",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/exp_A_test_subjects.csv",
+      "size_bytes": 109731,
+      "sha256": "498f83ab31a9da2fdc3ecf79c1da88be3864a92149755a94e509b1c2474f1f4a",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/exp_A_test_subjects.csv",
+      "source_sha256": "27c1136e6256d15757fb5c0f5d4eeef1d9a2473b0c3ccd923d390434294dc80b",
+      "transformation": "CSV reserialized; excluded columns: keywords, razao, resposta_bruta, tempo_s"
+    },
+    {
+      "path": "results/exp_E_test.csv",
+      "size_bytes": 234592,
+      "sha256": "11bca58287ac603be0a4ff34886eb5b31aa87ff08884e1505890c148261126fc",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/exp_E_test.csv",
+      "source_sha256": "11bca58287ac603be0a4ff34886eb5b31aa87ff08884e1505890c148261126fc",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/exp_E_val.csv",
+      "size_bytes": 234236,
+      "sha256": "f0484c14554c61f50a2472586c09cf1546a80bb8f0b77d3c045f48334b4ee6e0",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/exp_E_val.csv",
+      "source_sha256": "f0484c14554c61f50a2472586c09cf1546a80bb8f0b77d3c045f48334b4ee6e0",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/exp_F_test.csv",
+      "size_bytes": 125752,
+      "sha256": "a016bdb9ad7300dea6c1989d0bbe2b22306549729b288321eccc53a711e70f20",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/exp_F_test.csv",
+      "source_sha256": "a016bdb9ad7300dea6c1989d0bbe2b22306549729b288321eccc53a711e70f20",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/exp_F_val.csv",
+      "size_bytes": 125979,
+      "sha256": "03f4efc18428645d70f7c2223520298e57d9ba45303dd216433295663f9312fe",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/exp_F_val.csv",
+      "source_sha256": "03f4efc18428645d70f7c2223520298e57d9ba45303dd216433295663f9312fe",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/exp_G_test.csv",
+      "size_bytes": 157517,
+      "sha256": "639a9fd060fe00a98a734e533ead2f2b3e54a81322d90ad1df3101ca82d44193",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/exp_G_test.csv",
+      "source_sha256": "639a9fd060fe00a98a734e533ead2f2b3e54a81322d90ad1df3101ca82d44193",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/exp_G_val.csv",
+      "size_bytes": 157272,
+      "sha256": "83ad7f80260f0d879e6b93c5f71e381de54f81d8fdb727282b7bb52540cc8422",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/exp_G_val.csv",
+      "source_sha256": "83ad7f80260f0d879e6b93c5f71e381de54f81d8fdb727282b7bb52540cc8422",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/exp_logreg_test.csv",
+      "size_bytes": 116933,
+      "sha256": "19da0bf6e4954b3541a0e4d2de1c6817dc24668c6b3f40bfdadd49b1a06fab6e",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/exp_logreg_test.csv",
+      "source_sha256": "19da0bf6e4954b3541a0e4d2de1c6817dc24668c6b3f40bfdadd49b1a06fab6e",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/exp_logreg_val.csv",
+      "size_bytes": 117216,
+      "sha256": "bcdf8e6ce4bd0555eb3625690b71bfe50873e164b81560fc6ee96631e06906c1",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/exp_logreg_val.csv",
+      "source_sha256": "bcdf8e6ce4bd0555eb3625690b71bfe50873e164b81560fc6ee96631e06906c1",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/selecao_E_val.csv",
+      "size_bytes": 788,
+      "sha256": "845c6122656966ab7ab9984374976592fefb1d2a568796beb5449776e98f6b37",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/selecao_E_val.csv",
+      "source_sha256": "845c6122656966ab7ab9984374976592fefb1d2a568796beb5449776e98f6b37",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/selecao_G_val.csv",
+      "size_bytes": 824,
+      "sha256": "46fc25d6eb3a872dbfcb304b7f308b88ae58b608d0ab30ffa8dd43dbf6abdad7",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/selecao_G_val.csv",
+      "source_sha256": "46fc25d6eb3a872dbfcb304b7f308b88ae58b608d0ab30ffa8dd43dbf6abdad7",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/selecao_final.json",
+      "size_bytes": 257,
+      "sha256": "7504d2363fe5b848183fd963b0d396767c1aaafea4e1072dc6b67d63a45e2421",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/selecao_final.json",
+      "source_sha256": "88d65da2413ce14b52d933d113faaa2b5c34dee3875e14b3003fd91f84e87c52",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    },
+    {
+      "path": "results/selecao_logreg_val.csv",
+      "size_bytes": 118,
+      "sha256": "ce79dedee3b9d11a319541d26b7cdca3266703ff09151f025d9877e30c41ce90",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/selecao_logreg_val.csv",
+      "source_sha256": "ce79dedee3b9d11a319541d26b7cdca3266703ff09151f025d9877e30c41ce90",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/tabela_resultados_teste.csv",
+      "size_bytes": 471,
+      "sha256": "8afb0c11f1aa13caee525895a2f5dc156922a12db05488e7042aca79867b8b35",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/tabela_resultados_teste.csv",
+      "source_sha256": "8afb0c11f1aa13caee525895a2f5dc156922a12db05488e7042aca79867b8b35",
+      "transformation": "unchanged copy"
+    },
+    {
+      "path": "results/validacao_pareamento_teste.json",
+      "size_bytes": 82,
+      "sha256": "4cdaf0abdbb502496ed54dfc80dc13f10400854456e23c74016b55fb04b1fee2",
+      "source_path": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects/results/validacao_pareamento_teste.json",
+      "source_sha256": "8b4d68e1abe3c22ee94a180ff75c648c8449439c29516680b8652bbb3ae6aeb6",
+      "transformation": "JSON reserialized; absolute local paths replaced by portable paths; xlmr_checkpoint made relative"
+    }
+  ]
+}

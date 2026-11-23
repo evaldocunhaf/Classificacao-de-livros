@@ -1,0 +1,18 @@
+{
+  "n": 803,
+  "acertos_l0": 73,
+  "acertos_l1": 69,
+  "mudancas_predicao": 216,
+  "pares": {
+    "ambos_acertam": 55,
+    "somente_l0_acerta": 18,
+    "somente_l1_acerta": 14,
+    "ambos_erram": 716
+  },
+  "mcnemar_exato_bilateral_p": 0.5966148958541453,
+  "keywords": {
+    "linhas_sem_keywords": 28,
+    "taxa_sem_keywords": 0.0349,
+    "termos_unicos": 2570
+  }
+}

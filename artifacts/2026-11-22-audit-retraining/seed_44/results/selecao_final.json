@@ -1,0 +1,16 @@
+{
+  "selection_split": "val",
+  "n_validation": 803,
+  "knn": {
+    "feature": "char",
+    "k": 9
+  },
+  "logreg": {
+    "c": 10.0,
+    "text_column": "texto"
+  },
+  "ensemble_g": {
+    "alpha_xlmr": 0.55
+  },
+  "xlmr_checkpoint": "models/bert_attention"
+}

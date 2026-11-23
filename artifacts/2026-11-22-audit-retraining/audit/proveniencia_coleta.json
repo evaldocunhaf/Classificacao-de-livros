@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "audit_date": "2026-11-22",
+  "mode": "read_only_no_training_no_inference_no_download",
+  "check_script": "conferir_proveniencia_coleta.py",
+  "check_environment": {
+    "python": "3.14",
+    "pandas": "3.0.6",
+    "scikit_learn": "1.9.1",
+    "historical_execution_environment": false,
+    "all_script_assertions_passed": true
+  },
+  "project_root_definition": "raiz do repositório tcc-files, correspondente à pasta TCC",
+  "source_documentation_url": "https://openlibrary.org/developers/dumps",
+  "dumps": [
+    {
+      "path": "tcc-pipeline/data/ol_dump_editions_2026-08-31.txt",
+      "nominal_snapshot_date": "2026-08-31",
+      "local_size_bytes": 61943618646,
+      "download_date": null,
+      "original_download_url": null,
+      "original_checksum": null,
+      "hash_computed_for_this_audit": false
+    },
+    {
+      "path": "tcc-pipeline/data/ol_dump_works_2026-09-30.txt.gz",
+      "nominal_snapshot_date": "2026-09-30",
+      "local_size_bytes": 4073320823,
+      "download_date": null,
+      "original_download_url": null,
+      "original_checksum": null,
+      "hash_computed_for_this_audit": false
+    }
+  ],
+  "processing_dates_from_research_notes": {
+    "initial_editions_inspection_and_extraction": "2026-09-21",
+    "single_label_regeneration": "2026-10-15",
+    "works_subject_enrichment": "2026-10-15",
+    "final_run_identifier": "2026-10-16-final-comparison-subjects"
+  },
+  "section_choice": {
+    "prefixes": [
+      "001",
+      "004",
+      "005",
+      "006",
+      "025"
+    ],
+    "documented_rationale": "faixas já presentes no dataset de referência",
+    "evidence_path": "Planejamento/Brainstorm-Dados.md",
+    "evidence_section": "Sondagem de cinco faixas CDD (2026-09-21)",
+    "representative_of_full_ddc": false
+  },
+  "historical_extraction": {
+    "path": "tcc-pipeline/output/datasets/openlibrary_cdd_001_004_005_006_025_5digits.csv",
+    "rows_edition_code": 102323,
+    "unique_editions": 101787,
+    "distinct_codes": 299,
+    "eligibility_minimum_count": 500,
+    "eligible_codes": 43,
+    "actual_minimum_count_in_eligible_codes": 522,
+    "eligible_codes_equal_final_codes": true,
+    "codes_per_section": {
+      "001": 7,
+      "004": 7,
+      "005": 13,
+      "006": 8,
+      "025": 8
+    }
+  },
+  "corrected_pool": {
+    "path": "tcc-pipeline/output/datasets/openlibrary_cdd_001_004_005_006_025_5digits_one_cdd.csv",
+    "rows": 16814,
+    "unique_editions": 16814,
+    "distinct_codes": 298,
+    "cap_per_code": 100,
+    "selection_rule": "primeira CDD válida nas faixas solicitadas; primeiros 100 registros por código na ordem de leitura",
+    "reconstructed_from_historical_csv": {
+      "row_count_equal": true,
+      "edition_code_pairs_equal": true,
+      "entire_order_equal": true
+    },
+    "final_4300_equal_all_pool_rows_in_historical_43_code_list": true
+  },
+  "preparation_asserts": {
+    "random_state": 42,
+    "max_per_class": 100,
+    "one_cdd_dataset_full_edition_order_reproduced": true,
+    "subjects_dataset_full_edition_order_reproduced": true
+  },
+  "split_asserts": {
+    "group_column": "work_id",
+    "stratification_label": "cdd",
+    "algorithm": "StratifiedGroupKFold",
+    "first_n_splits": 5,
+    "second_n_splits": 4,
+    "shuffle": true,
+    "random_state": 42,
+    "missing_work_id_handling": "grupo individual por linha",
+    "pre_filter_counts": {
+      "train": 2580,
+      "val": 860,
+      "test": 860
+    },
+    "pre_filter_examples_per_code": {
+      "train": 60,
+      "val": 20,
+      "test": 20
+    },
+    "membership_reproduced_exactly": {
+      "2026-10-15-openlibrary-one-cdd": {
+        "train": true,
+        "val": true,
+        "test": true
+      },
+      "2026-10-15-openlibrary-subjects-43cdd": {
+        "train": true,
+        "val": true,
+        "test": true
+      }
+    },
+    "one_cdd_and_subjects_memberships_identical": false,
+    "one_cdd_subjects_same_split_intersection": {
+      "train": 1628,
+      "val": 179,
+      "test": 299
+    }
+  },
+  "final_filter": {
+    "source_run": "tcc-pipeline/output/runs/2026-10-15-openlibrary-subjects-43cdd",
+    "target_run": "tcc-pipeline/output/runs/2026-10-16-final-comparison-subjects",
+    "rule": "resumo/subjects não vazio após strip, excetuando nan/none/null",
+    "field_content": "subjects recuperados do dump de obras; não resumos narrativos",
+    "counts": {
+      "train": 2423,
+      "val": 803,
+      "test": 808,
+      "total": 4034
+    },
+    "excluded": {
+      "train": 157,
+      "val": 57,
+      "test": 52,
+      "total": 266
+    },
+    "total_before": 4300,
+    "coverage_fraction": 0.9381395348837209,
+    "all_43_codes_remain_in_each_split": true,
+    "final_membership_is_subset_of_corresponding_subjects_split": true,
+    "final_membership_is_subset_of_corresponding_title_only_split": false
+  },
+  "normalization": {
+    "segmentation_slashes_removed": true,
+    "maximum_digits": 5,
+    "decimal_zero_padding": false,
+    "multiple_ddc_handling": "primeira notação válida que pertence às faixas solicitadas",
+    "all_original_notations_preserved_in": "cdd_raw",
+    "title_rule": "strip e corte na primeira barra /",
+    "multiple_work_ids_handling": "primeiro identificador disponível"
+  },
+  "limitations": [
+    "Datas nominais de snapshots não demonstram datas de download.",
+    "Não foi recuperado manifesto com URL exata de download ou checksum original dos dumps.",
+    "Não foram calculados hashes dos dumps gigantes.",
+    "As cinco seções não são amostragem representativa da CDD inteira.",
+    "O limite de 100 registros por código na extração depende da ordem de leitura; o embaralhamento posterior não torna essa seleção aleatória na população.",
+    "O limiar histórico de 500 seleciona a lista de códigos; não pode ser reaplicado ao pool de outubro já limitado a 100.",
+    "O repreparo após enriquecimento alterou os membros dos splits, embora suas contagens tenham permanecido iguais.",
+    "Subjects são metadados temáticos e não equivalem ao conteúdo integral ou a resumos narrativos das obras."
+  ]
+}

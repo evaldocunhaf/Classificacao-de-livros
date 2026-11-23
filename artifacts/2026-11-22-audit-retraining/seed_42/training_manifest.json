@@ -1,0 +1,82 @@
+{
+  "audit_date": "2026-11-22",
+  "started_at_utc": "2026-11-23T02:25:08.507876+00:00",
+  "source_code_commit": "564ef1aaaf9ec72f15797459a29f4d3b8d6c160b",
+  "purpose": "Retreinamento de auditoria em partições atuais; não é novo teste independente.",
+  "arguments": {
+    "seed": 42,
+    "epochs": 60,
+    "patience": 8,
+    "lr": 0.0005,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "use_weights": true,
+    "unfreeze_last": 0,
+    "evaluate_test": false
+  },
+  "versions": {
+    "torch": "2.14.0",
+    "transformers": "5.16.1",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.0",
+    "safetensors": "0.8.0"
+  },
+  "device": "mps",
+  "max_tokens": 128,
+  "split_counts": {
+    "train": 2423,
+    "val": 803,
+    "test": 808
+  },
+  "split_sha256": {
+    "train": "934d45689cd98f68dc91dd52d83108dc3ce7bcd46ecdf633058c3c90386cd479",
+    "val": "c4e5584cfd6d1040c9a2c7380c9067ad926569555106ad20e8f2b90ab9b56374",
+    "test": "bbeb3a057e99279e7dfe6f56ace7454fdc883d3ac2a2186f84428f17a9eea731"
+  },
+  "source_code_sha256": {
+    "src/bert_attention/model.py": "1f2c4dae577d2d4fd0789cd395dbf24f639f2d96d594879f7bfc7d8ac6717005",
+    "src/bert_attention/train.py": "19d2280f1f06a445ca322ca3159b988f73b09b92646a5ec6c57dd1787708b92f",
+    "src/evaluate/select_final_models.py": "0e82f38939616918679835cbf37293ac886a7703a1eda5e166c082b2a26481b3"
+  },
+  "checkpoint_selection": "Maior acurácia de validação; primeiro checkpoint nos empates; nenhuma leitura do teste durante treino/seleção.",
+  "status": "complete",
+  "training_seconds": 579.453,
+  "selection": {
+    "selection_split": "val",
+    "n_validation": 803,
+    "knn": {
+      "feature": "char",
+      "k": 9
+    },
+    "logreg": {
+      "c": 10.0,
+      "text_column": "texto"
+    },
+    "ensemble_g": {
+      "alpha_xlmr": 0.5
+    },
+    "xlmr_checkpoint": "models/bert_attention"
+  },
+  "finished_at_utc": "2026-11-23T04:06:25.911079+00:00",
+  "total_seconds": 610.016,
+  "checkpoint_sha256": "225fd9a4a979da37ad6121289513ea2110d51d4cd47c8e931c1f6ada4715f603",
+  "test_summary": {
+    "E": {
+      "accuracy": 0.4604,
+      "macro_f1": 0.4514
+    },
+    "logreg": {
+      "accuracy": 0.6547,
+      "macro_f1": 0.6493
+    },
+    "F": {
+      "accuracy": 0.5817,
+      "macro_f1": 0.5773
+    },
+    "G": {
+      "accuracy": 0.599,
+      "macro_f1": 0.5931
+    }
+  }
+}

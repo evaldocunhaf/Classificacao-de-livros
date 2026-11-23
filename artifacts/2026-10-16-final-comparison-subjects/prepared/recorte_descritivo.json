@@ -1,0 +1,9 @@
+{
+  "source_prepared": "tcc-pipeline/output/runs/2026-10-15-openlibrary-subjects-43cdd/prepared",
+  "rule": "resumo/subjects não vazio",
+  "counts": {
+    "train": 2423,
+    "val": 803,
+    "test": 808
+  }
+}

@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+pyyaml
+yake
+keybert
+sentence-transformers
+requests
+numpy
+scipy
+torch
+transformers
+sentencepiece
+safetensors
