@@ -7,7 +7,7 @@ usa as partições atuais e três sementes (42, 43 e 44), com argumentos, versõ
 logs, predições, escores e manifesto SHA-256. A execução detalhada de semente 42
 obteve 65,47% de acurácia na regressão logística, 58,17% no XLM-R-AA e 59,90%
 no ensemble. O teste já havia sido examinado; essa rodada não é um teste externo
-independente. O repositório permanece privado.
+independente. Os artefatos estão disponíveis no repositório público do projeto.
 
 O pacote permite recalcular métricas, intervalos, testes pareados e análises de
 títulos sem baixar modelos ou dumps. O README do pacote contém os comandos de
@@ -20,8 +20,8 @@ neurais históricos na redação atual do artigo.
 Os [artefatos da rodada histórica de outubro](artifacts/2026-10-16-final-comparison-subjects/README.md)
 incluem os conjuntos reduzidos, predições de validação e teste, métricas, seleções,
 escores do ensemble, distribuição por CDD, auditoria de títulos e manifesto SHA-256.
-O pacote pode ser conferido sem treinar modelos ou baixar dumps. Seu preparo não
-altera a visibilidade do repositório, cujo acesso era restrito na conferência.
+O pacote pode ser conferido sem treinar modelos ou baixar dumps. A referência ao
+repositório original preserva a proveniência histórica dos artefatos.
 
 Há uma limitação preservada: os escores neurais de validação usados pelo ensemble
 produzem 315/803 acertos, enquanto o CSV neural isolado registra 480/803. O teste

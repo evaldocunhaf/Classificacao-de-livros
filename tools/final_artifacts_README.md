@@ -2,7 +2,7 @@
 
 Este pacote preserva dados bibliográficos, predições, métricas e tabelas de seleção da rodada `2026-10-16-final-comparison-subjects`. Permite conferir os resultados sem instalar PyTorch, baixar os dumps da Open Library ou treinar modelos. O código consultado está no repositório `https://github.com/evaldocunhaf/tcc-files`, commit-base `564ef1aaaf9ec72f15797459a29f4d3b8d6c160b`.
 
-O repositório permanece privado por decisão do proprietário. A banca precisa receber autorização de acesso; a publicação desta branch não altera a visibilidade nem concede convites automaticamente. O permalink do commit deve ser informado no artigo.
+Este pacote histórico está disponível no repositório público Classificacao-de-livros. A referência ao repositório tcc-files acima registra a origem histórica do código consultado. Para citar uma versão fixa, use o endereço do pacote com o hash do commit.
 
 Este é o pacote histórico de outubro, preservado para rastreabilidade. A [nova rodada auditável com três sementes](../2026-11-22-audit-retraining/README.md) está concluída e é distribuída separadamente. Não misturar suas previsões nem suas amostras de erro com as deste pacote.
 

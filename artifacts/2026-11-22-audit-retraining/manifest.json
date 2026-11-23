@@ -7,14 +7,13 @@
     43,
     44
   ],
-  "visibility": "private",
   "limitations": [
     "Teste já examinado anteriormente; não é teste externo independente.",
     "Artefatos LLM são referência histórica.",
     "Checkpoints, dumps e respostas brutas não são distribuídos."
   ],
   "file_count": 125,
-  "total_bytes": 12807183,
+  "total_bytes": 12807178,
   "files": [
     {
       "path": "seed_42/prepared/train.csv",
@@ -886,9 +885,9 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 5424,
-      "sha256": "bf1b81f65a94e2debc7cf563e71d59e3572f1a6a013ef2f988711357a9320867",
-      "source_sha256": "bf1b81f65a94e2debc7cf563e71d59e3572f1a6a013ef2f988711357a9320867",
+      "size_bytes": 5419,
+      "sha256": "33d50c3617be935b54c656800e86e099b79a541cca198cd3ff6afd3a4ef64a0b",
+      "source_sha256": "33d50c3617be935b54c656800e86e099b79a541cca198cd3ff6afd3a4ef64a0b",
       "transformation": "copy"
     }
   ]

@@ -12,14 +12,14 @@
     "Title-overlap sensitivity is post-hoc and does not establish bibliographic duplication."
   ],
   "file_count": 63,
-  "total_bytes": 7265920,
+  "total_bytes": 7265928,
   "files": [
     {
       "path": "README.md",
-      "size_bytes": 7544,
-      "sha256": "ed4b3b1299844089f57ba63fe05ac382447028a4d9e7c02c2a5c2583b7f58d04",
+      "size_bytes": 7552,
+      "sha256": "5ab5f179115bf8afc779f3e293bb0d81b2314a82ec9cf56dffae818ee760756d",
       "source_path": "tcc-pipeline/tools/final_artifacts_README.md",
-      "source_sha256": "ed4b3b1299844089f57ba63fe05ac382447028a4d9e7c02c2a5c2583b7f58d04",
+      "source_sha256": "5ab5f179115bf8afc779f3e293bb0d81b2314a82ec9cf56dffae818ee760756d",
       "transformation": "unchanged copy"
     },
     {

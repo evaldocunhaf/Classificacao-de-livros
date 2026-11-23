@@ -2,7 +2,7 @@
 
 Este pacote corresponde ao retreinamento documentado iniciado na revisão de 22/11/2026. Os manifestos contêm os horários UTC efetivos. O código-base dos classificadores é o commit `564ef1aaaf9ec72f15797459a29f4d3b8d6c160b`; as funções de classificação não foram alteradas para essa rodada.
 
-O repositório permanece privado. O proprietário precisa conceder acesso aos avaliadores; publicar uma branch não envia convites nem torna o material público.
+Este pacote está disponível no repositório público Classificacao-de-livros. Para citar uma versão fixa, use o endereço do pacote com o hash do commit.
 
 ## Desenho e interpretação
 

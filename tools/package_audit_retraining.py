@@ -72,7 +72,7 @@ def main():
             writer.writerows({k:r[k] for k in fields} for r in reader);data=result.getvalue().encode()
         target=dest/name;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(data)
         records.append(dict(path=name,size_bytes=len(data),sha256=digest(data),source_sha256=digest(original),transformation=mode))
-    m=dict(schema_version=1,run='2026-11-22-audit-retraining',source_code_commit='564ef1aaaf9ec72f15797459a29f4d3b8d6c160b',primary_seed=42,replication_seeds=[43,44],visibility='private',limitations=['Teste já examinado anteriormente; não é teste externo independente.','Artefatos LLM são referência histórica.','Checkpoints, dumps e respostas brutas não são distribuídos.'],file_count=len(records),total_bytes=sum(r['size_bytes'] for r in records),files=records)
+    m=dict(schema_version=1,run='2026-11-22-audit-retraining',source_code_commit='564ef1aaaf9ec72f15797459a29f4d3b8d6c160b',primary_seed=42,replication_seeds=[43,44],limitations=['Teste já examinado anteriormente; não é teste externo independente.','Artefatos LLM são referência histórica.','Checkpoints, dumps e respostas brutas não são distribuídos.'],file_count=len(records),total_bytes=sum(r['size_bytes'] for r in records),files=records)
     (dest/'manifest.json').write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps({k:m[k] for k in ['file_count','total_bytes','primary_seed','replication_seeds']}))
 
